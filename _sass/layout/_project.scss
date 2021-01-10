@@ -1,0 +1,25 @@
+.project-text {
+
+  h4 {
+    font-size: 2em;
+    font-style: normal;
+    font-weight: 300;
+    font-family: Didot;
+    text-align: center;
+    letter-spacing: -1px;
+    color: $modal-title-color;
+    margin-top: 15px;
+
+    &:after {
+      content: "";
+      display: block;
+      width: 70%;
+      margin-top: 15px;
+      border-bottom: 0.1px solid $modal-title-line-color;
+      position: absolute;
+      left: 15%;
+    }
+
+  }
+
+}

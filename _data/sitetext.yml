@@ -1,0 +1,26 @@
+header:
+    title: Welcome to In Land of Food!
+    text: I hope you're hungry!
+
+starters:
+    title: "Starters"
+    text: "A collection of tasty starters."
+    section: starters
+
+mains:
+    title: "Mains"
+    text: "A collection of tasty mains."
+    section: mains
+
+desserts:
+    title: "Desserts"
+    text: "A collection of tasty desserts."
+    section: desserts
+
+drinks:
+    title: "Drinks"
+    text: "A collection of tasty drinks."
+    section: drinks
+
+portfolio:
+    closebutton: "Bye Bye"

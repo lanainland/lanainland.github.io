@@ -1,0 +1,12 @@
+nav:
+  - title: "Starters"
+    section: starters
+
+  - title: "Mains"
+    section: mains
+
+  - title: "Desserts"
+    section: desserts
+
+  - title: "Drinks"
+    section: drinks
