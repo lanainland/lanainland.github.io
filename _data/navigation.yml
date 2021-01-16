@@ -1,12 +1,9 @@
 nav:
-  - title: "Starters"
-    section: starters
+  - title: "Savouries"
+    section: savouries
 
-  - title: "Mains"
-    section: mains
-
-  - title: "Desserts"
-    section: desserts
+  - title: "Sweets"
+    section: sweets
 
   - title: "Drinks"
     section: drinks

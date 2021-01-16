@@ -1,26 +1,18 @@
 header:
-    title: Welcome to In Land of Food!
+    title: Welcome to Lana In Land of Food!
     text: I hope you're hungry!
 
-starters:
-    title: "Starters"
-    text: "A collection of tasty starters."
-    section: starters
+savouries:
+    title: "Savouries"
+    text: "A collection of savoury treats."
+    section: savouries
 
-mains:
-    title: "Mains"
-    text: "A collection of tasty mains."
-    section: mains
-
-desserts:
-    title: "Desserts"
-    text: "A collection of tasty desserts."
-    section: desserts
+sweets:
+    title: "Sweets"
+    text: "A collection of sweet treats."
+    section: sweets
 
 drinks:
     title: "Drinks"
     text: "A collection of tasty drinks."
     section: drinks
-
-portfolio:
-    closebutton: "Bye Bye"

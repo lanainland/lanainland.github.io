@@ -16,9 +16,8 @@ analytics:
 image_path: ./assets/img
 
 collections:
-  starters:
-  mains:
-  desserts:
+  savouries:
+  sweets:
   drinks:
 
 markdown: kramdown
