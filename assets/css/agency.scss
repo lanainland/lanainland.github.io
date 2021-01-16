@@ -6,7 +6,27 @@
 @import "base/mixins.scss";
 
 // Custom colors
-$primary: {{ site.data.style.highlight | default: "#fed136" }} !default;
+$site-title: {{ site.data.style.site-title }} !default;
+$site-title-hov: {{ site.data.style.site-title-hov }} !default;
+
+$nav: {{ site.data.style.nav }} !default;
+$nav-hov: {{ site.data.style.nav-hov }} !default;
+
+$lead-in: {{ site.data.style.lead-in }} !default;
+$heading: {{ site.data.style.heading }} !default;
+
+$section: {{ site.data.style.section }} !default;
+$recipe-title: {{ site.data.style.recipe-title }} !default;
+$h-colour: {{ site.data.style.h-colour }} !default;
+$line-colour: {{ site.data.style.line-colour }} !default;
+
+$body-colour: {{ site.data.style.body-colour }} !default;
+$link-colour: {{ site.data.style.link-colour }} !default;
+
+$button-colour: {{ site.data.style.button-colour }} !default;
+
+$highlight: {{ site.data.style.highlight }} !default;
+
 $white: {{ site.data.style.white | default: "#fff" }} !default;
 $black: {{ site.data.style.black | default: "#000" }} !default;
 

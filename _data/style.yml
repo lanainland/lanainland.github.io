@@ -1,7 +1,22 @@
-#Color Customization
-#highlight: "#54bfff"
-#white: "#FF0000"
-#black: "#000"
-
-#Image Customization
+#Navigation
 header-image: "../img/starters/fig_salad2.jpg"
+site-title: "#FFF"
+site-title-hov: "#FCC3B0"
+nav: "#FFF"
+nav-hov: "#EB998E"
+
+# Header
+lead-in: "#FFF"
+heading: "#FFF"
+
+# Recipes
+section: "#212529"
+recipe-title: "#212529"
+line-colour: "#BEBEBE"
+button-colour: "#7F7F7F"
+
+# General
+body-colour: "#7F7F7F"
+link-colour: "#EB998E"
+h-colour: "#535353"
+highlight: "#EB998E"

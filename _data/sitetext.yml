@@ -4,15 +4,18 @@ header:
 
 savouries:
     title: "Savouries"
-    text: "A collection of savoury treats."
+    text: "Breads, starters, mains and more"
     section: savouries
 
 sweets:
     title: "Sweets"
-    text: "A collection of sweet treats."
+    text: "Cakes, biscuits and other treats"
     section: sweets
 
 drinks:
     title: "Drinks"
-    text: "A collection of tasty drinks."
+    text: "Cocktails and smoothies"
     section: drinks
+
+button:
+  text: "CLOSE"

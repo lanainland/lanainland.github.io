@@ -1,8 +1,8 @@
 // Global styling for this template
 body {
   overflow-x: hidden;
+  color: $body-colour;
   @include body-font;
-  font-weight: 200;
 }
 
 p {
@@ -10,15 +10,12 @@ p {
 }
 
 a {
-  color: $primary;
+  color: $link-colour;
   &:hover {
-    color: darken($primary, 10%);
+    color: darken($link-colour, 10%);
   }
 }
 
-// .text-primary {
-//   color: $primary !important;
-// }
 
 h1,
 h2,
@@ -26,16 +23,17 @@ h3,
 h4,
 h5,
 h6 {
-  font-weight: 700;
-  @include heading-font;
+  color: $h-colour;
 }
 
 .page-section {
   padding: 0 0;
   h2.section-heading {
-    font-size: 40px;
+    font-size: 35px;
     margin-top: 0;
     margin-bottom: 15px;
+    color: $section;
+    @include section-font;
   }
   h3.section-subheading {
     font-size: 16px;
@@ -43,7 +41,6 @@ h6 {
     font-style: italic;
     margin-bottom: 75px;
     text-transform: none;
-    @include serif-font;
   }
 }
 @media(min-width:768px) {
@@ -54,12 +51,12 @@ h6 {
 
 // Highlight color customization
 ::-moz-selection {
-  background: $primary;
+  background: $highlight;
   text-shadow: none;
 }
 
 ::selection {
-  background: $primary;
+  background: $highlight;
   text-shadow: none;
 }
 
