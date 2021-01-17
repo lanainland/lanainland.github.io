@@ -76,7 +76,7 @@
     max-width: 100vw;
   }
   .modal-content {
-    padding: 10px 0;
+    padding: 0px 0;
     text-align: left;
     h1 {
       color: $recipe-title;
@@ -98,6 +98,7 @@
       font-weight: 700;
       text-transform: uppercase;
       margin-bottom: 15px;
+      margin-top: 30px;
       text-align: center;
     }
     h3 {

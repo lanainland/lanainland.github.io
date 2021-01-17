@@ -1,13 +1,9 @@
 ---
 title: Pineapple Cake
-image: desserts/pineapple.jpg
-alt: Pineapple Upside Down Cake
-category: desserts
-
-caption:
-  title: Pineapple Cake
-  subtitle:
-  thumbnail: desserts/pineapple_thumb.jpg
+image: sweets/pineapple.jpg
+thumbnail: sweets/pineapple_thumb.jpg
+alt: pineapple upside down cake
+category: sweets
 ---
 
 ## Ingredients

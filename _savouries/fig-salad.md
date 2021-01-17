@@ -1,17 +1,11 @@
 ---
 title: Fig Salad
-subtitle:
-image: starters/fig_salad2.jpg
-alt: Pineapple Upside Down Cake
-category: starters
-
-caption:
-  title: Fig Salad
-  subtitle:
-  thumbnail: starters/fig_salad2_thumb.jpg
+image: savouries/fig_salad.jpg
+thumbnail: savouries/fig_salad_thumb.jpg
+alt: fig salad
+category: savouries
 ---
 
 ## Ingredients
-
 
 ## Instructions

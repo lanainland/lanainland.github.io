@@ -19,3 +19,11 @@ drinks:
 
 button:
   text: "CLOSE"
+
+footer:
+  legal: 
+  social:
+    - url: https://www.instagram.com/lanainland/
+      icon: "fab fa-instagram"
+    - url: https://www.pinterest.cl/lanainland
+      icon: "fab fa-pinterest"

@@ -1,14 +1,11 @@
 ---
 title: Raspberry Tart
-subtitle:
-image: desserts/raspberry_tart.jpg
+image: sweets/raspberry_tart.jpg
+thumbnail: sweets/raspberry_tart_thumb.jpg
 alt: raspberry tart
-category: desserts
-
-caption:
-  title: Raspberry Tart
-  subtitle:
-  thumbnail: desserts/raspberry_tart_thumb.jpg
+category: sweets
 ---
 
 ## Ingredients
+
+## Instructions

@@ -1,13 +1,18 @@
 #Navigation
-header-image: "../img/starters/fig_salad2.jpg"
 site-title: "#FFF"
 site-title-hov: "#FCC3B0"
 nav: "#FFF"
 nav-hov: "#EB998E"
+nav-background: "#212529"
 
 # Header
+header-image: "../img/savouries/fig_salad.jpg"
 lead-in: "#FFF"
 heading: "#FFF"
+
+# Footer
+footer-text: "#FFF"
+footer-background: "#212529"
 
 # Recipes
 section: "#212529"
