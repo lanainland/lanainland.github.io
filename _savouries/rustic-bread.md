@@ -6,6 +6,8 @@ alt: rustic bread
 category: savouries
 ---
 
+##### Serves 8
+
 ## Ingredients
 
 - 1 - 1 1/2 cup warm water
