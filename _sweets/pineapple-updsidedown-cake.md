@@ -6,6 +6,8 @@ alt: pineapple upside down cake
 category: sweets
 ---
 
+Serves 8
+
 ## Ingredients
 
 ### Topping
