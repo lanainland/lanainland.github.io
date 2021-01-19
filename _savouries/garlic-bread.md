@@ -15,10 +15,10 @@ category: savouries
 - 1/2 cup warm water
 - 1 tbsp sugar
 - 1 tsp active dry yeast
-- 1 tbsp unsalted butter softened
+- 1 tbsp unsalted butter
 - 1/2 cup milk
 - 1 1/4 tsp salt
-- 5-5 1/2 cups flour
+- 2 1/2-3/4 cups flour
 
 ### Topping
 
