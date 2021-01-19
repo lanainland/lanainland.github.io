@@ -6,6 +6,8 @@ alt: broccoli soup
 category: savouries
 ---
 
+Serves 2
+
 ## Ingredients
 
 - 3 spring onions (save some for topping)
