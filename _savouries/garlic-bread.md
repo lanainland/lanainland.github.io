@@ -37,5 +37,5 @@ category: savouries
 1. Cut dough into small pieces and shape into dough balls.
 1. Dip each into butter mixture and place into a round cake pan or a bread pan.
 1. Cover and let stand for an hour.
-1. Preheat oven to 180 C and bake for 25-30 minutes.
+1. Preheat oven to 180°C and bake for 25-30 minutes.
 1. Brush lightly with butter and sprinkle some salt.
