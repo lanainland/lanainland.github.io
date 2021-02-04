@@ -6,7 +6,7 @@ alt: rustic bread
 category: savouries
 ---
 
-##### Serves 8
+**Serves 8**
 
 ## Ingredients
 
