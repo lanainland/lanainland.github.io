@@ -23,7 +23,7 @@ category: savouries
 
 ## Instructions
 
-1. Preheat oven to 200 C. 
+1. Preheat oven to 200°C. 
 1. Cut broccoli into bite sized florets, place them in an oven dish and coat well with olive oil. Add some salt and pepper and mix. 
 1. Roast in the oven for 15-20 minutes or until they are golden and slightly crispy around the edges.
 1. Sautée spring onions in olive oil until golden, then add mushrooms. (save some mushrooms and broccoli for topping)
