@@ -49,7 +49,7 @@ Coarse salt
 
 1. Let stand uncovered for 30 min then another 30minutes in the fridge.
 
-1. Preheat oven to 200 degrees.
+1. Preheat oven to 200°C.
 
 1. For the topping, bring water to a boil, reduce heat and add soda.
 
