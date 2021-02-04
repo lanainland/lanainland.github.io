@@ -23,9 +23,9 @@ category: savouries
 ### Topping
 
 - 4 tbsp melted butter
-- 1/6 cup fresh parsley finely chopped
+- 1/6 cup fresh parsley, finely chopped
 - 1 tsp dried oregano
-- 2 medium or 3 small cloves garlic minced
+- 2 medium or 3 small cloves garlic, minced
 - 1 tsp salt
 
 ## Instructions
