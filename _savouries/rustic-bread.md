@@ -37,7 +37,7 @@ There are two methods for baking:
 
 Or:
 
-8. Preheat oven to 230 C.
+8. Preheat oven to 230°C.
 9. Transfer the dough onto an oven tray lined with baking paper and place a water filled tray below. 
 10. Bake for 45 minutes.
 
