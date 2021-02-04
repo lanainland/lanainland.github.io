@@ -6,7 +6,7 @@ alt: broccoli soup
 category: savouries
 ---
 
-##### Serves 2
+**Serves 2**
 
 ## Ingredients
 
