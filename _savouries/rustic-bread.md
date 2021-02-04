@@ -40,4 +40,5 @@ Or:
 8. Preheat oven to 230 C.
 9. Transfer the dough onto an oven tray lined with baking paper and place a water filled tray below. 
 10. Bake for 45 minutes.
-11. Transfer the bread to a cooling rack and let cool slightly before cutting.
+
+Transfer the bread to a cooling rack and let cool slightly before cutting.
