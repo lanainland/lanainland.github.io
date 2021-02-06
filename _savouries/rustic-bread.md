@@ -1,7 +1,7 @@
 ---
 title: Rustic Bread
 image: savouries/rustic_bread.jpg
-thumbnail: savouries/rustic_bread_thumb.jpg
+thumbnail: savouries/rustic_bread_thumb_lq.jpg
 alt: rustic bread
 category: savouries
 ---
@@ -38,7 +38,7 @@ There are two methods for baking:
 Or:
 
 8. Preheat oven to 230°C.
-9. Transfer the dough onto an oven tray lined with baking paper and place a water filled tray below. 
+9. Transfer the dough onto an oven tray lined with baking paper and place a water filled tray below.
 10. Bake for 45 minutes.
 
 Transfer the bread to a cooling rack and let cool slightly before cutting.

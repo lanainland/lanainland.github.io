@@ -5,9 +5,13 @@ body {
   @include body-font;
 }
 
-p {
-  line-height: 1.75;
+strong {
+  font-weight: 600;
 }
+
+// p {
+//   line-height: 1.75;
+// }
 
 a {
   color: $link-colour;

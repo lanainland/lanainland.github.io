@@ -10,8 +10,7 @@
                 <div class="modal-site-title">Lana In Land</div>
                 <img class="img-fluid d-block mx-auto" src="{{ site.image_path }}/{{ project.image }}" alt="{{ project.alt }}">
                 <h1>{{ project.title }}</h1>
-                <p class="item-intro text-muted">{{ project.subtitle }}</p>
-                <p>{{ project.content }}</p>
+                {{ project.content }}
                 <button class="btn btn-primary" data-dismiss="modal" type="button">
                   {{ site.data.sitetext.button.text}}
                 </button>

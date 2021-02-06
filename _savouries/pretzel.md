@@ -1,7 +1,7 @@
 ---
 title: Pretzels
 image: savouries/pretzel.jpg
-thumbnail: savouries/pretzel_thumb.jpg
+thumbnail: savouries/pretzel_thumb_lq.jpg
 alt: pretzels
 category: savouries
 ---

@@ -1,7 +1,7 @@
 ---
 title: Pineapple Cake
 image: sweets/pineapple.jpg
-thumbnail: sweets/pineapple_thumb.jpg
+thumbnail: sweets/pineapple_thumb_lq.jpg
 alt: pineapple upside down cake
 category: sweets
 ---
