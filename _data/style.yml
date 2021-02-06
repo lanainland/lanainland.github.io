@@ -6,7 +6,7 @@ nav-hov: "#EB998E"
 nav-background: "#212529"
 
 # Header
-header-image: "../img/savouries/fig_salad.jpg"
+header-image: "../img/savouries/fig_salad_lq.jpg"
 lead-in: "#FFF"
 heading: "#FFF"
 
