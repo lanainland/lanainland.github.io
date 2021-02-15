@@ -22,7 +22,7 @@ category: sweets
 - 1 tbsp icing sugar
 - 1 tsp vanilla
 
-###Scones
+### Scones
 
 -  2 cups flour
 - 1/8 cups sugar
@@ -59,7 +59,8 @@ The dough should be shaggy at this point.
 1. Place the dough onto a floured surface and pat down to a 2 centimetre thickness.
 1. Cut circles using a cookie cutter. Press down into the dough without twisting the cutter.
 1. Transfer to a baking tray lined with baking paper.
-1. Brush tops with some almond milk. Sprinkle with sugar (optional).
+1. Brush tops with some almond milk.
+1. Sprinkle with sugar (optional).
 1. Bake for 15-20 minutes or until golden on top.
 1. Allow to cool before assembly.
 
