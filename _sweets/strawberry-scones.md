@@ -24,7 +24,7 @@ category: sweets
 
 ### Scones
 
--  2 cups flour
+- 2 cups flour
 - 1/8 cups sugar
 - 3/4 tbsp baking powder
 - 1/8 tsp baking soda
