@@ -12,12 +12,12 @@ category: savouries
 
 ### Dough
 
-2 cups flour
-2 tsp yeast
-1 tsp salt
-3/4 tsp sugar
-2 tbsp melted butter
-3/4 cups warm water
+- 2 tsp yeast
+- 3/4 tsp sugar
+- 3/4 cups warm water
+- 2 tbsp melted butter
+- 2 cups flour
+- 1 tsp salt
 
 ### Topping
 
@@ -34,10 +34,10 @@ Coarse salt
 1. Add the salt and knead for several minutes, until the dough is smooth and elastic.
 1. Divide the dough into 6 portions and shape into balls.
 1. Let stand for 10-15 minutes.
-1. Roll out each ball to a 60-70cm rope, leaving the middle thicker than the ends.
+1. Roll out each ball to a 60 centimetre rope, leaving the middle thicker than the ends.
 1. Form a V shape, take the ends and make a twist (several centimetres from the ends).
 1. Press the ends onto the sides of the pretzel.
-1. Let stand uncovered for 30 min then another 30minutes in the fridge.
+1. Let stand uncovered for 30 minutes then another 30 minutes in the fridge.
 1. Preheat oven to 200°C.
 1. For the topping, bring water to a boil, reduce heat and add soda.
 1. Dip each pretzel for 5-10 seconds into the water and put them on a baking sheet.
