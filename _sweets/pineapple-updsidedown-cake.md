@@ -38,7 +38,7 @@ category: sweets
 
 ### Cake
 
-1. Preheat oven to 180 C.
+1. Preheat oven to 180°C.
 1. In a large bowl, sift the dry ingredients together (if using sugar, add it here) and mix.
 1. Add butter gradually while mixing. In another bowl, mix together the wet ingredients (if using honey add it here).
 1. Add the wet ingredients to the dry ingredients.
