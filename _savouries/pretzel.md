@@ -6,7 +6,7 @@ alt: pretzels
 category: savouries
 ---
 
-**Serves 4**
+**Serves 4-6**
 
 ## Ingredients
 
