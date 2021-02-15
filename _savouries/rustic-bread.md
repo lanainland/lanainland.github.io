@@ -17,7 +17,7 @@ category: savouries
 - 1 tbsp vinegar
 - 1 tsp salt
 - 3 cups white flour (or substitute 1 cup whole wheat flour for a more rustic flavour)
-- 1/2 cup of any combination of seeds (pumpkin, sunflower, sesame, chia or linseeds)
+- 1/2 cup of any combination of seeds - pumpkin, sunflower, sesame, chia or linseeds
 
 ## Instructions
 
