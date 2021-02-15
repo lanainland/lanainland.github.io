@@ -46,6 +46,7 @@ category: sweets
 
 1. Whip coconut cream for several minutes.
 1. Add icing sugar and vanilla and mix for another minute.
+1. Set aside in the fridge.
 
 ### Scones
 
