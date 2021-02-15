@@ -1,7 +1,7 @@
 ---
 title: Spinach and Pea Soup
 image: savouries/spinachpea_soup.jpeg
-thumbnail: savouries/spinachpea_soup_thumb_lq.jpeg
+thumbnail: savouries/spinachpea_soup_thumb_lq.jpg
 alt: spinach and pea soup
 category: savouries
 ---
