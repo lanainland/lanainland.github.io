@@ -24,7 +24,7 @@ category: savouries
 1. Mix yeast, sugar and water and let sit for 5 minutes.
 2. Add olive oil and vinegar and mix.
 3. Combine flour and salt separately and add to the yeast mixture gradually.
-4. Add in seeds and mix well. The dough should be very sticky and wet at this point.
+4. Add in seeds and mix well. The dough should be very sticky at this point.
 5. Cover and let rise at room temperature for at least an hour (or in the fridge overnight for bigger air pockets).
 6. Place dough on a well floured surface and fold it over several times - no need to knead!
 7. Once it is well coated with flour, shape dough into a ball.
