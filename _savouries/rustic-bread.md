@@ -1,6 +1,6 @@
 ---
 title: Rustic Bread
-image: savouries/rustic_bread.jpg
+image: savouries/rustic_bread.jpeg
 thumbnail: savouries/rustic_bread_thumb_lq.jpg
 alt: rustic bread
 category: savouries
