@@ -31,7 +31,7 @@ category: savouries
 
 There are two methods for baking:
 
-8. Place a Dutch oven or an oven proof pot with a lid in your oven and heat to 200 C.
+8. Place a Dutch oven or an oven proof pot with a lid in your oven and heat to 200°C.
 9. Take the pot out of the oven and place the dough inside. Cover and bake for 30 minutes.
 10. Remove lid and bake for another 15 minutes.
 
