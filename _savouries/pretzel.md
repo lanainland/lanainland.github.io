@@ -21,9 +21,9 @@ category: savouries
 
 ### Topping
 
-1/4 cups baking soda
-3 cups water
-Coarse salt
+- 1/4 cups baking soda
+- 3 cups water
+- Coarse salt
 
 ## Instructions
 
