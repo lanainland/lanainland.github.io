@@ -28,7 +28,7 @@ category: savouries
 1. Add some salt and pepper and mix. 
 1. Roast in the oven for 15-20 minutes or until they are golden and slightly crispy around the edges.
 1. Cut up spring onions and save some of the green slices for topping.
-1. Sautée spring onions in olive oil until golden.
+1. Sauté spring onions in olive oil until golden.
 1. Add garlic and cook for one minute.
 1. Add mushrooms and cook for a few minutes.
 1. Mix in roast broccoli.
