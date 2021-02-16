@@ -6,15 +6,17 @@ alt: smoothies
 category: drinks
 ---
 
+** Serves 1**
+
 ## Ingredients
 
-### Berry smoothie
+Berry smoothie
 
 - 1 Banana
 - 1/4 cup frozen raspberries (or strawberries)
 - 1 cup or 250 ml almond milk
 
-### Banana and oats smoothie
+Banana and oats smoothie
 
 - 1 Banana
 - 1/4 cup ice
