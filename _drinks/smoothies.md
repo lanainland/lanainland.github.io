@@ -10,7 +10,7 @@ category: drinks
 
 ## Ingredients
 
-Berry smoothie
+### Berry smoothie
 
 - 1 Banana
 - 1/4 cup frozen raspberries (or strawberries)
