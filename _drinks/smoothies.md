@@ -1,7 +1,7 @@
 ---
 title: Smoothies
 image: drinks/smoothies.jpg
-thumbnail: drinks/smoothies_thumb_lq.jpg
+thumbnail: drinks/smoothies2_thumb_lq.jpg
 alt: smoothies
 category: drinks
 ---
