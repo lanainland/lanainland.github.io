@@ -13,7 +13,7 @@ category: drinks
 ### Berry smoothie
 
 - 1 Banana
-- 1/4 cup frozen raspberries (or strawberries)
+- 1/4 cup frozen berries (raspberries, blueberries or strawberries)
 - 1 cup or 250 ml almond milk
 
 ### Banana and oats smoothie
