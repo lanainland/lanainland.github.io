@@ -1,8 +1,8 @@
 ---
-title: Pinoffee Pie
-image: sweets/pinoffee_pie.jpg
-thumbnail: sweets/pinoffee_pie_thumb_lq.jpg
-alt: pinoffee pie
+title: Pecan Bars
+image: sweets/pecan_bars.jpg
+thumbnail: sweets/pecan_bars_thumb_lq.jpg
+alt: pecan bars
 category: sweets
 ---
 
