@@ -8,4 +8,10 @@ category: drinks
 
 ## Ingredients
 
+- Tequila
+- Triple sec
+- Lime juice
+- Strawberries
+- Coarse salt
+
 ## Instructions
