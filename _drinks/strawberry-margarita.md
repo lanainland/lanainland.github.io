@@ -15,3 +15,5 @@ category: drinks
 - Coarse salt
 
 ## Instructions
+
+1. Add all ingredients to a cocktail shaker.
