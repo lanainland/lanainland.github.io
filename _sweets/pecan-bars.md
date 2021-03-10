@@ -43,6 +43,6 @@ While the crust is in the oven, start on the topping.
 1. Melt sugar and butter on low heat.
 1. Pour coconut cream and simmer until thickened, 20 to 30 minutes. Stir continuously to prevent sticking.
 1. Add pecans and mix well.
+1. Spread the pecan mixture on top of the crust.
 
-Spread the pecan mixture on top of the crust and return to the oven or another 20 minutes.
-Let cool before cutting.
+Bake for another 20 minutes and let cool before cutting.
