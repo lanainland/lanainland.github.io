@@ -1,6 +1,6 @@
 header:
-    title: Welcome to Lana In Land of Food!
-    text: I hope you're hungry!
+    title: Welcome to Lana In Land!
+    text: Hope you have fun!
 
 savouries:
     title: "Savouries"
@@ -17,11 +17,16 @@ drinks:
     text: "Cocktails and smoothies"
     section: drinks
 
+nature:
+    title: "Nature"
+    text: "Plants and animals"
+    section: nature
+
 button:
   text: "CLOSE"
 
 footer:
-  legal: 
+  legal:
   social:
     - url: https://www.instagram.com/lanainland/
       icon: "fab fa-instagram"

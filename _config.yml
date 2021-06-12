@@ -17,5 +17,6 @@ collections:
   savouries:
   sweets:
   drinks:
+  nature:
 
 markdown: kramdown
