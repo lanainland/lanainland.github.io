@@ -36,7 +36,13 @@ $white: {{ site.data.style.white | default: "#fff" }} !default;
 $black: {{ site.data.style.black | default: "#000" }} !default;
 
 // Custom Images
-$header-image: "{{ site.data.style.header-image }}";
+$header-image-index: "{{ site.data.style.header-image.index }}";
+$header-image-food: "{{ site.data.style.header-image.food }}";
+$header-image-travel: "{{ site.data.style.header-image.travel }}";
+$header-image-photography: "{{ site.data.style.header-image.photography }}";
+$header-image-design: "{{ site.data.style.header-image.design }}";
+$header-image-diy: "{{ site.data.style.header-image.diy }}";
+$header-image-art: "{{ site.data.style.header-image.art }}";
 $contact-image: "{{ site.data.style.contact-image }}";
 
 // Global CSS

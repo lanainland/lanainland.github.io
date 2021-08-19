@@ -1,3 +1,4 @@
 ---
-layout: food
+layout: subsection
+title: food
 ---

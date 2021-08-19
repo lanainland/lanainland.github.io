@@ -1,3 +1,4 @@
 ---
-layout: travel
+layout: subsection
+title: travel
 ---

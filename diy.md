@@ -1,3 +1,4 @@
 ---
-layout: diy
+layout: subsection
+title: diy
 ---

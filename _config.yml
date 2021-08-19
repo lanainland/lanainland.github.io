@@ -14,9 +14,11 @@ analytics:
 image_path: ./assets/img
 
 collections:
-  savouries:
-  sweets:
-  drinks:
-  nature:
+  food:
+  travel:
+  photography:
+  design:
+  diy:
+  art:
 
 markdown: kramdown

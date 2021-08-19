@@ -1,26 +1,30 @@
 header:
-    title: Welcome to Lana In Land!
-    text: Hope you have fun!
+  title: Welcome to Lana In Land!
+  text: Hope you have fun!
 
-savouries:
-    title: "Savouries"
-    text: "Breads, starters, mains and more"
-    section: savouries
+food:
+- title: "Savouries"
+  text: "Breads, starters, mains and more"
+  category: savouries
+- title: "Sweets"
+  text: "Cakes, biscuits and other treats"
+  category: sweets
+- title: "Drinks"
+  text: "Cocktails and smoothies"
+  category: drinks
 
-sweets:
-    title: "Sweets"
-    text: "Cakes, biscuits and other treats"
-    section: sweets
+travel:
 
-drinks:
-    title: "Drinks"
-    text: "Cocktails and smoothies"
-    section: drinks
+photography:
+- title: "Nature"
+  text: "Plants and animals"
+  category: nature
 
-nature:
-    title: "Nature"
-    text: "Plants and animals"
-    section: nature
+design:
+
+diy:
+
+art:
 
 button:
   text: "CLOSE"

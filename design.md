@@ -1,3 +1,4 @@
 ---
-layout: design
+layout: subsection
+title: design
 ---

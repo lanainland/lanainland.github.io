@@ -1,3 +1,4 @@
 ---
-layout: art
+layout: subsection
+title: art
 ---

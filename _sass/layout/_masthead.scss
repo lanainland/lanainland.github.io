@@ -1,8 +1,8 @@
 // Styling for the masthead
-header.masthead {
+
+@mixin header-main {
   text-align: center;
   color: white;
-  background-image: url("#{$header-image}");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -26,25 +26,94 @@ header.masthead {
     }
   }
 }
+
+@mixin header-media {
+  .intro-text {
+    padding-top: 300px;
+    padding-bottom: 200px;
+    .intro-lead-in {
+      font-size: 36px;
+      line-height: 40px;
+      margin-bottom: 25px;
+      color: $lead-in;
+      @include lead-in-font;
+    }
+    .intro-heading {
+      font-size: 55px;
+      line-height: 75px;
+      margin-bottom: 50px;
+      color: $heading;
+      @include heading-font;
+    }
+  }
+}
+
+header.masthead {
+  background-image: url("#{$header-image-index}");
+  @include header-main;
+}
 @media(min-width:768px) {
   header.masthead {
-    .intro-text {
-      padding-top: 300px;
-      padding-bottom: 200px;
-      .intro-lead-in {
-        font-size: 36px;
-        line-height: 40px;
-        margin-bottom: 25px;
-        color: $lead-in;
-        @include lead-in-font;
-      }
-      .intro-heading {
-        font-size: 55px;
-        line-height: 75px;
-        margin-bottom: 50px;
-        color: $heading;
-        @include heading-font;
-      }
-    }
+    @include header-media;
+  }
+}
+
+header.food {
+  background-image: url("#{$header-image-food}");
+  @include header-main;
+}
+@media(min-width:768px) {
+  header.food {
+    @include header-media;
+  }
+}
+
+header.travel {
+  background-image: url("#{$header-image-travel}");
+  @include header-main;
+}
+@media(min-width:768px) {
+  header.travel {
+    @include header-media;
+  }
+}
+
+header.photography {
+  background-image: url("#{$header-image-photography}");
+  @include header-main;
+}
+@media(min-width:768px) {
+  header.photography {
+    @include header-media;
+  }
+}
+
+header.design {
+  background-image: url("#{$header-image-design}");
+  @include header-main;
+}
+@media(min-width:768px) {
+  header.design {
+    @include header-media;
+  }
+}
+
+header.diy {
+  background-image: url("#{$header-image-diy}");
+  @include header-main;
+}
+@media(min-width:768px) {
+  header.diy {
+    @include header-media;
+  }
+}
+
+header.art {
+  background-image: url("#{$header-image-art}");
+  @include header-main;
+}
+@media(min-width:768px) {
+  header.art {
+    @include header-media;
   }
 }

@@ -1,3 +1,4 @@
 ---
-layout: photography
+layout: subsection
+title: photography
 ---
