@@ -1,9 +1,17 @@
-#Navigation
+# Navigation
 site-title: "#FFF"
 site-title-hov: "#FCC3B0"
 nav: "#FFF"
 nav-hov: "#EB998E"
 nav-background: "#212529"
+
+# Submenu
+submenu-background: "#F8F9FA"
+
+# Back-to-top Button
+btt: "#EB998E"
+btt-hov: "#212529"
+btt-act: "#FCC3B0"
 
 # Header
 header-image:
@@ -14,7 +22,6 @@ header-image:
   design: "../img/design/design.jpg"
   diy: "../img/diy/diy.jpg"
   art: "../img/art/art.jpg"
-lead-in: "#FFF"
 heading: "#FFF"
 
 # Footer

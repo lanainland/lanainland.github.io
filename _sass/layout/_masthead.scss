@@ -10,16 +10,9 @@
   .intro-text {
     padding-top: 150px;
     padding-bottom: 100px;
-    .intro-lead-in {
-      font-size: 22px;
-      line-height: 22px;
-      margin-bottom: 25px;
-      color: $lead-in;
-      @include lead-in-font;
-    }
     .intro-heading {
-      font-size: 40px;
-      line-height: 50px;
+      font-size: 28px;
+      line-height: 22px;
       margin-bottom: 25px;
       color: $heading;
       @include heading-font;
@@ -31,17 +24,10 @@
   .intro-text {
     padding-top: 300px;
     padding-bottom: 200px;
-    .intro-lead-in {
-      font-size: 36px;
+    .intro-heading {
+      font-size: 50px;
       line-height: 40px;
       margin-bottom: 25px;
-      color: $lead-in;
-      @include lead-in-font;
-    }
-    .intro-heading {
-      font-size: 55px;
-      line-height: 75px;
-      margin-bottom: 50px;
       color: $heading;
       @include heading-font;
     }

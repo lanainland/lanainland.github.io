@@ -71,3 +71,10 @@ img::selection {
 img::-moz-selection {
   background: transparent;
 }
+
+img {
+  display: block;
+  margin: 0 auto;
+  max-height: 80%;
+  max-width: 100%;
+}

@@ -1,0 +1,26 @@
+.submenu-ul {
+  overflow: hidden;
+  text-align: center;
+  padding-left: 20px;
+  .submenu-li {
+    display: inline-block;
+    padding-right: 20px;
+    .submenu-a {
+      // font-size: 90%;
+      // font-weight: 400;
+      letter-spacing: 1px;
+      // color: $nav;
+      // @include nav-font;
+      // &.active,
+      // &:hover {
+      //   color: $nav-hov;
+      // }
+    }
+  }
+}
+
+.submenu-container {
+  background-color: $submenu-background;
+  padding-top: 17px;
+  padding-bottom: 2px;
+}
