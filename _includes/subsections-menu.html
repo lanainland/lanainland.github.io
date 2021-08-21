@@ -1,9 +1,11 @@
-<div class="submenu-container">
-  <ul class="submenu-ul text-uppercase ml-auto">
-    {% for section in site.data.sitetext[page.title] %}
-      <li class="submenu-li">
-        <a class="submenu-a js-scroll-trigger" href="#{{ section.category }}">{{ section.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
+<section class="bg-light" style="padding-top: 0px; padding-bottom: 0px;">
+  <div class="container submenu-container">
+    <ul class="submenu-ul text-uppercase ml-auto">
+      {% for section in site.data.sitetext[page.title] %}
+        <li class="submenu-li">
+          <a class="submenu-a js-scroll-trigger" href="#{{ section.category }}">{{ section.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
