@@ -1,13 +1,27 @@
-#Navigation
+# Navigation
 site-title: "#FFF"
 site-title-hov: "#FCC3B0"
 nav: "#FFF"
 nav-hov: "#EB998E"
 nav-background: "#212529"
 
+# Submenu
+submenu-background: "#F8F9FA"
+
+# Back-to-top Button
+btt: "#EB998E"
+btt-hov: "#212529"
+btt-act: "#FCC3B0"
+
 # Header
-header-image: "../img/savouries/fig_salad_lq.jpg"
-lead-in: "#FFF"
+header-image:
+  index: "../img/trakai.jpg"
+  food: "../img/food/savouries/fig_salad_lq.jpg"
+  travel: "../img/travel/travel.jpg"
+  photography: "../img/photography/nature/ladybug.jpg"
+  design: "../img/design/design.jpg"
+  diy: "../img/diy/diy.jpg"
+  art: "../img/art/art.jpg"
 heading: "#FFF"
 
 # Footer

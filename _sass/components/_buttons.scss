@@ -27,3 +27,38 @@
   //   box-shadow: 0 0 0 0.2rem rgba(254, 209, 55,.5) !important;
   // }
 }
+
+.button-container {
+  width: 100%;
+  text-align: center;
+}
+
+.close-button {
+  display: inline-block;
+  background-color: $btt;
+  width: 40px;
+  height: 40px;
+  border-radius: 4px;
+  border-color: transparent;
+  position: absolute;
+  right: 15px;
+  transition: background-color .3s,
+    opacity .5s, visibility .5s;
+  z-index: 1000;
+}
+.close-button::after {
+  content: "\f00d";
+  font-family: FontAwesome;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1.5em;
+  line-height: 33px;
+  color: #fff;
+}
+.close-button:hover {
+  cursor: pointer;
+  background-color: $btt-hov;
+}
+.close-button:active {
+  background-color: $btt-act;
+}

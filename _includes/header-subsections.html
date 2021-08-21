@@ -1,0 +1,16 @@
+<!-- Header -->
+<header class={{ page.title }}>
+  <div class="container">
+    <div class="intro-text">
+  {% for section in site.data.navigation.nav %}
+    {% if section.page == page.title %}
+      <div class="intro-heading">{{ section.title | markdownify }}</div>
+    {% endif %}
+  {% endfor %}
+  {%- if site.data.sitetext.header.button -%}
+      <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{ site.data.sitetext.header.buttonlink }}">{{ site.data.sitetext.header.button }}</a>
+  {%- endif -%}
+    </div>
+  </div>
+</header>
+<!-- End Header -->

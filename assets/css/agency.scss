@@ -13,7 +13,12 @@ $nav: {{ site.data.style.nav }} !default;
 $nav-hov: {{ site.data.style.nav-hov }} !default;
 $nav-background: {{ site.data.style.nav-background }} !default;
 
-$lead-in: {{ site.data.style.lead-in }} !default;
+$submenu-background: {{ site.data.style.submenu-background }} !default;
+
+$btt: {{ site.data.style.btt }} !default;
+$btt-hov: {{ site.data.style.btt-hov }} !default;
+$btt-act: {{ site.data.style.btt-act }} !default;
+
 $heading: {{ site.data.style.heading }} !default;
 
 $footer-text: {{ site.data.style.footer-text }} !default;
@@ -36,13 +41,20 @@ $white: {{ site.data.style.white | default: "#fff" }} !default;
 $black: {{ site.data.style.black | default: "#000" }} !default;
 
 // Custom Images
-$header-image: "{{ site.data.style.header-image }}";
+$header-image-index: "{{ site.data.style.header-image.index }}";
+$header-image-food: "{{ site.data.style.header-image.food }}";
+$header-image-travel: "{{ site.data.style.header-image.travel }}";
+$header-image-photography: "{{ site.data.style.header-image.photography }}";
+$header-image-design: "{{ site.data.style.header-image.design }}";
+$header-image-diy: "{{ site.data.style.header-image.diy }}";
+$header-image-art: "{{ site.data.style.header-image.art }}";
 $contact-image: "{{ site.data.style.contact-image }}";
 
 // Global CSS
 @import "base/page.scss";
 
 // Components
+@import "components/back_to_top.scss";
 @import "components/buttons.scss";
 @import "components/navbar.scss";
 @import "components/client-scroll.scss";
@@ -52,3 +64,5 @@ $contact-image: "{{ site.data.style.contact-image }}";
 @import "layout/masthead.scss";
 @import "layout/portfolio.scss";
 @import "layout/footer.scss";
+@import "layout/subsection_menu.scss";
+@import "layout/home.scss";

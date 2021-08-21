@@ -1,9 +1,13 @@
 nav:
-  - title: "Savouries"
-    section: savouries
-
-  - title: "Sweets"
-    section: sweets
-
-  - title: "Drinks"
-    section: drinks
+  - title: "Food"
+    page: food
+  - title: "Travel"
+    page: travel
+  - title: "Photography"
+    page: photography
+  - title: "Design"
+    page: design
+  - title: "DIY"
+    page: diy
+  - title: "Art"
+    page: art
