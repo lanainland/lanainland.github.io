@@ -36,8 +36,8 @@
 .close-button {
   display: inline-block;
   background-color: $btt;
-  width: 40px;
-  height: 40px;
+  width: 30px;
+  height: 30px;
   text-align: center;
   border-radius: 4px;
   position: absolute;
@@ -53,7 +53,7 @@
   font-weight: normal;
   font-style: normal;
   font-size: 1.5em;
-  line-height: 40px;
+  line-height: 30px;
   color: #fff;
 }
 .close-button:hover {
