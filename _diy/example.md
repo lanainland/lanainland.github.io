@@ -1,9 +1,9 @@
 ---
-title: Ladybug
+title: Example
 image: photography/nature/ladybug.jpg
 thumbnail: photography/nature/ladybug_thumb.jpg
 alt: ladybug
-category: nature
+category: sewing
 ---
 
 In this post I will...
