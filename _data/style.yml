@@ -16,7 +16,7 @@ btt-act: "#FCC3B0"
 # Header
 header-image:
   index: "../img/home.jpg"
-  food: "../img/food/savouries/fig_salad_lq.jpg"
+  food: "../img/food/savouries/fig_salad.jpg"
   travel: "../img/travel/travel.jpg"
   photography: "../img/photography/nature/ladybug.jpg"
   design: "../img/design/design.jpg"
