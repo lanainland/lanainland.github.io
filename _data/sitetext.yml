@@ -13,20 +13,59 @@ food:
   category: drinks
 
 travel:
+- title: "France"
+  text: "Breads, starters, mains and more"
+  category: france
+- title: "Italy"
+  text: "Cocktails and smoothies"
+  category: italy
+- title: "Japan"
+  text: "Cakes, biscuits and other treats"
+  category: japan
 
 photography:
 - title: "Nature"
   text: "Plants and animals"
   category: nature
+- title: "Architecture"
+  text: "Breads, starters, mains and more"
+  category: architecture
+- title: "Patterns & Details"
+  text: "Cakes, biscuits and other treats"
+  category: patterns&details
 
-design:
+design&diy:
+- title: "Furniture"
+  text: "Breads, starters, mains and more"
+  category: furniture
+- title: "Interior"
+  text: "Cakes, biscuits and other treats"
+  category: interior
+- title: "Textiles"
+  text: "Cocktails and smoothies"
+  category: textiles
 
-diy:
-- title: "Sewing"
-  text: "Makes and more"
-  category: sewing
+sewing:
+- title: "Accessories"
+  text: "Breads, starters, mains and more"
+  category: accessories
+- title: "Clothing"
+  text: "Cakes, biscuits and other treats"
+  category: clothing
+- title: "Home"
+  text: "Cocktails and smoothies"
+  category: home
 
 art:
+- title: "Botanical"
+  text: "Breads, starters, mains and more"
+  category: botanical
+- title: "Animal"
+  text: "Cakes, biscuits and other treats"
+  category: animal
+- title: "Architecture"
+  text: "Cocktails and smoothies"
+  category: architecture
 
 footer:
   social:
