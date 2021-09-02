@@ -1,4 +1,4 @@
 ---
 layout: subsection
-title: design
+title: design&diy
 ---
