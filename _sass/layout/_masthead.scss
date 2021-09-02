@@ -74,22 +74,22 @@ header.photography {
   }
 }
 
-header.design {
-  background-image: url("#{$header-image-design}");
+header.design_and_diy {
+  background-image: url("#{$header-image-design_and_diy}");
   @include header-main;
 }
 @media(min-width:768px) {
-  header.design {
+  header.design_and_diy {
     @include header-media;
   }
 }
 
-header.diy {
-  background-image: url("#{$header-image-diy}");
+header.sewing {
+  background-image: url("#{$header-image-sewing}");
   @include header-main;
 }
 @media(min-width:768px) {
-  header.diy {
+  header.sewing {
     @include header-media;
   }
 }
