@@ -19,8 +19,8 @@ header-image:
   food: "../img/food/savouries/fig_salad.jpg"
   travel: "../img/travel/travel.jpg"
   photography: "../img/photography/photography.jpg"
-  design: "../img/design/design.jpg"
-  diy: "../img/diy/diy.jpg"
+  design&diy: "../img/design&diy/design.jpg"
+  sewing: "../img/diy/diy.jpg"
   art: "../img/art/art.jpg"
 heading: "#FFF"
 
