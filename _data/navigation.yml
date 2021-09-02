@@ -5,9 +5,9 @@ nav:
     page: travel
   - title: "Photography"
     page: photography
-  - title: "Design"
-    page: design
-  - title: "DIY"
-    page: diy
+  - title: "Design & DIY"
+    page: design&diy
+  - title: "Sewing"
+    page: sewing
   - title: "Art"
     page: art
