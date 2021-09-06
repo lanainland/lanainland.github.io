@@ -12,10 +12,14 @@ Study of a Daffodil
 
 #### Structure and interior details
 
-![daffodil](./assets/img/art/botanical/daffodil_parts.jpg){: width="80%"}
+![daffodil parts](./assets/img/art/botanical/daffodil_parts.jpg){: width="80%"}
 
 #### Petals and stems
 
-![daffodil](./assets/img/art/botanical/daffodil_side.jpg){: width="80%"}
+![daffodil side](./assets/img/art/botanical/daffodil_side.jpg){: width="80%"}
 
 #### Side view
+
+![daffodil back](./assets/img/art/botanical/daffodil_back.jpg){: width="80%"}
+
+#### Back view
