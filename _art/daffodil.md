@@ -6,7 +6,7 @@ alt: daffodil
 category: botanical
 ---
 
-Study of a Daffodil.
+Study of a Daffodil
 
 ![daffodil](./assets/img/art/botanical/daffodil_structure.jpg){: width="60%"}
 
