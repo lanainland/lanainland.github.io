@@ -8,10 +8,10 @@ category: botanical
 
 Study of a Daffodil
 
-![daffodil](./assets/img/art/botanical/daffodil_structure.jpg){: width="70%"}
+![daffodil](./assets/img/art/botanical/daffodil_structure.jpg){: width="80%"}
 
 #### Structure and interior details
 
-![daffodil](./assets/img/art/botanical/daffodil_parts.jpg){: width="60%"}
+![daffodil](./assets/img/art/botanical/daffodil_parts.jpg){: width="80%"}
 
 #### Petals and stems
