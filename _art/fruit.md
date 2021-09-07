@@ -12,10 +12,10 @@ Fruits in watercolour.
 
 #### Tonal study of a lime
 
-![blueberry](./assets/img/art/botanical/blueberry/blueberry.jpg){: width="80%"}
+![blueberry](./assets/img/art/botanical/fruit/blueberry.jpg){: width="80%"}
 
 #### Blueberry branch in watercolour
 
-![blueberry](./assets/img/art/botanical/blueberry/blueberry_grisaille.jpg){: width="80%"}
+![blueberry](./assets/img/art/botanical/fruit/blueberry_grisaille.jpg){: width="80%"}
 
 #### Grisaille technique
