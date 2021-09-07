@@ -1,17 +1,17 @@
 ---
-title: Lipstick Plant
-image: art/botanical/lipstick_plant/lipstick.jpg
-thumbnail: art/botanical/lipstick_plant/lipstick_thumb.jpg
-alt: lipstick plant
+title: Oleander
+image: art/botanical/oleander/oleander.jpg
+thumbnail: art/botanical/oleander/oleander_thumb.jpg
+alt: oleander
 category: botanical
 ---
 
-Lipstick Plant flowers in watercolour.
+Study of an oleander plant in pen and watercolour.
 
-![lipstick plant leaf](./assets/img/art/botanical/lipstick_plant/lipstick_leaf.jpg){: width="80%"}
+![oleander](./assets/img/art/botanical/oleander/oleander_sketch.jpg){: width="80%"}
 
-#### Lipstick Plant leaf
+#### Oleander flower cluster drawing and leaf detail in watercolour
 
-![lipstick plant flower](./assets/img/art/botanical/lipstick_plant/lipstick_top.jpg){: width="80%"}
+![oleander](./assets/img/art/botanical/oleander/oleander_grisaille.jpg){: width="80%"}
 
-#### Interior of a flower from above
+#### Quick grisaille technique sketches
