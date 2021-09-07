@@ -12,6 +12,7 @@ Study of a Daffodil in watercolour. Above is a dissected flower head, exposing t
 
 #### Elements of a daffodil - tepals, stamens and leaves.
 
+
 ![daffodil front](./assets/img/art/botanical/daffodil_front.jpg){: width="80%"}
 
 ![daffodil back](./assets/img/art/botanical/daffodil_back.jpg){: width="80%"}
