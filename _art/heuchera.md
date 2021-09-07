@@ -1,6 +1,6 @@
 ---
 title: Heuchera
-image: art/botanical/heuchera/heuchera_flowers.jpg
+image: art/botanical/heuchera/heuchera_flower.jpg
 thumbnail: art/botanical/heuchera/heuchera_thumb.jpg
 alt: heuchera
 category: botanical
