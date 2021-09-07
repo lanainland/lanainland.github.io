@@ -8,11 +8,11 @@ category: botanical
 
 Heuchera plants, also known as Coral Bells, have colourful foliage and small, bell-shaped flowers. Above is a sketch of a Forever Purple Heuchera leaf in watercolour.
 
-![heuchera leaf](./assets/img/art/botanical/heuchera/heuchera_grey.jpg){: width="80%"}
+![heuchera leaf](./assets/img/art/botanical/heuchera/heuchera_grey.jpg){: width="50%"}
 
 #### Silver heuchera leaf
 
-![heuchera leaf](./assets/img/art/botanical/heuchera/heuchera_red.jpg){: width="80%"}
+![heuchera leaf](./assets/img/art/botanical/heuchera/heuchera_red.jpg){: width="50%"}
 
 #### Berry Smoothie Heuchera leaf
 
