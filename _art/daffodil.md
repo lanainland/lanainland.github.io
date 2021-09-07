@@ -21,3 +21,5 @@ category: botanical
 ![daffodil front](./assets/img/art/botanical/daffodil_front.jpg){: width="80%"}
 
 ![daffodil back](./assets/img/art/botanical/daffodil_back.jpg){: width="80%"}
+
+Daffodils are native to Northern Europe and are early bloomers, so if you happen to see a yellow flower sticking out of the snow, you’ll know winter is over!
