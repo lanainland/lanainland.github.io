@@ -8,7 +8,7 @@ category: botanical
 
 Fruits in watercolour.
 
-![lime monotone](./assets/img/art/botanical/fruit/lime_monotone.jpg){: width="100%"}
+![lime monotone](./assets/img/art/botanical/fruit/lime_monotone.jpg){: width="80%"}
 
 #### Tonal study of a lime
 
