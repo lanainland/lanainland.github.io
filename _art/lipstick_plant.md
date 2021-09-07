@@ -12,6 +12,6 @@ Lipstick Plant flowers in watercolour.
 
 #### A single leaf - smooth and rubbery
 
-![lipstick plant flower](./assets/img/art/botanical/lipstick_plant/lipstick_top.jpg){: width="50%"}
+![lipstick plant flower](./assets/img/art/botanical/lipstick_plant/lipstick_top.jpg){: width="60%"}
 
 #### Interior of a flower from above
