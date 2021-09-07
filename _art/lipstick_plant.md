@@ -8,9 +8,9 @@ category: botanical
 
 Lipstick Plant flowers in watercolour.
 
-![lipstick plant leaf](./assets/img/art/botanical/lipstick_plant/lipstick_leaf.jpg){: width="80%"}
+![lipstick plant leaf](./assets/img/art/botanical/lipstick_plant/lipstick_leaf.jpg){: width="100%"}
 
-#### A single leaf - smooth and rubbwry
+#### A single leaf - smooth and rubbery
 
 ![lipstick plant flower](./assets/img/art/botanical/lipstick_plant/lipstick_top.jpg){: width="50%"}
 
