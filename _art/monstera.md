@@ -6,7 +6,7 @@ alt: monstera
 category: botanical
 ---
 
-Study of a Monstera plant in watercolour. Also known as Swiss Cheese plants, Monsteras are tropical plants that grow aerial roots to attach themselves to trees and climb up towards the light. Older plants have fenestrated large leaves. Above is the underside of a young leaf showing its venation structure.
+Study of a Monstera plant in watercolour. Above is the underside of a young leaf showing its venation structure.
 
 ![monstera](./assets/img/art/botanical/monstera/monstera.jpg){: width="100%"}
 
@@ -19,3 +19,5 @@ Study of a Monstera plant in watercolour. Also known as Swiss Cheese plants, Mon
 ![monstera annotation](./assets/img/art/botanical/monstera/monstera_annotation.jpg){: width="80%"}
 
 #### Leaf Morphology
+
+Monsteras, also known as Swiss Cheese plants, are tropical plants that grow aerial roots to attach themselves to trees and climb up towards the light. Older plants have fenestrated large leaves.
