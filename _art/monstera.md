@@ -12,7 +12,7 @@ Study of a Monstera plant in pen and watercolour.
 
 #### The underside of a Monstera leaf
 
-![monstera leaf](./assets/img/art/botanical/monstera/monstera_smallleaf.jpg){: width="80%"}
+![monstera leaf](./assets/img/art/botanical/monstera/monstera_smallleaf.jpg){: width="50%"}
 
 #### Top view of a Monstera leaf
 
