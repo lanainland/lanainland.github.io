@@ -6,7 +6,7 @@ alt: fruit
 category: botanical
 ---
 
-Studies of shading, texture and features with fruit and mushrooms.
+Studies of shading and texture with fruit and mushrooms.
 
 ![lime monotone](./assets/img/art/botanical/fruit/limes_study.jpg){: width="100%"}
 
