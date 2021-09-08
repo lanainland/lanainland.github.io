@@ -12,6 +12,10 @@ Fruits in watercolour.
 
 #### Tonal study of a lime
 
+![lime monotone](./assets/img/art/botanical/fruit/limes.jpg){: width="80%"}
+
+![blueberry](./assets/img/art/botanical/fruit/blueberries.jpg){: width="100%"}
+
 ![blueberry](./assets/img/art/botanical/fruit/blueberry.jpg){: width="80%"}
 
 #### Blueberry branch in watercolour
