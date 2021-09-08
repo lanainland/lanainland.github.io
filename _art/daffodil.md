@@ -6,7 +6,8 @@ alt: daffodil
 category: botanical
 ---
 
-Study of a Daffodil in watercolour. Above is a dissected flower head, exposing the interior structure and the side tepals.
+Study of a Daffodil in watercolour.
+This daffodil caught my eye due to its interesting shape and I was curious to see what the interior looked like. Above is a dissected flower head, exposing the interior structure and the side tepals.
 
 ![daffodil](./assets/img/art/botanical/daffodil/daffodil_structure.jpg){: width="100%"}
 

@@ -6,7 +6,9 @@ alt: heuchera
 category: botanical
 ---
 
-Heuchera plants, also known as Coral Bells, have colourful foliage and small flowers. Above is a sketch of its bell-shaped flowers and long stems in pen and watercolour.
+Heucheras are also known as Coral Bells and have small bell-shaped flowers that cluster on thin, long stems.
+What first attracted me to this plant are its colourful leaves that stay vibrant throughout the year even when flowering season is over. There are several varieties with different coloured leaves.
+
 
 ![heuchera leaf](./assets/img/art/botanical/heuchera/heuchera_purple.jpg){: width="70%"}
 

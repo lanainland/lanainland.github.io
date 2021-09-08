@@ -6,12 +6,14 @@ alt: oleander
 category: botanical
 ---
 
-Study of an oleander plant in pen and watercolour.
+I bought an Oleander plant recently as it reminds me of sunny holidays in the Mediterranean and I love looking at its pink flowers.
 
 ![oleander](./assets/img/art/botanical/oleander/oleander_sketch.jpg){: width="80%"}
 
-#### Oleander flower cluster drawing and leaf detail in watercolour
+#### Oleander branch in pen and watercolour
 
 ![oleander](./assets/img/art/botanical/oleander/oleander_grisaille.jpg){: width="80%"}
 
-#### Quick grisaille technique sketches
+#### Individual leaf in watercolour
+
+#### Quick study of a cluster of flowers
