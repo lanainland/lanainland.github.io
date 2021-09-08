@@ -7,11 +7,12 @@ category: botanical
 ---
 
 Lipstick Plant flowers in watercolour.
-
-![lipstick plant leaf](./assets/img/art/botanical/lipstick_plant/lipstick_leaf.jpg){: width="80%"}
-
-#### A single leaf - smooth and rubbery
+I saw this plant in the garden centre and it was love at first sight. It looked so different from anything else around it and I just loved the red and purple lipstick-like flowers that contrast with the smooth shiny leaves.
 
 ![lipstick plant flower](./assets/img/art/botanical/lipstick_plant/lipstick_top.jpg){: width="50%"}
 
 #### Interior of a flower from above
+
+![lipstick plant leaf](./assets/img/art/botanical/lipstick_plant/lipstick_leaf.jpg){: width="80%"}
+
+#### A single leaf - smooth and rubbery
