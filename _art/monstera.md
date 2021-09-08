@@ -8,7 +8,7 @@ category: botanical
 
 There is so much to love about a Monstera, also known as a Swiss cheese plant. Starting with its most obvious feature -  the striking fenestrated leaves. As the plant matures it develops larger leaves with more fenestration. Above is the underside of a young leaf depicting its venation structure.
 
-![monstera leaf](./assets/img/art/botanical/monstera/monstera_smallleaf.jpg){: width="60%"}
+![monstera leaf](./assets/img/art/botanical/monstera/monstera_smallleaf.jpg){: width="50%"}
 
 #### A leaf with some fenestration
 
