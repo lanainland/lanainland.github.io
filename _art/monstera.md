@@ -18,7 +18,7 @@ Monsteras also have very cool aerial roots that look like spider legs. They atta
 
 #### Monstera plant in pen and watercolour
 
-![monstera annotation](./assets/img/art/botanical/monstera/monstera_roots.jpg){: width="80%"}
+![monstera annotation](./assets/img/art/botanical/monstera/monstera_roots.jpg){: width="100%"}
 
 #### Stem and aerial root structure
 
