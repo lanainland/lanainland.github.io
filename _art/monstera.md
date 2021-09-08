@@ -14,11 +14,11 @@ There is so much to love about a Monstera, also known as a Swiss cheese plant. S
 
 Monsteras also have very cool aerial roots that look like spider legs. They attach themselves to trees and climb up towards the light. This is the feature that caught my attention and I wanted to examine it further.
 
-![monstera](./assets/img/art/botanical/monstera/monstera.jpg){: width="100%"}
+![monstera](./assets/img/art/botanical/monstera/monstera.jpg){: width="80%"}
 
 #### Monstera plant in pen and watercolour
 
-![monstera annotation](./assets/img/art/botanical/monstera/monstera_roots.jpg){: width="100%"}
+![monstera annotation](./assets/img/art/botanical/monstera/monstera_roots.jpg){: width="80%"}
 
 #### Stem and aerial root structure
 
