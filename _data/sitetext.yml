@@ -58,13 +58,13 @@ sewing:
 
 art:
 - title: "Botanical"
-  text: "Breads, starters, mains and more"
+  text: "Flora and Fungi"
   category: botanical
 - title: "Animal"
-  text: "Cakes, biscuits and other treats"
+  text: "Fauna's little critters"
   category: animal
 - title: "Architecture"
-  text: "Cocktails and smoothies"
+  text: "Features, details and shapes"
   category: architecture
 
 footer:
