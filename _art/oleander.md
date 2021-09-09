@@ -8,12 +8,14 @@ category: botanical
 
 I bought an Oleander plant recently as it reminds me of sunny holidays in the Mediterranean and I love looking at its pink flowers.
 
-![oleander](./assets/img/art/botanical/oleander/oleander_sketch.jpg){: width="80%"}
+![oleander branch](./assets/img/art/botanical/oleander/oleander_branch.jpg){: width="80%"}
 
 #### Oleander branch in pen and watercolour
 
-![oleander](./assets/img/art/botanical/oleander/oleander_grisaille.jpg){: width="80%"}
+![oleander leaf](./assets/img/art/botanical/oleander/oleander_leaf.jpg){: width="80%"}
 
-#### Individual leaf in watercolour
+#### Colour study of a branch and an individual leaf
 
-#### Quick study of a cluster of flowers
+![oleander sketch](./assets/img/art/botanical/oleander/oleander_sketch.jpg){: width="80%"}
+
+#### Composition sketch of a cluster of flowers
