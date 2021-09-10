@@ -1,7 +1,7 @@
 ---
 title: Foliage
 image: photography/nature/foliage/lace_fern.jpg
-thumbnail: photography/nature/foliage/ladybug_thumb.jpg
+thumbnail: photography/nature/foliage/foliage_thumb.jpg
 alt: foliage
 category: nature
 ---
