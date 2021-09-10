@@ -6,14 +6,22 @@ alt: strawberry margarita
 category: drinks
 ---
 
+**Serves 1**
+
 ## Ingredients
 
-- Tequila
-- Triple sec
-- Lime juice
-- Strawberries
+- 90 ml (3 parts) tequila
+- 60 ml (2 parts) triple sec
+- 30 ml (1 part) lime juice
+- 2 large strawberries
+- Lime slices
+- Ice cubes
 - Coarse salt
 
 ## Instructions
 
-1. Add all ingredients to a cocktail shaker.
+1. Cover the surface of a small plate with coarse salt.
+1. Wet the rim of a glass with a slice of lime and dip it into the salt until coated.
+1. Combine all the other ingredients in a cocktail shaker filled with ice and shake thoroughly.
+1. Strain the mix into the prepared glass.
+1. Garnish with a slice of lime and a strawberry.
