@@ -32,8 +32,6 @@ category: sweets
 
 ## Instructions
 
-Makes one 20cm cake or two 14cm cakes.
-
 ### Coconut Frosting
 
 1. Mix coconut cream for a minute or so until it starts thickening.
@@ -43,6 +41,7 @@ Makes one 20cm cake or two 14cm cakes.
 ### Cake
 
 1. Preheat oven to 170°C.
+1. Oil one 20cm or two 14cm cake tins.
 1. Mix sugar, oil and eggs until smooth.
 1. In another bowl, mix vanilla, flours, baking powder and spices.
 1. Add dry ingredients to the wet and mix until batter is smooth and thick.
