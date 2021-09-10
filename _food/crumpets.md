@@ -8,12 +8,12 @@ category: savouries
 
 ## Ingredients
 
-300g flour
-250ml warm almond milk
-180ml warm water
-2 tsp dried yeast
-1 tsp sugar
-1 tsp salt
+- 300g flour
+- 250ml warm almond milk
+- 180ml warm water
+- 2 tsp dried yeast
+- 1 tsp sugar
+- 1 tsp salt
 
 ## Instructions
 
