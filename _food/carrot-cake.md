@@ -49,7 +49,7 @@ category: sweets
 1. Bake for 45-50 minutes or until toothpick comes out clean.
 1. Leave to cool before cutting.
 
-## Cake assembly
+### Assembly
 
 1. If the cake comes out domed, slice the top off slightly to level it out.
 1. Save the part that's been cut off and crumble it up for topping.
