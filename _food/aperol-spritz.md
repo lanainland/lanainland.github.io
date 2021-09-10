@@ -1,7 +1,7 @@
 ---
 title: Aperol Spritz
 image: food/drinks/aperol_spritz.jpg
-thumbnail: food/drinks/aperol_spritz_thumb_lq.jpg
+thumbnail: food/drinks/aperol_spritz_thumb.jpg
 alt: aperol spritz
 category: drinks
 ---
