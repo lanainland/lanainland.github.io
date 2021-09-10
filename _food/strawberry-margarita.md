@@ -13,7 +13,7 @@ category: drinks
 - 90 ml (3 parts) tequila
 - 60 ml (2 parts) triple sec
 - 30 ml (1 part) lime juice
-- 3 large strawberries (1 for garnish)
+- 3 large strawberries (set 1 aside for garnish)
 - Lime slices
 - Ice cubes
 - Coarse salt
