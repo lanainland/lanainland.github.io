@@ -1,7 +1,7 @@
 ---
 title: Palms
-image: photography/nature/palms/palm_shadow.jpg
-thumbnail: art/botanical/monstera/monstera_bigleaf.jpg
+image: art/botanical/monstera/monstera_bigleaf.jpg
+thumbnail: photography/nature/palms/palm_shadow_thumb.jpg
 alt: palms
 category: nature
 ---
