@@ -12,6 +12,6 @@ Play of light and shadow through plants.
 
 ![leaf closeup](./assets/img/photography/nature/plants/leaf_closeup.jpg){: width="80%"}
 
-![leaf shadow](./assets/img/photography/nature/plants/leaf_light.jpg){: width="80%"}
+![leaf shadow](./assets/img/photography/nature/plants/leaf_shadow.jpg){: width="80%"}
 
-#### Plants
+#### Closeup details of leaves
