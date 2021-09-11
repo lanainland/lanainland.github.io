@@ -8,8 +8,8 @@ category: nature
 
 Patterns created by foliage.
 
-![king palm](./assets/img/photography/nature/foliage/king_palm.jpg){: width="80%"}
+![giant dioon](./assets/img/photography/nature/foliage/giant_palm.jpg){: width="80%"}
 
-![giant fern](./assets/img/photography/nature/foliage/fern_giant.jpg){: width="80%"}
+![king fern](./assets/img/photography/nature/foliage/king_fern.jpg){: width="80%"}
 
-#### The King of palms versus the Fern Giant
+#### The King of ferns versus the Palm Giant
