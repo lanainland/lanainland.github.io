@@ -6,10 +6,10 @@ alt: foliage
 category: nature
 ---
 
-Patterns created by foliage.
-
-![giant dioon](./assets/img/photography/nature/foliage/giant_palm.jpg){: width="80%"}
+Lace-like patterns created by fern and palm foliage.
 
 ![king fern](./assets/img/photography/nature/foliage/king_fern.jpg){: width="80%"}
 
-#### The King of ferns versus the Palm Giant
+![giant dioon](./assets/img/photography/nature/foliage/giant_palm.jpg){: width="80%"}
+
+#### The King of Ferns versus the Palm Giant
