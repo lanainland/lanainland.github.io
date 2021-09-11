@@ -6,7 +6,7 @@ alt: plants
 category: nature
 ---
 
-Play of light and shadow through plants and their leaves.
+Play of light and shadow through plants.
 
 ![king palm](./assets/img/photography/nature/plants/plant_closeup.jpg){: width="80%"}
 
@@ -14,4 +14,4 @@ Play of light and shadow through plants and their leaves.
 
 ![king palm](./assets/img/photography/nature/plants/leaf_light.jpg){: width="80%"}
 
-####
+#### Plants
