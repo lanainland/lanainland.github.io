@@ -1,7 +1,7 @@
 ---
 title: Plants
 image: photography/nature/plants/thorny_leaf.jpg
-thumbnail: photography/nature/plants/leaf_closeup_thumb.jpg
+thumbnail: photography/nature/plants/thorny_leaf_thumb.jpg
 alt: plants
 category: nature
 ---
