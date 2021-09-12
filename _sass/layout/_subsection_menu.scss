@@ -5,6 +5,7 @@
   .submenu-li {
     display: inline-block;
     padding-right: 20px;
+    margin-bottom: 3px;
     .submenu-a {
       letter-spacing: 1px;
     }
@@ -14,8 +15,7 @@
 .submenu-container {
   background-color: $submenu-background;
   padding-top: 17px;
-  padding-bottom: 2px;
-  font-size: 14px;
+  font-size: 15px;
   @media(min-width:767px) {
     font-size: 16px;
   }
