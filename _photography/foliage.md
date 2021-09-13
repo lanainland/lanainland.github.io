@@ -12,4 +12,4 @@ I always like looking up to see patterns created by foliage and the light that c
 
 ![giant dioon](./assets/img/photography/nature/foliage/giant_palm.jpg){: width="80%"}
 
-#### The King of Ferns versus the Palm Giant
+#### The King of Ferns vs the Palm Giant
