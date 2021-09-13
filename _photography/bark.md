@@ -6,14 +6,18 @@ alt: bark
 category: nature
 ---
 
-Bark patterns and details from trees I encountered in the forest.
+Bark patterns and details from trees I encounter on my walks through the local forest. There are always new trees to be discovered and I wanted to start to catalog them. Above is a wild cherry that almost shimmers in the sunlight.
 
-![tree bark](./assets/img/photography/nature/bark/bark_brown.jpg){: width="80%"}
+![birch tree bark](./assets/img/photography/nature/bark/bark_brown.jpg){: width="80%"}
 
-![tree bark](./assets/img/photography/nature/bark/bark_white.jpg){: width="80%"}
+![birch tree bark](./assets/img/photography/nature/bark/bark_white.jpg){: width="80%"}
 
-![tree bark](./assets/img/photography/nature/bark/bark_circles.jpg){: width="80%"}
+#### Birch tree bark closeups
+
+![tree bark fungus](./assets/img/photography/nature/bark/bark_circles.jpg){: width="80%"}
+
+#### Fungus pattern on tree bark reminiscent of bacteria growing in a Petri dish
 
 ![tree bark](./assets/img/photography/nature/bark/bark_swirls.jpg){: width="80%"}
 
-#### Tree bark closeups
+#### Fungus on a wild apple tree creates interesting swirly patterns
