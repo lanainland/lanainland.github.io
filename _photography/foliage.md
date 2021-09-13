@@ -6,7 +6,7 @@ alt: foliage
 category: nature
 ---
 
-Lace-like patterns created by fern and palm foliage.
+I always like looking up to see patterns created by foliage and the light that comes through. I especially like ferns and palm trees. This particular fern has very soft foliage that creates an almost lace-like pattern.
 
 ![king fern](./assets/img/photography/nature/foliage/king_fern.jpg){: width="80%"}
 
