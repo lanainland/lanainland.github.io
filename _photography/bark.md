@@ -6,7 +6,7 @@ alt: bark
 category: nature
 ---
 
-Bark patterns and details from trees I encounter on my walks through the local forest. There are always new trees to be discovered and I wanted to start to catalog them. Above is a wild cherry that has an almost silvery shimmer in the sunlight.
+Bark patterns and details from trees I encounter on my walks through the local forest. There are always new trees to be discovered and I wanted to start to catalog them. Above is a wild cherry tree that has an almost silvery shimmer in the sunlight.
 
 ![birch tree bark](./assets/img/photography/nature/bark/bark_brown.jpg){: width="80%"}
 
