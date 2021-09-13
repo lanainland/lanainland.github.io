@@ -6,7 +6,7 @@ alt: bugs
 category: nature
 ---
 
-Ladybugs and other creatures living their best life.
+Ladybugs and other creatures living their best life in the French countryside.
 
 ![ladybug mimosa](./assets/img/photography/nature/bugs/ladybug_mimosa.jpg){: width="80%"}
 
