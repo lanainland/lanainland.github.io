@@ -15,3 +15,9 @@ I love going to botanical gardens and greenhouses to discover plants and leaf sh
 ![leaf closeup](./assets/img/photography/nature/plants/leaf_closeup.jpg){: width="80%"}
 
 ####  Closeup details of glowy and shiny leaves in the sunlight
+
+![cactus prickles](./assets/img/photography/nature/plants/prickles.jpg){: width="80%"}
+
+![leaf veins](./assets/img/photography/nature/plants/veins.jpg){: width="80%"}
+
+####  Prickles and veins
