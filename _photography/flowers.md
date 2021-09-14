@@ -34,7 +34,13 @@ So many flowers, so little time...
 
 #### Daisies and Susans are such wildflowers
 
-![shrub and meadow](./assets/img/photography/nature/flowers/shrub_meadow.jpg){: width="70%"}
+![shrub flowers](./assets/img/photography/nature/flowers/shrub1.jpg){: width="70%"}
+
+![shrub flowers](./assets/img/photography/nature/flowers/shrub2.jpg){: width="70%"}
+
+![meadow flowers](./assets/img/photography/nature/flowers/meadow1.jpg){: width="70%"}
+
+![meadow flowers](./assets/img/photography/nature/flowers/meadow2.jpg){: width="70%"}
 
 #### Shrub and meadow flowers
 
