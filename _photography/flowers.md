@@ -42,4 +42,4 @@ So many flowers, so little time...
 
 ![flower rainbow](./assets/img/photography/nature/flowers/flower_rainbow.jpg){: width="100%"}
 
-#### Match the flowers - cosmos, daisy, dahlia, hibiscus, tulip, petunia, rose and zinnia
+#### Match the flowers - cosmos, dahlia, daisy, hibiscus, petunia, rose, tulip and zinnia
