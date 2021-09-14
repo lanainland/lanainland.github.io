@@ -16,10 +16,6 @@ So many flowers, so little time...
 
 #### One lonely magnolia sitting in a tree...
 
-![tulip](./assets/img/photography/nature/flowers/tulip.jpg){: width="100%"}
-
-#### Red and white variegated tulip
-
 ![peony](./assets/img/photography/nature/flowers/peony.jpg){: width="100%"}
 
 #### Giant pink peony
@@ -35,6 +31,10 @@ So many flowers, so little time...
 ![shrub and meadow](./assets/img/photography/nature/flowers/shrub_meadow.jpg){: width="100%"}
 
 #### Shrub and meadow flowers
+
+![tulip](./assets/img/photography/nature/flowers/tulip.jpg){: width="100%"}
+
+#### Red and white variegated tulip
 
 ![flower rainbow](./assets/img/photography/nature/flowers/flower_rainbow.jpg){: width="100%"}
 
