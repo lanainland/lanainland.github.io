@@ -16,12 +16,6 @@ So many flowers, so little time...
 
 #### One lonely magnolia sitting in a tree...
 
-![tulip top](./assets/img/photography/nature/flowers/tulip_top.jpg){: width="70%"}
-
-![tulip side](./assets/img/photography/nature/flowers/tulip_side.jpg){: width="70%"}
-
-#### Red and white variegated tulip
-
 ![peony](./assets/img/photography/nature/flowers/peony.jpg){: width="100%"}
 
 #### Giant pink peony
@@ -29,6 +23,12 @@ So many flowers, so little time...
 ![poppy](./assets/img/photography/nature/flowers/poppy.jpg){: width="100%"}
 
 #### Oriental pink poppy
+
+![tulip top](./assets/img/photography/nature/flowers/tulip_top.jpg){: width="70%"}
+
+![tulip side](./assets/img/photography/nature/flowers/tulip_side.jpg){: width="70%"}
+
+#### Red and white variegated tulip
 
 ![wildflowers](./assets/img/photography/nature/flowers/wildflowers.jpg){: width="100%"}
 
