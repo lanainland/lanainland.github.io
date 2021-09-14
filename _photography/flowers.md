@@ -20,13 +20,13 @@ So many flowers, so little time...
 
 #### Red and white variegated tulip
 
-![poppy](./assets/img/photography/nature/flowers/poppy.jpg){: width="100%"}
-
-#### Oriental pink poppy
-
 ![peony](./assets/img/photography/nature/flowers/peony.jpg){: width="100%"}
 
 #### Giant pink peony
+
+![poppy](./assets/img/photography/nature/flowers/poppy.jpg){: width="100%"}
+
+#### Oriental pink poppy
 
 ![wildflowers](./assets/img/photography/nature/flowers/wildflowers.jpg){: width="100%"}
 
