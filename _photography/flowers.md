@@ -8,13 +8,13 @@ category: nature
 
 So many flowers, so little time...
 
-![orchid](./assets/img/photography/nature/flowers/orchid.jpg){: width="80%"}
-
-#### Japanese orchid
-
 ![magnolia](./assets/img/photography/nature/flowers/magnolia.jpg){: width="100%"}
 
 #### One lonely magnolia sitting in a tree...
+
+![orchid](./assets/img/photography/nature/flowers/orchid.jpg){: width="80%"}
+
+#### Japanese orchid
 
 ![peony](./assets/img/photography/nature/flowers/peony.jpg){: width="100%"}
 
