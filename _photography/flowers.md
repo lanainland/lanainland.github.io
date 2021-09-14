@@ -24,9 +24,9 @@ So many flowers, so little time...
 
 #### Oriental pink poppy
 
-![tulip top](./assets/img/photography/nature/flowers/tulip_top.jpg){: width="70%"}
+![tulip top](./assets/img/photography/nature/flowers/tulip_top.jpg){: width="50%"}
 
-![tulip side](./assets/img/photography/nature/flowers/tulip_side.jpg){: width="70%"}
+![tulip side](./assets/img/photography/nature/flowers/tulip_side.jpg){: width="50%"}
 
 #### Red and white variegated tulip
 
