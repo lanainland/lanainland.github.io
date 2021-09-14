@@ -18,6 +18,6 @@ I love going to botanical gardens and greenhouses to discover plants and leaf sh
 
 ![cactus prickles](./assets/img/photography/nature/plants/prickles.jpg){: width="80%"}
 
-![leaf veins](./assets/img/photography/nature/plants/veins.jpg){: width="80%"}
+![leaf veins](./assets/img/photography/nature/plants/venation.jpg){: width="80%"}
 
 ####  Prickles and veins
