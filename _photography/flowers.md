@@ -12,10 +12,6 @@ So many flowers, so little time...
 
 #### Japanese orchid
 
-![magnolia](./assets/img/photography/nature/flowers/magnolia.jpg){: width="70%"}
-
-#### One magnolia, two magnolia sitting in a tree...
-
 ![peony](./assets/img/photography/nature/flowers/peony.jpg){: width="100%"}
 
 #### Giant pink peony
