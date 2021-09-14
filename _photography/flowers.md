@@ -8,7 +8,7 @@ category: nature
 
 So many flowers, so little time...
 
-![orchid](./assets/img/photography/nature/flowers/orchid.jpg){: width="70%"}
+![orchid](./assets/img/photography/nature/flowers/orchid.jpg){: width="80%"}
 
 #### Japanese orchid
 
@@ -20,9 +20,9 @@ So many flowers, so little time...
 
 #### Oriental pink poppy
 
-![tulip top](./assets/img/photography/nature/flowers/tulip_top.jpg){: width="50%"}
+![tulip top](./assets/img/photography/nature/flowers/tulip_top.jpg){: width="60%"}
 
-![tulip side](./assets/img/photography/nature/flowers/tulip_side.jpg){: width="50%"}
+![tulip side](./assets/img/photography/nature/flowers/tulip_side.jpg){: width="60%"}
 
 #### Red and white variegated tulip
 
@@ -30,13 +30,13 @@ So many flowers, so little time...
 
 #### Daisies and Susans are such wildflowers
 
-![shrub flowers](./assets/img/photography/nature/flowers/shrub1.jpg){: width="50%"}
+![shrub flowers](./assets/img/photography/nature/flowers/shrub1.jpg){: width="60%"}
 
-![shrub flowers](./assets/img/photography/nature/flowers/shrub2.jpg){: width="50%"}
+![shrub flowers](./assets/img/photography/nature/flowers/shrub2.jpg){: width="60%"}
 
-![meadow flowers](./assets/img/photography/nature/flowers/meadow1.jpg){: width="50%"}
+![meadow flowers](./assets/img/photography/nature/flowers/meadow1.jpg){: width="60%"}
 
-![meadow flowers](./assets/img/photography/nature/flowers/meadow2.jpg){: width="50%"}
+![meadow flowers](./assets/img/photography/nature/flowers/meadow2.jpg){: width="60%"}
 
 #### Shrub and meadow flowers
 
