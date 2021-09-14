@@ -12,7 +12,7 @@ So many flowers, so little time...
 
 #### Japanese orchid
 
-![magnolia](./assets/img/photography/nature/flowers/magnolia.jpg){: width="100%"}
+![magnolia](./assets/img/photography/nature/flowers/magnolia.jpg){: width="70%"}
 
 #### One lonely magnolia sitting in a tree...
 
@@ -34,7 +34,7 @@ So many flowers, so little time...
 
 #### Daisies and Susans are such wildflowers
 
-![shrub and meadow](./assets/img/photography/nature/flowers/shrub_meadow.jpg){: width="100%"}
+![shrub and meadow](./assets/img/photography/nature/flowers/shrub_meadow.jpg){: width="70%"}
 
 #### Shrub and meadow flowers
 
