@@ -8,7 +8,7 @@ category: nature
 
 So many flowers, so little time...
 
-![magnolia](./assets/img/photography/nature/flowers/magnolia.jpg){: width="80%"}
+![magnolia](./assets/img/photography/nature/flowers/magnolia.jpg){: width="100%"}
 
 #### One lonely magnolia sitting in a tree...
 
@@ -20,9 +20,9 @@ So many flowers, so little time...
 
 #### Red and white variegated tulip
 
-![poppy](./assets/img/photography/nature/flowers/poppy.jpg){: width="80%"}
+![poppy](./assets/img/photography/nature/flowers/poppy.jpg){: width="100%"}
 
-![peony](./assets/img/photography/nature/flowers/peony.jpg){: width="80%"}
+![peony](./assets/img/photography/nature/flowers/peony.jpg){: width="100%"}
 
 #### Pink Giants - oriental poppy and a peony
 
@@ -34,6 +34,6 @@ So many flowers, so little time...
 
 #### Shrub and meadow flowers
 
-![flower rainbow](./assets/img/photography/nature/flowers/flower_rainbow.jpg){: width="80%"}
+![flower rainbow](./assets/img/photography/nature/flowers/flower_rainbow.jpg){: width="100%"}
 
 #### Flower rainbow!
