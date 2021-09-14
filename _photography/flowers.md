@@ -16,9 +16,9 @@ So many flowers, so little time...
 
 #### One lonely magnolia sitting in a tree...
 
-![tulip top](./assets/img/photography/nature/flowers/tulip_top.jpg){: width="100%"}
+![tulip top](./assets/img/photography/nature/flowers/tulip_top.jpg){: width="60%"}
 
-![tulip side](./assets/img/photography/nature/flowers/tulip_side.jpg){: width="100%"}
+![tulip side](./assets/img/photography/nature/flowers/tulip_side.jpg){: width="60%"}
 
 #### Red and white variegated tulip
 
