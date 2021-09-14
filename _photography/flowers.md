@@ -16,21 +16,23 @@ So many flowers, so little time...
 
 #### One lonely magnolia sitting in a tree...
 
-![tulip](./assets/img/photography/nature/flowers/tulip.jpg){: width="80%"}
+![tulip](./assets/img/photography/nature/flowers/tulip.jpg){: width="100%"}
 
 #### Red and white variegated tulip
 
 ![poppy](./assets/img/photography/nature/flowers/poppy.jpg){: width="100%"}
 
+#### Oriental pink poppy
+
 ![peony](./assets/img/photography/nature/flowers/peony.jpg){: width="100%"}
 
-#### Pink Giants - oriental poppy and a peony
+#### Giant pink peony
 
-![wildflowers](./assets/img/photography/nature/flowers/wildflowers.jpg){: width="80%"}
+![wildflowers](./assets/img/photography/nature/flowers/wildflowers.jpg){: width="100%"}
 
 #### Daisies and Susans are such wildflowers
 
-![shrub and meadow](./assets/img/photography/nature/flowers/shrub_meadow.jpg){: width="80%"}
+![shrub and meadow](./assets/img/photography/nature/flowers/shrub_meadow.jpg){: width="100%"}
 
 #### Shrub and meadow flowers
 
