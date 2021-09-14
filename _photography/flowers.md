@@ -8,7 +8,7 @@ category: nature
 
 So many flowers, so little time...
 
-![orchid](./assets/img/photography/nature/flowers/orchid.jpg){: width="80%"}
+![orchid](./assets/img/photography/nature/flowers/orchid.jpg){: width="70%"}
 
 #### Japanese orchid
 
@@ -16,9 +16,9 @@ So many flowers, so little time...
 
 #### One lonely magnolia sitting in a tree...
 
-![tulip top](./assets/img/photography/nature/flowers/tulip_top.jpg){: width="60%"}
+![tulip top](./assets/img/photography/nature/flowers/tulip_top.jpg){: width="70%"}
 
-![tulip side](./assets/img/photography/nature/flowers/tulip_side.jpg){: width="60%"}
+![tulip side](./assets/img/photography/nature/flowers/tulip_side.jpg){: width="70%"}
 
 #### Red and white variegated tulip
 
