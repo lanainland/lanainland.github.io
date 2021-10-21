@@ -1,3 +1,4 @@
+---
 title: Kyoto & Osaka
 image: travel/japan/kyoto_osaka/kyoto_temple1.jpg
 thumbnail: travel/japan/kyoto_osaka/kyoto_pond.jpg
