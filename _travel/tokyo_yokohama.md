@@ -18,7 +18,9 @@ category: japan
 
 #### View from Komagata bridge in Asakusa
 
-![tokyo gardens](./assets/img/travel/japan/tokyo_yokohama/tokyo_gardens.jpg){: width="100%"}
+![tokyo gardens](./assets/img/travel/japan/tokyo_yokohama/tokyo_gardens1.jpg){: width="60%"}
+
+![tokyo gardens](./assets/img/travel/japan/tokyo_yokohama/tokyo_gardens2.jpg){: width="60%"}
 
 #### Peaceful gardens in Shinjuku and Asakusa
 
