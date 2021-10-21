@@ -6,7 +6,7 @@ alt: kyoto and osaka
 category: japan
 ---
 
-Kyoto
+## Kyoto
 
 ![kyoto temple](./assets/img/travel/japan/kyoto_osaka/kyoto_temple2.jpg){: width="80%"}
 
@@ -40,7 +40,7 @@ Kyoto
 
 #### Japanese Orchids
 
-Osaka
+## Osaka
 
 ![osaka dotombori canal](./assets/img/travel/japan/kyoto_osaka/osaka_canal.jpg){: width="80%"}
 
