@@ -18,9 +18,9 @@ category: japan
 
 #### View from Komagata bridge in Asakusa
 
-![tokyo gardens](./assets/img/travel/japan/tokyo_yokohama/tokyo_gardens1.jpg){: width="60%"}
+![tokyo gardens](./assets/img/travel/japan/tokyo_yokohama/tokyo_gardens1.jpg){: width="70%"}
 
-![tokyo gardens](./assets/img/travel/japan/tokyo_yokohama/tokyo_gardens2.jpg){: width="60%"}
+![tokyo gardens](./assets/img/travel/japan/tokyo_yokohama/tokyo_gardens2.jpg){: width="70%"}
 
 #### Peaceful gardens in Shinjuku and Asakusa
 
@@ -36,9 +36,9 @@ category: japan
 
 #### Moku Moku Waku Waku sculpture in Queen's Square
 
-![yokohama memorial park](./assets/img/travel/japan/tokyo_yokohama/yokohama_memorial1.jpg){: width="60%"}
+![yokohama memorial park](./assets/img/travel/japan/tokyo_yokohama/yokohama_memorial1.jpg){: width="70%"}
 
-![yokohama memorial park](./assets/img/travel/japan/tokyo_yokohama/yokohama_memorial2.jpg){: width="60%"}
+![yokohama memorial park](./assets/img/travel/japan/tokyo_yokohama/yokohama_memorial2.jpg){: width="70%"}
 
 #### Nippon Maru Memorial Park
 

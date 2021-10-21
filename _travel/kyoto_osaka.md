@@ -30,15 +30,15 @@ category: japan
 
 ![kyoto palace gardens](./assets/img/travel/japan/kyoto_osaka/kyoto_gardens.jpg){: width="80%"}
 
-![kyoto palace](./assets/img/travel/japan/kyoto_osaka/kyoto_palace.jpg){: width="50%"}
+![kyoto palace](./assets/img/travel/japan/kyoto_osaka/kyoto_palace.jpg){: width="80%"}
 
 #### Imperial Palace
 
-![kyoto gates](./assets/img/travel/japan/kyoto_osaka/kyoto_gates1.jpg){: width="50%"}
+![kyoto gates](./assets/img/travel/japan/kyoto_osaka/kyoto_gates1.jpg){: width="70%"}
 
-![kyoto gates](./assets/img/travel/japan/kyoto_osaka/kyoto_gates2.jpg){: width="50%"}
+![kyoto gates](./assets/img/travel/japan/kyoto_osaka/kyoto_gates2.jpg){: width="70%"}
 
-![kyoto gates](./assets/img/travel/japan/kyoto_osaka/kyoto_gates3.jpg){: width="50%"}
+![kyoto gates](./assets/img/travel/japan/kyoto_osaka/kyoto_gates3.jpg){: width="70%"}
 
 #### Torii gates at Fushimi-Inari shrine
 
@@ -54,10 +54,10 @@ category: japan
 
 #### Dotombori Canal
 
-![osaka ferris wheel](./assets/img/travel/japan/kyoto_osaka/osaka_ferris_wheel.jpg){: width="80%"}
+![osaka ferris wheel](./assets/img/travel/japan/kyoto_osaka/osaka_ferris_wheel.jpg){: width="100%"}
 
 #### Dotombori Canal - Ferris wheel
 
-![osaka street lanterns](./assets/img/travel/japan/kyoto_osaka/osaka_street_lanterns.jpg){: width="80%"}
+![osaka street lanterns](./assets/img/travel/japan/kyoto_osaka/osaka_street_lanterns.jpg){: width="100%"}
 
 #### Street lanterns in food districts
