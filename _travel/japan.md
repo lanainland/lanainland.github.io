@@ -18,7 +18,7 @@ Kyoto
 
 #### Arashiyama bamboo forest and Tenryu-ji Temple Gardens
 
-![kyoto temple food](./assets/img/travel/japan/kyoto_osaka/kyoto_temple_food.jpg){: width="80%"}
+![kyoto temple food](./assets/img/travel/japan/kyoto_osaka/kyoto_temple_food.jpg){: width="100%"}
 
 #### Zen vegetarian lunch at Tenryu-ji's restaurant - Shigetsu
 
@@ -26,13 +26,13 @@ Kyoto
 
 #### Dining in Kyoto - details
 
-![kyoto palace](./assets/img/travel/japan/kyoto_osaka/kyoto_palace.jpg){: width="80%"}
+![kyoto palace](./assets/img/travel/japan/kyoto_osaka/kyoto_palace.jpg){: width="70%"}
 
 ![kyoto palace gardens](./assets/img/travel/japan/kyoto_osaka/kyoto_gardens.jpg){: width="80%"}
 
 #### Imperial Palace
 
-![kyoto gates](./assets/img/travel/japan/kyoto_osaka/kyoto_gates.jpg){: width="80%"}
+![kyoto gates](./assets/img/travel/japan/kyoto_osaka/kyoto_gates.jpg){: width="100%"}
 
 #### Zen vegetarian lunch at Tenryu-ji's restaurant - Shigetsu
 
