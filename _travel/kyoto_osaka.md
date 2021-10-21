@@ -18,9 +18,9 @@ category: japan
 
 #### Arashiyama bamboo forest and Tenryu-ji Temple Gardens
 
-![kyoto temple food](./assets/img/travel/japan/kyoto_osaka/kyoto_temple_food1.jpg){: width="60%"}
+![kyoto temple food](./assets/img/travel/japan/kyoto_osaka/kyoto_temple_food1.jpg){: width="70%"}
 
-![kyoto temple food](./assets/img/travel/japan/kyoto_osaka/kyoto_temple_food2.jpg){: width="60%"}
+![kyoto temple food](./assets/img/travel/japan/kyoto_osaka/kyoto_temple_food2.jpg){: width="70%"}
 
 #### Zen vegetarian lunch at Tenryu-ji's restaurant - Shigetsu
 
@@ -28,9 +28,9 @@ category: japan
 
 #### Dining in Kyoto - details
 
-![kyoto palace gardens](./assets/img/travel/japan/kyoto_osaka/kyoto_gardens.jpg){: width="80%"}
-
 ![kyoto palace](./assets/img/travel/japan/kyoto_osaka/kyoto_palace.jpg){: width="80%"}
+
+![kyoto palace gardens](./assets/img/travel/japan/kyoto_osaka/kyoto_gardens.jpg){: width="80%"}
 
 #### Imperial Palace
 
