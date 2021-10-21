@@ -22,7 +22,7 @@ category: japan
 
 #### Peaceful gardens in Shinjuku and Asakusa
 
-![tokyo food](./assets/img/travel/japan/tokyo_yokohama/tokyo_food.jpg){: width="100%"}
+![tokyo food](./assets/img/travel/japan/tokyo_yokohama/tokyo_food.jpg){: width="80%"}
 
 #### Dining in Tokyo
 
@@ -34,9 +34,9 @@ category: japan
 
 #### Moku Moku Waku Waku sculpture in Queen's Square
 
-![yokohama memorial park](./assets/img/travel/japan/tokyo_yokohama/yokohama_memorial1.jpg){: width="80%"}
+![yokohama memorial park](./assets/img/travel/japan/tokyo_yokohama/yokohama_memorial1.jpg){: width="60%"}
 
-![yokohama memorial park](./assets/img/travel/japan/tokyo_yokohama/yokohama_memorial2.jpg){: width="80%"}
+![yokohama memorial park](./assets/img/travel/japan/tokyo_yokohama/yokohama_memorial2.jpg){: width="60%"}
 
 #### Nippon Maru Memorial Park
 
