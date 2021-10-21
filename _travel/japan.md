@@ -18,7 +18,9 @@ category: japan
 
 #### Arashiyama bamboo forest and Tenryu-ji Temple Gardens
 
-![kyoto temple food](./assets/img/travel/japan/kyoto_osaka/kyoto_temple_food.jpg){: width="100%"}
+![kyoto temple food](./assets/img/travel/japan/kyoto_osaka/kyoto_temple_food1.jpg){: width="60%"}
+
+![kyoto temple food](./assets/img/travel/japan/kyoto_osaka/kyoto_temple_food2.jpg){: width="60%"}
 
 #### Zen vegetarian lunch at Tenryu-ji's restaurant - Shigetsu
 
@@ -26,15 +28,19 @@ category: japan
 
 #### Dining in Kyoto - details
 
-![kyoto palace](./assets/img/travel/japan/kyoto_osaka/kyoto_palace.jpg){: width="70%"}
+![kyoto palace](./assets/img/travel/japan/kyoto_osaka/kyoto_palace.jpg){: width="80%"}
 
 ![kyoto palace gardens](./assets/img/travel/japan/kyoto_osaka/kyoto_gardens.jpg){: width="80%"}
 
 #### Imperial Palace
 
-![kyoto gates](./assets/img/travel/japan/kyoto_osaka/kyoto_gates.jpg){: width="100%"}
+![kyoto gates](./assets/img/travel/japan/kyoto_osaka/kyoto_gates1.jpg){: width="50%"}
 
-#### Zen vegetarian lunch at Tenryu-ji's restaurant - Shigetsu
+![kyoto gates](./assets/img/travel/japan/kyoto_osaka/kyoto_gates2.jpg){: width="50%"}
+
+![kyoto gates](./assets/img/travel/japan/kyoto_osaka/kyoto_gates3.jpg){: width="50%"}
+
+#### Torii gates at Fushimi-Inari shrine
 
 ![kyoto orchids](./assets/img/travel/japan/kyoto_osaka/kyoto_orchids.jpg){: width="80%"}
 
