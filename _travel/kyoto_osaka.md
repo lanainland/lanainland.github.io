@@ -28,9 +28,9 @@ category: japan
 
 #### Dining in Kyoto - details
 
-![kyoto palace](./assets/img/travel/japan/kyoto_osaka/kyoto_palace.jpg){: width="80%"}
-
 ![kyoto palace gardens](./assets/img/travel/japan/kyoto_osaka/kyoto_gardens.jpg){: width="80%"}
+
+![kyoto palace](./assets/img/travel/japan/kyoto_osaka/kyoto_palace.jpg){: width="50%"}
 
 #### Imperial Palace
 
