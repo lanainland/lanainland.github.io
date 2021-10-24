@@ -42,10 +42,6 @@ category: japan
 
 #### Torii gates at Fushimi-Inari shrine
 
-![kyoto orchids](./assets/img/travel/japan/kyoto_osaka/kyoto_orchids.jpg){: width="80%"}
-
-#### Japanese Orchids
-
 ## Osaka
 
 ![osaka dotombori canal](./assets/img/travel/japan/kyoto_osaka/osaka_canal.jpg){: width="80%"}
