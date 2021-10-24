@@ -1,5 +1,5 @@
 ---
-title: Kobe│Nara│Kanazawa
+title: Kobe, Nara & Kanazawa
 image: travel/japan/kobe_nara_kanazawa/nara_deer.jpg
 thumbnail: travel/japan/kobe_nara_kanazawa/nara_doorway.jpg
 alt: kobe nara kanazawa
