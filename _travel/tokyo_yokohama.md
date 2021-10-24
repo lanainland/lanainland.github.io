@@ -1,5 +1,5 @@
 ---
-title: Tokyo│Yokohama
+title: Tokyo & Yokohama
 image: travel/japan/tokyo_yokohama/tokyo_lanterns.jpg
 thumbnail: travel/japan/tokyo_yokohama/tokyo_godzilla.jpg
 alt: tokyo and yokohama
