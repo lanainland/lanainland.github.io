@@ -1,5 +1,5 @@
 ---
-title: Tokyo & Yokohama
+title: Tokyo│Yokohama
 image: travel/japan/tokyo_yokohama/tokyo_lanterns.jpg
 thumbnail: travel/japan/tokyo_yokohama/tokyo_godzilla.jpg
 alt: tokyo and yokohama
@@ -24,6 +24,10 @@ category: japan
 
 #### Peaceful gardens in Shinjuku and Asakusa
 
+![tokyo sushi](./assets/img/travel/japan/tokyo_yokohama/tokyo_sushi.jpg){: width="80%"}
+
+#### Sushi at the fish market
+
 ![tokyo food](./assets/img/travel/japan/tokyo_yokohama/tokyo_food.jpg){: width="80%"}
 
 #### Dining in Tokyo
@@ -42,6 +46,12 @@ category: japan
 
 #### Nippon Maru Memorial Park
 
+![yokohama street tiles](./assets/img/travel/japan/tokyo_yokohama/yokohama_tiles.jpg){: width="70%"}
+
+![yokohama street tile](./assets/img/travel/japan/tokyo_yokohama/yokohama_tile.jpg){: width="70%"}
+
+![yokohama map](./assets/img/travel/japan/tokyo_yokohama/yokohama_map.jpg){: width="70%"}
+
 ![yokohama chinatown pandas](./assets/img/travel/japan/tokyo_yokohama/yokohama_pandas.jpg){: width="80%"}
 
-#### Pandas in Yokohama Chinatown
+#### Street curiosities in Yokohama - street tiles and Pandas

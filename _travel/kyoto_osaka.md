@@ -1,5 +1,5 @@
 ---
-title: Kyoto & Osaka
+title: Kyoto│Osaka
 image: travel/japan/kyoto_osaka/kyoto_temple1.jpg
 thumbnail: travel/japan/kyoto_osaka/kyoto_pond.jpg
 alt: kyoto and osaka
@@ -58,6 +58,8 @@ category: japan
 
 #### Dotombori Canal - Ferris wheel
 
+![osaka manhole cover](./assets/img/travel/japan/kyoto_osaka/osaka_cover.jpg){: width="70%"}
+
 ![osaka street lanterns](./assets/img/travel/japan/kyoto_osaka/osaka_street_lanterns.jpg){: width="100%"}
 
-#### Street lanterns in food districts
+#### Osaka street curiosities - manhole cover and food district lanterns
