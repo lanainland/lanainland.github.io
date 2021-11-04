@@ -28,4 +28,4 @@ category: japan
 
 ![yokohama chinatown pandas](./assets/img/travel/japan/yokohama/yokohama_pandas.jpg){: width="80%"}
 
-#### Street curiosities in Yokohama - street tiles and Pandas
+#### Street curiosities in Yokohama - pavements and Pandas
