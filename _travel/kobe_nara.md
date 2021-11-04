@@ -1,6 +1,6 @@
 ---
 title: Kobe & Nara
-image: travel/japan/kobe_nara/nara_deer.jpg
+image: travel/japan/kobe_nara/nara_temple.jpg
 thumbnail: travel/japan/kobe_nara/nara_doorway.jpg
 alt: kobe and nara
 category: japan
@@ -8,7 +8,7 @@ category: japan
 
 ## Nara Park
 
-![nara temple](./assets/img/travel/japan/kobe_nara/nara_temple.jpg){: width="80%"}
+![nara temple](./assets/img/travel/japan/kobe_nara/nara_deer.jpg){: width="80%"}
 
 ![nara temple door](./assets/img/travel/japan/kobe_nara/nara_doorway.jpg){: width="80%"}
 
