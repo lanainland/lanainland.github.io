@@ -20,7 +20,7 @@ category: france
 
 ![montmartre](./assets/img/travel/france/paris/paris_montmartre.jpg){: width="80%"}
 
-#### View of paris from montmartre
+#### View of Paris from Montmartre
 
 ![notre dame](./assets/img/travel/france/paris/paris_notredame1.jpg){: width="80%"}
 
