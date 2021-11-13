@@ -44,7 +44,7 @@ category: france
 
 ## Sant'Antonino
 
-Arguably one of the most beautiful medieval villages in France with amazing mountain views.
+One of the most beautiful medieval villages in France with amazing mountain views.
 
 ![sant'antonino view](./assets/img/travel/france/corsica/sant_antonino_view1.jpg){: width="80%"}
 
