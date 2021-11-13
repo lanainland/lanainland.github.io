@@ -6,8 +6,6 @@ alt: tokyo
 category: japan
 ---
 
-## Tokyo
-
 ![tokyo godzilla](./assets/img/travel/japan/tokyo/tokyo_godzilla.jpg){: width="80%"}
 
 ![tokyo shibuya crossing](./assets/img/travel/japan/tokyo/tokyo_crossing.jpg){: width="80%"}

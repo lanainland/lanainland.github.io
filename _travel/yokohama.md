@@ -6,8 +6,6 @@ alt: yokohama
 category: japan
 ---
 
-## Yokohama
-
 ![yokohama sculpture](./assets/img/travel/japan/yokohama/yokohama_sculpture2.jpg){: width="80%"}
 
 #### Moku Moku Waku Waku sculpture in Queen's Square

@@ -6,8 +6,6 @@ alt: kyoto
 category: japan
 ---
 
-## Kyoto
-
 ![kyoto temple](./assets/img/travel/japan/kyoto/kyoto_temple2.jpg){: width="80%"}
 
 #### Kiyomizu-dera Temple

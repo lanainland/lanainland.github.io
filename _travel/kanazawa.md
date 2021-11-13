@@ -6,8 +6,6 @@ alt: kanazawa
 category: japan
 ---
 
-## Kanazawa
-
 ![kanazawa castle bridge](./assets/img/travel/japan/kanazawa/kanazawa_castle.jpg){: width="80%"}
 
 #### Kanazawa castle and gardens
