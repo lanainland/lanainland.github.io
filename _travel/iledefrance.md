@@ -44,7 +44,7 @@ category: france
 
 ![old door](./assets/img/travel/france/iledefrance/dourdan_door.jpg){: width="80%"}
 
-#### Étampes
+## Étampes
 
 ![church](./assets/img/travel/france/iledefrance/etampes_church.jpg){: width="80%"}
 
@@ -52,7 +52,7 @@ category: france
 
 ![cobblestone street](./assets/img/travel/france/iledefrance/etampes_street.jpg){: width="80%"}
 
-#### Bonnelles
+## Bonnelles
 
 ![pond reflection](./assets/img/travel/france/iledefrance/bonnelles_pond.jpg){: width="80%"}
 
@@ -60,7 +60,7 @@ category: france
 
 ![street bench](./assets/img/travel/france/iledefrance/bonnelles_bench.jpg){: width="80%"}
 
-#### Saint-Jean de Beauregard
+## Saint-Jean de Beauregard
 
 ![clock](./assets/img/travel/france/iledefrance/saintjean_clock.jpg){: width="80%"}
 
