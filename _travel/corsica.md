@@ -1,7 +1,7 @@
 ---
 title: Corsica
 image: travel/france/corsica/saint_florent_citadel.jpg
-thumbnail: travel/france/corsica/ile_rousse1.jpg
+thumbnail: travel/france/corsica/ile_rousse2.jpg
 alt: corsica
 category: france
 ---

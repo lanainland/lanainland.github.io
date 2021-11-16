@@ -1,7 +1,7 @@
 ---
 title: Île de France
 image: travel/france/iledefrance/vers_hall.jpg
-thumbnail: travel/france/iledefrance/vers_hall_mirrors2.jpg
+thumbnail: travel/france/iledefrance/vers_trianon_hall.jpg
 alt: île de france
 category: france
 ---
