@@ -14,15 +14,17 @@ category: france
 
 #### The Castle and the river Cher
 
-![statue](./assets/img/travel/france/centreloire/chenon_statue.jpg){: width="80%"}
+![statue](./assets/img/travel/france/centreloire/chenon_statue.jpg){: width="60%"}
 
-![castle kitchen](./assets/img/travel/france/centreloire/chenon_kitchen.jpg){: width="80%"}
+![castle kitchen](./assets/img/travel/france/centreloire/chenon_kitchen.jpg){: width="60%"}
 
-![arch window](./assets/img/travel/france/centreloire/chenon_arch_window.jpg){: width="80%"}
+![arch window](./assets/img/travel/france/centreloire/chenon_arch_window.jpg){: width="60%"}
+
+#### Light and shadow through the castle windows
 
 ![hallway](./assets/img/travel/france/centreloire/chenon_hall.jpg){: width="80%"}
 
-#### Light and shadow through the castle windows
+#### Main hallway
 
 ![ceiling arches](./assets/img/travel/france/centreloire/chenon_ceiling1.jpg){: width="80%"}
 
@@ -32,17 +34,19 @@ category: france
 
 ![window view](./assets/img/travel/france/centreloire/chenon_window1.jpg){: width="80%"}
 
-![window view](./assets/img/travel/france/centreloire/chenon_window2.jpg){: width="80%"}
+![window view](./assets/img/travel/france/centreloire/chenon_window2.jpg){: width="60%"}
 
 ![window view](./assets/img/travel/france/centreloire/chenon_window3.jpg){: width="80%"}
 
+#### Through the looking glass
+
 ![window view](./assets/img/travel/france/centreloire/chenon_window4.jpg){: width="80%"}
 
-![window view](./assets/img/travel/france/centreloire/chenon_window5.jpg){: width="80%"}
+![window view](./assets/img/travel/france/centreloire/chenon_window5.jpg){: width="60%"}
 
 #### Views from the Castle
 
-![castle tower](./assets/img/travel/france/centreloire/chenon_tower.jpg){: width="80%"}
+![castle tower](./assets/img/travel/france/centreloire/chenon_tower.jpg){: width="60%"}
 
 #### Main tower
 
@@ -74,6 +78,6 @@ category: france
 
 #### Charlemagne Tower and Basilica Saint-Martin
 
-![violin shop](./assets/img/travel/france/centreloire/tours_violin.jpg){: width="80%"}
+![violin shop](./assets/img/travel/france/centreloire/tours_violin.jpg){: width="60%"}
 
 #### An old violin making shop window

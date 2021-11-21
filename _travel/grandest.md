@@ -16,9 +16,9 @@ category: france
 
 #### The city of canals
 
-![street lamp](./assets/img/travel/france/grandest/strasbourg_lamp1.jpg){: width="80%"}
+![street lamp](./assets/img/travel/france/grandest/strasbourg_lamp1.jpg){: width="60%"}
 
-![building lamp](./assets/img/travel/france/grandest/strasbourg_lamp2.jpg){: width="80%"}
+![building lamp](./assets/img/travel/france/grandest/strasbourg_lamp2.jpg){: width="60%"}
 
 ![bridge](./assets/img/travel/france/grandest/strasbourg_bridge1.jpg){: width="80%"}
 
@@ -48,13 +48,15 @@ category: france
 
 ![museum building](./assets/img/travel/france/grandest/troyes_museum1.jpg){: width="80%"}
 
-![museum building](./assets/img/travel/france/grandest/troyes_museum2.jpg){: width="80%"}
+![museum building](./assets/img/travel/france/grandest/troyes_museum2.jpg){: width="60%"}
 
-![museum staircase](./assets/img/travel/france/grandest/troyes_museum3.jpg){: width="80%"}
+![museum staircase](./assets/img/travel/france/grandest/troyes_museum3.jpg){: width="60%"}
+
+#### Vauluisant Museum - building and tower
 
 ![painted glass](./assets/img/travel/france/grandest/troyes_museum4.jpg){: width="80%"}
 
-#### Vauluisant Museum
+#### Vauluisant Museum - stained glass
 
 ![museum room](./assets/img/travel/france/grandest/troyes_museum5.jpg){: width="80%"}
 

@@ -10,7 +10,7 @@ category: france
 
 ![saint florent façade](./assets/img/travel/france/corsica/saint_florent_facade.jpg){: width="80%"}
 
-![saint florent berries](./assets/img/travel/france/corsica/saint_florent_berries.jpg){: width="80%"}
+![saint florent berries](./assets/img/travel/france/corsica/saint_florent_berries.jpg){: width="60%"}
 
 #### Around town
 
@@ -38,7 +38,7 @@ category: france
 
 ![île rousse mermaid](./assets/img/travel/france/corsica/ile_rousse_mermaid.jpg){: width="80%"}
 
-![île rousse vegetation](./assets/img/travel/france/corsica/ile_rousse_vegetation.jpg){: width="80%"}
+![île rousse vegetation](./assets/img/travel/france/corsica/ile_rousse_vegetation.jpg){: width="60%"}
 
 #### Rocky coastline and local vegetation
 
@@ -52,6 +52,6 @@ One of the most beautiful medieval villages in France with amazing mountain view
 
 ![sant'antonino town](./assets/img/travel/france/corsica/sant_antonino1.jpg){: width="80%"}
 
-![sant'antonino town](./assets/img/travel/france/corsica/sant_antonino2.jpg){: width="80%"}
+![sant'antonino town](./assets/img/travel/france/corsica/sant_antonino2.jpg){: width="60%"}
 
-![sant'antonino town](./assets/img/travel/france/corsica/sant_antonino3.jpg){: width="80%"}
+![sant'antonino town](./assets/img/travel/france/corsica/sant_antonino3.jpg){: width="60%"}
