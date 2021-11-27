@@ -20,6 +20,8 @@ category: japan
 
 #### Traditional houses
 
-![kanazawa street cover ](./assets/img/travel/japan/kanazawa/kanazawa_cover.jpg){: width="70%"}
+![kanazawa street number ](./assets/img/travel/japan/kanazawa/kanazawa_sign.jpg){: width="60%"}
 
-#### Kanazawa manhole cover
+![kanazawa street cover ](./assets/img/travel/japan/kanazawa/kanazawa_cover.jpg){: width="60%"}
+
+#### Kanazawa street number plaque and manhole cover
