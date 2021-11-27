@@ -10,7 +10,7 @@ category: france
 
 ![staircase](./assets/img/travel/france/iledefrance/vers_staircase.jpg){: width="80%"}
 
-![chapel](./assets/img/travel/france/iledefrance/vers_chapel.jpg){: width="80%"}
+![chapel](./assets/img/travel/france/iledefrance/vers_chapel.jpg){: width="70%"}
 
 #### Palace of Versailles
 
@@ -18,35 +18,35 @@ category: france
 
 ![chandelier](./assets/img/travel/france/iledefrance/vers_chandelier.jpg){: width="80%"}
 
-![hall of mirrors](./assets/img/travel/france/iledefrance/vers_hall_mirrors2.jpg){: width="80%"}
+![hall of mirrors](./assets/img/travel/france/iledefrance/vers_hall_mirrors2.jpg){: width="90%"}
 
 #### Hall of Mirrors
 
-![grand trianon](./assets/img/travel/france/iledefrance/vers_trianon_mirrors.jpg){: width="80%"}
+![grand trianon](./assets/img/travel/france/iledefrance/vers_trianon_mirrors.jpg){: width="90%"}
 
-![grand trianon](./assets/img/travel/france/iledefrance/vers_trianon_hall.jpg){: width="80%"}
+![grand trianon](./assets/img/travel/france/iledefrance/vers_trianon_hall.jpg){: width="90%"}
 
-![grand trianon](./assets/img/travel/france/iledefrance/vers_trianon_arches.jpg){: width="80%"}
+![grand trianon](./assets/img/travel/france/iledefrance/vers_trianon_arches.jpg){: width="70%"}
 
 #### The Grand Trianon
 
-![temple of love](./assets/img/travel/france/iledefrance/vers_temple_love.jpg){: width="80%"}
+![temple of love](./assets/img/travel/france/iledefrance/vers_temple_love.jpg){: width="70%"}
 
 #### Temple of Love
 
 ## Dourdan
 
-![town hall](./assets/img/travel/france/iledefrance/dourdan_town_hall.jpg){: width="80%"}
+![town hall](./assets/img/travel/france/iledefrance/dourdan_town_hall.jpg){: width="90%"}
 
 ![main street](./assets/img/travel/france/iledefrance/dourdan_street.jpg){: width="80%"}
 
 ![castle and church](./assets/img/travel/france/iledefrance/dourdan_castle_church.jpg){: width="80%"}
 
-![old door](./assets/img/travel/france/iledefrance/dourdan_door.jpg){: width="80%"}
+![old door](./assets/img/travel/france/iledefrance/dourdan_door.jpg){: width="70%"}
 
 ## Étampes
 
-![church](./assets/img/travel/france/iledefrance/etampes_church.jpg){: width="80%"}
+![church](./assets/img/travel/france/iledefrance/etampes_church.jpg){: width="70%"}
 
 ![town hall](./assets/img/travel/france/iledefrance/etampes_town_hall.jpg){: width="80%"}
 
@@ -54,7 +54,7 @@ category: france
 
 ## Bonnelles
 
-![pond reflection](./assets/img/travel/france/iledefrance/bonnelles_pond.jpg){: width="80%"}
+![pond reflection](./assets/img/travel/france/iledefrance/bonnelles_pond.jpg){: width="70%"}
 
 ![façade](./assets/img/travel/france/iledefrance/bonnelles_facade.jpg){: width="80%"}
 
@@ -64,11 +64,11 @@ category: france
 
 ![clock](./assets/img/travel/france/iledefrance/saintjean_clock.jpg){: width="80%"}
 
-![front garden](./assets/img/travel/france/iledefrance/saintjean_front.jpg){: width="80%"}
+![front garden](./assets/img/travel/france/iledefrance/saintjean_front.jpg){: width="90%"}
 
-![potager](./assets/img/travel/france/iledefrance/saintjean_potager.jpg){: width="80%"}
+![potager](./assets/img/travel/france/iledefrance/saintjean_potager.jpg){: width="90%"}
 
-![apple tree](./assets/img/travel/france/iledefrance/saintjean_apple.jpg){: width="80%"}
+![apple tree](./assets/img/travel/france/iledefrance/saintjean_apple.jpg){: width="70%"}
 
 ![pumpkins](./assets/img/travel/france/iledefrance/saintjean_pumpkins.jpg){: width="80%"}
 
