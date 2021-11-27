@@ -6,19 +6,19 @@ alt: tokyo
 category: japan
 ---
 
-![tokyo godzilla](./assets/img/travel/japan/tokyo/tokyo_godzilla.jpg){: width="80%"}
+![tokyo godzilla](./assets/img/travel/japan/tokyo/tokyo_godzilla.jpg){: width="90%"}
 
-![tokyo shibuya crossing](./assets/img/travel/japan/tokyo/tokyo_crossing.jpg){: width="80%"}
+![tokyo shibuya crossing](./assets/img/travel/japan/tokyo/tokyo_crossing.jpg){: width="90%"}
 
 #### Peekaboo Godzilla in Shinjuku and the famous Shibuya crossing
 
-![tokyo komagata bridge](./assets/img/travel/japan/tokyo/tokyo_bridge.jpg){: width="80%"}
+![tokyo komagata bridge](./assets/img/travel/japan/tokyo/tokyo_bridge.jpg){: width="90%"}
 
 #### View from Komagata bridge in Asakusa
 
-![tokyo gardens](./assets/img/travel/japan/tokyo/tokyo_gardens1.jpg){: width="70%"}
+![tokyo gardens](./assets/img/travel/japan/tokyo/tokyo_gardens1.jpg){: width="80%"}
 
-![tokyo gardens](./assets/img/travel/japan/tokyo/tokyo_gardens2.jpg){: width="70%"}
+![tokyo gardens](./assets/img/travel/japan/tokyo/tokyo_gardens2.jpg){: width="80%"}
 
 #### Peaceful gardens in Shinjuku and Asakusa
 

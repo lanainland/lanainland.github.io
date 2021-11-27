@@ -6,9 +6,9 @@ alt: osaka
 category: japan
 ---
 
-![osaka dotombori canal](./assets/img/travel/japan/osaka/osaka_canal.jpg){: width="80%"}
+![osaka dotombori canal](./assets/img/travel/japan/osaka/osaka_canal.jpg){: width="90%"}
 
-![osaka canal lanterns](./assets/img/travel/japan/osaka/osaka_canal_lanterns.jpg){: width="80%"}
+![osaka canal lanterns](./assets/img/travel/japan/osaka/osaka_canal_lanterns.jpg){: width="90%"}
 
 #### Dotombori Canal
 

@@ -8,7 +8,7 @@ category: france
 
 ![eiffel tower](./assets/img/travel/france/paris/paris_eiffel2.jpg){: width="80%"}
 
-![eiffel tower](./assets/img/travel/france/paris/paris_eiffel3.jpg){: width="80%"}
+![eiffel tower](./assets/img/travel/france/paris/paris_eiffel3.jpg){: width="70%"}
 
 ![eiffel tower](./assets/img/travel/france/paris/paris_eiffel4.jpg){: width="80%"}
 
@@ -18,11 +18,11 @@ category: france
 
 #### Eiffel from all angles
 
-![montmartre](./assets/img/travel/france/paris/paris_montmartre.jpg){: width="80%"}
+![montmartre](./assets/img/travel/france/paris/paris_montmartre.jpg){: width="90%"}
 
 #### View of Paris from Montmartre
 
-![notre dame](./assets/img/travel/france/paris/paris_notredame1.jpg){: width="80%"}
+![notre dame](./assets/img/travel/france/paris/paris_notredame1.jpg){: width="90%"}
 
 ![notre dame](./assets/img/travel/france/paris/paris_notredame2.jpg){: width="80%"}
 
@@ -30,7 +30,7 @@ category: france
 
 ![eiffel bridge view](./assets/img/travel/france/paris/paris_eiffel_bridge.jpg){: width="80%"}
 
-![pont d'arcole](./assets/img/travel/france/paris/paris_arcole_bridge.jpg){: width="80%"}
+![pont d'arcole](./assets/img/travel/france/paris/paris_arcole_bridge.jpg){: width="70%"}
 
 #### Bridges
 
@@ -40,7 +40,7 @@ category: france
 
 #### Louvre
 
-![palais royal](./assets/img/travel/france/paris/paris_palais_royal.jpg){: width="80%"}
+![palais royal](./assets/img/travel/france/paris/paris_palais_royal.jpg){: width="70%"}
 
 #### Palais Royal
 
@@ -62,7 +62,7 @@ category: france
 
 #### Gare du Nord
 
-![pigs in shop window](./assets/img/travel/france/paris/paris_pigs.jpg){: width="80%"}
+![pigs in shop window](./assets/img/travel/france/paris/paris_pigs.jpg){: width="70%"}
 
 #### Pigs in Books
 

@@ -10,10 +10,10 @@ category: japan
 
 #### Kanazawa castle and gardens
 
-![kanazawa bridge](./assets/img/travel/japan/kanazawa/kanazawa_bridge.jpg){: width="80%"}
+![kanazawa bridge](./assets/img/travel/japan/kanazawa/kanazawa_bridge.jpg){: width="90%"}
 
 #### Nakanohashi bridge at night
 
-![kanazawa street cover ](./assets/img/travel/japan/kanazawa/kanazawa_cover.jpg){: width="80%"}
+![kanazawa street cover ](./assets/img/travel/japan/kanazawa/kanazawa_cover.jpg){: width="70%"}
 
 #### Kanazawa manhole cover

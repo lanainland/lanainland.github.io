@@ -8,17 +8,17 @@ category: france
 
 ## Strasbourg
 
-![canal](./assets/img/travel/france/grandest/strasbourg_canal2.jpg){: width="80%"}
+![canal](./assets/img/travel/france/grandest/strasbourg_canal2.jpg){: width="90%"}
 
-![canal](./assets/img/travel/france/grandest/strasbourg_canal3.jpg){: width="80%"}
+![canal](./assets/img/travel/france/grandest/strasbourg_canal3.jpg){: width="90%"}
 
-![canal](./assets/img/travel/france/grandest/strasbourg_canal4.jpg){: width="80%"}
+![canal](./assets/img/travel/france/grandest/strasbourg_canal4.jpg){: width="90%"}
 
 #### The city of canals
 
-![street lamp](./assets/img/travel/france/grandest/strasbourg_lamp1.jpg){: width="60%"}
+![street lamp](./assets/img/travel/france/grandest/strasbourg_lamp1.jpg){: width="70%"}
 
-![building lamp](./assets/img/travel/france/grandest/strasbourg_lamp2.jpg){: width="60%"}
+![building lamp](./assets/img/travel/france/grandest/strasbourg_lamp2.jpg){: width="70%"}
 
 ![bridge](./assets/img/travel/france/grandest/strasbourg_bridge1.jpg){: width="80%"}
 
@@ -40,17 +40,17 @@ category: france
 
 ## Troyes
 
-![old buildings](./assets/img/travel/france/grandest/troyes_buildings1.jpg){: width="80%"}
-
 ![old buildings](./assets/img/travel/france/grandest/troyes_buildings2.jpg){: width="80%"}
+
+![old buildings](./assets/img/travel/france/grandest/troyes_buildings1.jpg){: width="90%"}
 
 #### Old town buildings
 
-![museum building](./assets/img/travel/france/grandest/troyes_museum1.jpg){: width="80%"}
+![museum building](./assets/img/travel/france/grandest/troyes_museum1.jpg){: width="90%"}
 
-![museum building](./assets/img/travel/france/grandest/troyes_museum2.jpg){: width="60%"}
+![museum building](./assets/img/travel/france/grandest/troyes_museum2.jpg){: width="70%"}
 
-![museum staircase](./assets/img/travel/france/grandest/troyes_museum3.jpg){: width="60%"}
+![museum staircase](./assets/img/travel/france/grandest/troyes_museum3.jpg){: width="70%"}
 
 #### Vauluisant Museum - building and tower
 
@@ -58,7 +58,7 @@ category: france
 
 #### Vauluisant Museum - stained glass
 
-![museum room](./assets/img/travel/france/grandest/troyes_museum5.jpg){: width="80%"}
+![museum room](./assets/img/travel/france/grandest/troyes_museum5.jpg){: width="90%"}
 
 #### Museum of Fine Arts and Archeology
 
@@ -68,7 +68,7 @@ category: france
 
 #### Around town
 
-![canal sculpture](./assets/img/travel/france/grandest/troyes_sculpture.jpg){: width="80%"}
+![canal sculpture](./assets/img/travel/france/grandest/troyes_sculpture.jpg){: width="90%"}
 
 ![canal fountain](./assets/img/travel/france/grandest/troyes_fountain.jpg){: width="80%"}
 

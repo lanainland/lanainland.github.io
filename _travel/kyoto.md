@@ -6,13 +6,13 @@ alt: kyoto
 category: japan
 ---
 
-![kyoto temple](./assets/img/travel/japan/kyoto/kyoto_temple2.jpg){: width="80%"}
+![kyoto temple](./assets/img/travel/japan/kyoto/kyoto_temple2.jpg){: width="70%"}
 
 #### Kiyomizu-dera Temple
 
-![kyoto bamboo forest](./assets/img/travel/japan/kyoto/kyoto_bamboo.jpg){: width="80%"}
+![kyoto bamboo forest](./assets/img/travel/japan/kyoto/kyoto_bamboo.jpg){: width="90%"}
 
-![kyoto temple gardens](./assets/img/travel/japan/kyoto/kyoto_pond.jpg){: width="80%"}
+![kyoto temple gardens](./assets/img/travel/japan/kyoto/kyoto_pond.jpg){: width="90%"}
 
 #### Arashiyama bamboo forest and Tenryu-ji Temple Gardens
 
@@ -28,7 +28,7 @@ category: japan
 
 ![kyoto palace](./assets/img/travel/japan/kyoto/kyoto_palace.jpg){: width="80%"}
 
-![kyoto palace gardens](./assets/img/travel/japan/kyoto/kyoto_gardens.jpg){: width="80%"}
+![kyoto palace gardens](./assets/img/travel/japan/kyoto/kyoto_gardens.jpg){: width="90%"}
 
 #### Imperial Palace
 

@@ -14,27 +14,27 @@ category: france
 
 #### View of the Basilica with statues from different parts of the city
 
-![le panier district](./assets/img/travel/france/provence_cotedazur/marseille_panier.jpg){: width="80%"}
+![le panier district](./assets/img/travel/france/provence_cotedazur/marseille_panier.jpg){: width="90%"}
 
 #### Le Panier district
 
-![longchamp palace](./assets/img/travel/france/provence_cotedazur/marseille_longchamp1.jpg){: width="80%"}
+![longchamp palace](./assets/img/travel/france/provence_cotedazur/marseille_longchamp1.jpg){: width="90%"}
 
 ![palace columns](./assets/img/travel/france/provence_cotedazur/marseille_longchamp2.jpg){: width="80%"}
 
 #### Longchamp Palace
 
-![fishing port](./assets/img/travel/france/provence_cotedazur/marseille_auffes.jpg){: width="80%"}
+![fishing port](./assets/img/travel/france/provence_cotedazur/marseille_auffes.jpg){: width="90%"}
 
 #### Vallon des Auffes - a small picturesque fishing port
 
-![monument](./assets/img/travel/france/provence_cotedazur/marseille_monument.jpg){: width="80%"}
+![monument](./assets/img/travel/france/provence_cotedazur/marseille_monument.jpg){: width="70%"}
 
 #### Porte d'Orient - monument dedicated to the Armées d'Afrique
 
 ![calanques](./assets/img/travel/france/provence_cotedazur/marseille_calanques1.jpg){: width="80%"}
 
-![calanques](./assets/img/travel/france/provence_cotedazur/marseille_calanques2.jpg){: width="80%"}
+![calanques](./assets/img/travel/france/provence_cotedazur/marseille_calanques2.jpg){: width="90%"}
 
 #### Calanques - limestone cliffs
 
@@ -44,7 +44,7 @@ category: france
 
 #### Nice Port
 
-![old town](./assets/img/travel/france/provence_cotedazur/nice_buildings1.jpg){: width="80%"}
+![old town](./assets/img/travel/france/provence_cotedazur/nice_buildings1.jpg){: width="90%"}
 
 ![old town](./assets/img/travel/france/provence_cotedazur/nice_buildings2.jpg){: width="80%"}
 
@@ -60,15 +60,15 @@ category: france
 
 #### Cimiez - Monastery and gardens
 
-![chapel](./assets/img/travel/france/provence_cotedazur/nice_chapel.jpg){: width="80%"}
+![chapel](./assets/img/travel/france/provence_cotedazur/nice_chapel.jpg){: width="70%"}
 
-![waterfall](./assets/img/travel/france/provence_cotedazur/nice_waterfall.jpg){: width="80%"}
+![waterfall](./assets/img/travel/france/provence_cotedazur/nice_waterfall.jpg){: width="70%"}
 
 #### Castle Hill
 
-![panoramic view](./assets/img/travel/france/provence_cotedazur/nice_view1.jpg){: width="80%"}
+![panoramic view](./assets/img/travel/france/provence_cotedazur/nice_view1.jpg){: width="90%"}
 
-![panoramic view](./assets/img/travel/france/provence_cotedazur/nice_view2.jpg){: width="80%"}
+![panoramic view](./assets/img/travel/france/provence_cotedazur/nice_view2.jpg){: width="90%"}
 
 #### Panoramic views of Nice from Castle Hill
 
@@ -76,29 +76,29 @@ category: france
 
 ![arles arena](./assets/img/travel/france/provence_cotedazur/arles_arena1.jpg){: width="80%"}
 
-![arles arena](./assets/img/travel/france/provence_cotedazur/arles_arena2.jpg){: width="80%"}
+![arles arena](./assets/img/travel/france/provence_cotedazur/arles_arena2.jpg){: width="90%"}
 
 #### Roman Amphitheatre
 
-![arles arena](./assets/img/travel/france/provence_cotedazur/arles_arena_postcard.jpg){: width="80%"}
+![arles arena](./assets/img/travel/france/provence_cotedazur/arles_arena_postcard.jpg){: width="90%"}
 
-#### The Amphitheatre in the 18th century - it was transformed into a town after the fall of the Roman Empire
+#### The Amphitheatre was transformed into a town after the fall of the Roman Empire
 
 ## Avignon
 
-![bridge](./assets/img/travel/france/provence_cotedazur/avignon_bridge.jpg){: width="80%"}
+![bridge](./assets/img/travel/france/provence_cotedazur/avignon_bridge.jpg){: width="90%"}
 
 #### Avignon Bridge
 
-![popes palace](./assets/img/travel/france/provence_cotedazur/avignon_palace.jpg){: width="80%"}
+![popes palace](./assets/img/travel/france/provence_cotedazur/avignon_palace.jpg){: width="90%"}
 
 #### Popes' Palace
 
-![popes palace](./assets/img/travel/france/provence_cotedazur/avignon_arch1.jpg){: width="80%"}
+![popes palace](./assets/img/travel/france/provence_cotedazur/avignon_arch1.jpg){: width="70%"}
 
-![popes palace](./assets/img/travel/france/provence_cotedazur/avignon_arch2.jpg){: width="80%"}
+![popes palace](./assets/img/travel/france/provence_cotedazur/avignon_arch2.jpg){: width="70%"}
 
-![popes palace](./assets/img/travel/france/provence_cotedazur/avignon_passage.jpg){: width="80%"}
+![popes palace](./assets/img/travel/france/provence_cotedazur/avignon_passage.jpg){: width="70%"}
 
 #### Popes' Palace - details
 
@@ -106,8 +106,8 @@ category: france
 
 #### Opera House
 
-![street art](./assets/img/travel/france/provence_cotedazur/avignon_street1.jpg){: width="80%"}
+![street art](./assets/img/travel/france/provence_cotedazur/avignon_street1.jpg){: width="90%"}
 
-![street art](./assets/img/travel/france/provence_cotedazur/avignon_street2.jpg){: width="80%"}
+![street art](./assets/img/travel/france/provence_cotedazur/avignon_street2.jpg){: width="70%"}
 
 #### Street art - façade paintings

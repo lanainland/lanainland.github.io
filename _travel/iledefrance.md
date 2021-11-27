@@ -68,10 +68,10 @@ category: france
 
 ![potager](./assets/img/travel/france/iledefrance/saintjean_potager.jpg){: width="90%"}
 
-![apple tree](./assets/img/travel/france/iledefrance/saintjean_apple.jpg){: width="70%"}
-
 ![pumpkins](./assets/img/travel/france/iledefrance/saintjean_pumpkins.jpg){: width="80%"}
 
 ![flowers](./assets/img/travel/france/iledefrance/saintjean_flowers.jpg){: width="80%"}
+
+![apple tree](./assets/img/travel/france/iledefrance/saintjean_apple.jpg){: width="70%"}
 
 #### Castle gardens and vegetables grown in the local allotment

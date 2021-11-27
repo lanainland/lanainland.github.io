@@ -8,7 +8,7 @@ category: japan
 
 ## Nara Park
 
-![nara temple door](./assets/img/travel/japan/nara_kobe/nara_doorway.jpg){: width="80%"}
+![nara temple door](./assets/img/travel/japan/nara_kobe/nara_doorway.jpg){: width="90%"}
 
 #### Buddhist temples and shrines...
 
@@ -22,7 +22,7 @@ category: japan
 
 ## Kobe
 
-![kobe chinatown](./assets/img/travel/japan/nara_kobe/kobe_chinatown.jpg){: width="80%"}
+![kobe chinatown](./assets/img/travel/japan/nara_kobe/kobe_chinatown.jpg){: width="90%"}
 
 #### Chinatown entrance
 
@@ -36,8 +36,8 @@ category: japan
 
 #### Amazing kobe beef!
 
-![kobe netsuke](./assets/img/travel/japan/nara_kobe/kobe_netsuke.jpg){: width="80%"}
+![kobe netsuke](./assets/img/travel/japan/nara_kobe/kobe_netsuke.jpg){: width="70%"}
 
-![kobe street tile](./assets/img/travel/japan/nara_kobe/kobe_tile.jpg){: width="80%"}
+![kobe street tile](./assets/img/travel/japan/nara_kobe/kobe_tile.jpg){: width="60%"}
 
 #### Street curiosities - 'Netsuke' animal figurines and street tile
