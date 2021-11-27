@@ -14,6 +14,12 @@ category: japan
 
 #### Nakanohashi bridge at night
 
+![kanazawa house](./assets/img/travel/japan/kanazawa/kanazawa_house1.jpg){: width="90%"}
+
+![kanazawa house](./assets/img/travel/japan/kanazawa/kanazawa_house2.jpg){: width="90%"}
+
+#### Traditional houses
+
 ![kanazawa street cover ](./assets/img/travel/japan/kanazawa/kanazawa_cover.jpg){: width="70%"}
 
 #### Kanazawa manhole cover
