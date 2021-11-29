@@ -6,6 +6,8 @@ alt: venice
 category: italy
 ---
 
+Venice is one of a kind, it is such a unique city, so easy to get lost in...everyone should visit at least once in their lifetime, but maybe not during tourist season!
+
 ![gondolas](./assets/img/travel/italy/venice/venice_gondolas.jpg){: width="70%"}
 
 #### Canals and gondolas
@@ -28,7 +30,7 @@ category: italy
 
 ![san marco pier](./assets/img/travel/italy/venice/venice_bw3.jpg){: width="70%"}
 
-#### Foggy Venice in winter
+#### Some moody shots of Venice in winter
 
 ![façade](./assets/img/travel/italy/venice/venice_detail1.jpg){: width="80%"}
 

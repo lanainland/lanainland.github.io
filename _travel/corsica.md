@@ -28,7 +28,7 @@ category: france
 
 ![patrimonio church](./assets/img/travel/france/corsica/patrimonio_church2.jpg){: width="80%"}
 
-#### Church in the tiny village
+#### Curch in the tiny village
 
 ## L'Île-Rousse
 
@@ -44,14 +44,16 @@ category: france
 
 ## Sant'Antonino
 
-One of the most beautiful medieval villages in France with amazing mountain views.
-
 ![sant'antonino view](./assets/img/travel/france/corsica/sant_antonino_view1.jpg){: width="90%"}
 
 ![sant'antonino view](./assets/img/travel/france/corsica/sant_antonino_view2.jpg){: width="90%"}
 
 ![sant'antonino town](./assets/img/travel/france/corsica/sant_antonino1.jpg){: width="90%"}
 
+#### One of the most beautiful medieval villages in France with amazing mountain views
+
 ![sant'antonino town](./assets/img/travel/france/corsica/sant_antonino2.jpg){: width="70%"}
 
 ![sant'antonino town](./assets/img/travel/france/corsica/sant_antonino3.jpg){: width="70%"}
+
+#### Medieval town

@@ -58,10 +58,6 @@ category: france
 
 ## Tours
 
-![cathedral](./assets/img/travel/france/centreloire/tours_cathedral.jpg){: width="80%"}
-
-#### View of the Cathedral from the Tours Chateau
-
 ![wilson bridge](./assets/img/travel/france/centreloire/tours_bridge.jpg){: width="90%"}
 
 #### Wilson Bridge
@@ -70,9 +66,11 @@ category: france
 
 #### Old houses on Plumereau Square
 
+![cathedral](./assets/img/travel/france/centreloire/tours_cathedral.jpg){: width="80%"}
+
 ![fine arts museum tower](./assets/img/travel/france/centreloire/tours_museum.jpg){: width="80%"}
 
-#### Fine-Arts Museum and Cathedral
+#### Cathedral and Fine-Arts Museum
 
 ![tower and basilica](./assets/img/travel/france/centreloire/tours_tower.jpg){: width="80%"}
 

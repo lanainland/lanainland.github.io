@@ -12,7 +12,7 @@ category: france
 
 ![statue panorama](./assets/img/travel/france/provence_cotedazur/marseille_statue3.jpg){: width="80%"}
 
-#### View of the Basilica with statues from different parts of the city
+#### Notre-Dame Basilica from different parts of the city
 
 ![le panier district](./assets/img/travel/france/provence_cotedazur/marseille_panier.jpg){: width="90%"}
 
@@ -42,7 +42,7 @@ category: france
 
 ![old port](./assets/img/travel/france/provence_cotedazur/nice_port.jpg){: width="80%"}
 
-#### Nice Port
+#### Nice old port
 
 ![old town](./assets/img/travel/france/provence_cotedazur/nice_buildings1.jpg){: width="90%"}
 
@@ -92,15 +92,11 @@ category: france
 
 ![popes palace](./assets/img/travel/france/provence_cotedazur/avignon_palace.jpg){: width="90%"}
 
-#### Popes' Palace
-
 ![popes palace](./assets/img/travel/france/provence_cotedazur/avignon_arch1.jpg){: width="70%"}
 
 ![popes palace](./assets/img/travel/france/provence_cotedazur/avignon_arch2.jpg){: width="70%"}
 
-![popes palace](./assets/img/travel/france/provence_cotedazur/avignon_passage.jpg){: width="70%"}
-
-#### Popes' Palace - details
+#### Popes' Palace
 
 ![opera](./assets/img/travel/france/provence_cotedazur/avignon_opera.jpg){: width="80%"}
 

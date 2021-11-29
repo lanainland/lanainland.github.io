@@ -30,7 +30,7 @@ category: france
 
 ![cathedral](./assets/img/travel/france/grandest/strasbourg_night.jpg){: width="80%"}
 
-#### Notre Dame Cathedral
+#### Notre-Dame Cathedral
 
 ![burger](./assets/img/travel/france/grandest/strasbourg_burger.jpg){: width="80%"}
 
