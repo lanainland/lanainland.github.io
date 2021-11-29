@@ -14,13 +14,13 @@ food:
 
 travel:
 - title: "France"
-  text: "Breads, starters, mains and more"
+  text: "Oh là là...et voilà"
   category: france
 - title: "Italy"
-  text: "Cocktails and smoothies"
+  text: "Ma che cosa!"
   category: italy
 - title: "Japan"
-  text: "Cakes, biscuits and other treats"
+  text: "ありがとうございます"
   category: japan
 
 photography:
@@ -28,32 +28,32 @@ photography:
   text: "Plants and animals"
   category: nature
 - title: "Architecture"
-  text: "Breads, starters, mains and more"
+  text: "Arches, columns and various features"
   category: architecture
 - title: "Patterns & Details"
-  text: "Cakes, biscuits and other treats"
+  text: "...are all around us"
   category: patterns&details
 
 design_and_diy:
 - title: "Furniture"
-  text: "Breads, starters, mains and more"
+  text: "More than just a chair"
   category: furniture
 - title: "Interior"
-  text: "Cakes, biscuits and other treats"
+  text: "Before and after"
   category: interior
 - title: "Textiles"
-  text: "Cocktails and smoothies"
+  text: "Fabric dyeing and printing"
   category: textiles
 
 sewing:
 - title: "Accessories"
-  text: "Breads, starters, mains and more"
+  text: "Adorning bits and bobs"
   category: accessories
 - title: "Clothing"
-  text: "Cakes, biscuits and other treats"
+  text: "Handmade attire"
   category: clothing
 - title: "Home"
-  text: "Cocktails and smoothies"
+  text: "Embelishments for the abode"
   category: home
 
 art:
