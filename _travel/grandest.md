@@ -20,27 +20,27 @@ category: france
 
 ![building lamp](./assets/img/travel/france/grandest/strasbourg_lamp2.jpg){: width="70%"}
 
-![bridge](./assets/img/travel/france/grandest/strasbourg_bridge1.jpg){: width="80%"}
+![bridge](./assets/img/travel/france/grandest/strasbourg_bridge1.jpg){: width="70%"}
 
-![bridge](./assets/img/travel/france/grandest/strasbourg_bridge2.jpg){: width="80%"}
+![bridge](./assets/img/travel/france/grandest/strasbourg_bridge2.jpg){: width="70%"}
 
-![old buildings](./assets/img/travel/france/grandest/strasbourg_buildings.jpg){: width="80%"}
+![old buildings](./assets/img/travel/france/grandest/strasbourg_buildings.jpg){: width="70%"}
 
 #### Details around town - street lamps, bridges and old buildings
 
-![cathedral](./assets/img/travel/france/grandest/strasbourg_night.jpg){: width="80%"}
+![cathedral](./assets/img/travel/france/grandest/strasbourg_night.jpg){: width="70%"}
 
 #### Notre-Dame Cathedral
 
-![burger](./assets/img/travel/france/grandest/strasbourg_burger.jpg){: width="80%"}
+![burger](./assets/img/travel/france/grandest/strasbourg_burger.jpg){: width="70%"}
 
-![coffee and dessert](./assets/img/travel/france/grandest/strasbourg_twix.jpg){: width="80%"}
+![coffee and dessert](./assets/img/travel/france/grandest/strasbourg_twix.jpg){: width="70%"}
 
 #### Charcoal burger and homemade twix
 
 ## Troyes
 
-![old buildings](./assets/img/travel/france/grandest/troyes_buildings2.jpg){: width="80%"}
+![old buildings](./assets/img/travel/france/grandest/troyes_buildings2.jpg){: width="70%"}
 
 ![old buildings](./assets/img/travel/france/grandest/troyes_buildings1.jpg){: width="90%"}
 
@@ -54,7 +54,7 @@ category: france
 
 #### Vauluisant Museum - building and tower
 
-![painted glass](./assets/img/travel/france/grandest/troyes_museum4.jpg){: width="80%"}
+![painted glass](./assets/img/travel/france/grandest/troyes_museum4.jpg){: width="70%"}
 
 #### Vauluisant Museum - stained glass
 
@@ -62,14 +62,10 @@ category: france
 
 #### Museum of Fine Arts and Archeology
 
-![cathedral view](./assets/img/travel/france/grandest/troyes_buildings3.jpg){: width="80%"}
+![flower pot](./assets/img/travel/france/grandest/troyes_flowers.jpg){: width="70%"}
 
-![flower pot](./assets/img/travel/france/grandest/troyes_flowers.jpg){: width="80%"}
-
-#### Around town
+![canal fountain](./assets/img/travel/france/grandest/troyes_fountain.jpg){: width="70%"}
 
 ![canal sculpture](./assets/img/travel/france/grandest/troyes_sculpture.jpg){: width="90%"}
 
-![canal fountain](./assets/img/travel/france/grandest/troyes_fountain.jpg){: width="80%"}
-
-#### Trévois Canal
+#### Around town and Trévois Canal

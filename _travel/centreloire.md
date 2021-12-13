@@ -10,7 +10,7 @@ category: france
 
 ![castle bridge](./assets/img/travel/france/centreloire/chenon2.jpg){: width="90%"}
 
-![castle moat](./assets/img/travel/france/centreloire/chenon3.jpg){: width="80%"}
+![castle moat](./assets/img/travel/france/centreloire/chenon3.jpg){: width="70%"}
 
 #### The Castle and the river Cher
 
@@ -26,17 +26,17 @@ category: france
 
 #### Main hallway
 
-![ceiling arches](./assets/img/travel/france/centreloire/chenon_ceiling1.jpg){: width="80%"}
+![ceiling arches](./assets/img/travel/france/centreloire/chenon_ceiling1.jpg){: width="70%"}
 
-![ceiling painting](./assets/img/travel/france/centreloire/chenon_ceiling2.jpg){: width="80%"}
+![ceiling painting](./assets/img/travel/france/centreloire/chenon_ceiling2.jpg){: width="70%"}
 
 #### Interior details - ceilings
 
-![window view](./assets/img/travel/france/centreloire/chenon_window1.jpg){: width="80%"}
+![window view](./assets/img/travel/france/centreloire/chenon_window1.jpg){: width="70%"}
 
 ![window view](./assets/img/travel/france/centreloire/chenon_window2.jpg){: width="70%"}
 
-![window view](./assets/img/travel/france/centreloire/chenon_window3.jpg){: width="80%"}
+![window view](./assets/img/travel/france/centreloire/chenon_window3.jpg){: width="70%"}
 
 #### Through the looking glass
 
@@ -66,13 +66,13 @@ category: france
 
 #### Old houses on Plumereau Square
 
-![cathedral](./assets/img/travel/france/centreloire/tours_cathedral.jpg){: width="80%"}
+![cathedral](./assets/img/travel/france/centreloire/tours_cathedral.jpg){: width="70%"}
 
-![fine arts museum tower](./assets/img/travel/france/centreloire/tours_museum.jpg){: width="80%"}
+![fine arts museum tower](./assets/img/travel/france/centreloire/tours_museum.jpg){: width="70%"}
 
 #### Cathedral and Fine-Arts Museum
 
-![tower and basilica](./assets/img/travel/france/centreloire/tours_tower.jpg){: width="80%"}
+![tower and basilica](./assets/img/travel/france/centreloire/tours_tower.jpg){: width="70%"}
 
 #### Charlemagne Tower and Basilica Saint-Martin
 

@@ -18,6 +18,8 @@ category: japan
 
 ![osaka street lanterns](./assets/img/travel/japan/osaka/osaka_street_lanterns.jpg){: width="100%"}
 
-![osaka manhole cover](./assets/img/travel/japan/osaka/osaka_cover.jpg){: width="60%"}
+#### Street curiosities - lanterns in the food district
 
-#### Osaka street curiosities - food district lanterns and manhole cover
+![osaka manhole cover](./assets/img/travel/japan/osaka/osaka_cover.jpg){: width="50%"}
+
+#### Street curiosities - manhole cover

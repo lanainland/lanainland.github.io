@@ -52,25 +52,29 @@ After a well deserved pause, some more sightseeing...
 
 #### The Roman Pantheon
 
-![romulus temple](./assets/img/travel/italy/rome/rome_romulus1.jpg){: width="70%"}
-
-![romulus temple](./assets/img/travel/italy/rome/rome_romulus2.jpg){: width="70%"}
-
-![blossom branches](./assets/img/travel/italy/rome/rome_blossoms.jpg){: width="70%"}
-
 ![roman forum view](./assets/img/travel/italy/rome/rome_forum1.jpg){: width="90%"}
 
 ![roman forum view](./assets/img/travel/italy/rome/rome_forum2.jpg){: width="90%"}
 
 ![roman forum view](./assets/img/travel/italy/rome/rome_forum5.jpg){: width="90%"}
 
-![roman forum arch](./assets/img/travel/italy/rome/rome_arch.jpg){: width="70%"}
+#### The Roman Forum
 
-![roman forum statues](./assets/img/travel/italy/rome/rome_forum3.jpg){: width="70%"}
+![romulus temple](./assets/img/travel/italy/rome/rome_romulus1.jpg){: width="70%"}
+
+![romulus temple](./assets/img/travel/italy/rome/rome_romulus2.jpg){: width="70%"}
+
+#### The Roman Forum - Romulus Temple
+
+![blossom branches](./assets/img/travel/italy/rome/rome_blossoms.jpg){: width="70%"}
+
+![roman forum arch](./assets/img/travel/italy/rome/rome_arch.jpg){: width="70%"}
 
 ![roman forum arch](./assets/img/travel/italy/rome/rome_forum4.jpg){: width="70%"}
 
-#### The Roman Forum
+![roman forum statues](./assets/img/travel/italy/rome/rome_forum3.jpg){: width="70%"}
+
+#### The Roman Forum - arches and details
 
 ![colosseum](./assets/img/travel/italy/rome/rome_colosseum1.jpg){: width="90%"}
 

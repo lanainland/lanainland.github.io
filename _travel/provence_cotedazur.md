@@ -8,9 +8,9 @@ category: france
 
 ## Marseille
 
-![statue panorama](./assets/img/travel/france/provence_cotedazur/marseille_statue2.jpg){: width="80%"}
+![statue panorama](./assets/img/travel/france/provence_cotedazur/marseille_statue2.jpg){: width="70%"}
 
-![statue panorama](./assets/img/travel/france/provence_cotedazur/marseille_statue3.jpg){: width="80%"}
+![statue panorama](./assets/img/travel/france/provence_cotedazur/marseille_statue3.jpg){: width="70%"}
 
 #### Notre-Dame Basilica from different parts of the city
 
@@ -20,7 +20,7 @@ category: france
 
 ![longchamp palace](./assets/img/travel/france/provence_cotedazur/marseille_longchamp1.jpg){: width="90%"}
 
-![palace columns](./assets/img/travel/france/provence_cotedazur/marseille_longchamp2.jpg){: width="80%"}
+![palace columns](./assets/img/travel/france/provence_cotedazur/marseille_longchamp2.jpg){: width="70%"}
 
 #### Longchamp Palace
 
@@ -32,7 +32,7 @@ category: france
 
 #### Porte d'Orient - monument dedicated to the Armées d'Afrique
 
-![calanques](./assets/img/travel/france/provence_cotedazur/marseille_calanques1.jpg){: width="80%"}
+![calanques](./assets/img/travel/france/provence_cotedazur/marseille_calanques1.jpg){: width="70%"}
 
 ![calanques](./assets/img/travel/france/provence_cotedazur/marseille_calanques2.jpg){: width="90%"}
 
@@ -40,23 +40,23 @@ category: france
 
 ## Nice
 
-![old port](./assets/img/travel/france/provence_cotedazur/nice_port.jpg){: width="80%"}
+![old port](./assets/img/travel/france/provence_cotedazur/nice_port.jpg){: width="70%"}
 
 #### Nice old port
 
 ![old town](./assets/img/travel/france/provence_cotedazur/nice_buildings1.jpg){: width="90%"}
 
-![old town](./assets/img/travel/france/provence_cotedazur/nice_buildings2.jpg){: width="80%"}
+![old town](./assets/img/travel/france/provence_cotedazur/nice_buildings2.jpg){: width="70%"}
 
 #### Old town buildings
 
-![matisse museum](./assets/img/travel/france/provence_cotedazur/nice_matisse.jpg){: width="80%"}
+![matisse museum](./assets/img/travel/france/provence_cotedazur/nice_matisse.jpg){: width="70%"}
 
 #### Cimiez - Matisse Museum
 
-![cimiez monastery](./assets/img/travel/france/provence_cotedazur/nice_cimiez1.jpg){: width="80%"}
+![cimiez monastery](./assets/img/travel/france/provence_cotedazur/nice_cimiez1.jpg){: width="70%"}
 
-![cimiez gardens](./assets/img/travel/france/provence_cotedazur/nice_cimiez2.jpg){: width="80%"}
+![cimiez gardens](./assets/img/travel/france/provence_cotedazur/nice_cimiez2.jpg){: width="70%"}
 
 #### Cimiez - Monastery and gardens
 
@@ -74,7 +74,7 @@ category: france
 
 ## Arles
 
-![arles arena](./assets/img/travel/france/provence_cotedazur/arles_arena1.jpg){: width="80%"}
+![arles arena](./assets/img/travel/france/provence_cotedazur/arles_arena1.jpg){: width="70%"}
 
 ![arles arena](./assets/img/travel/france/provence_cotedazur/arles_arena2.jpg){: width="90%"}
 
@@ -98,12 +98,12 @@ category: france
 
 #### Popes' Palace
 
-![opera](./assets/img/travel/france/provence_cotedazur/avignon_opera.jpg){: width="80%"}
+![opera](./assets/img/travel/france/provence_cotedazur/avignon_opera.jpg){: width="70%"}
 
 #### Opera House
 
-![street art](./assets/img/travel/france/provence_cotedazur/avignon_street1.jpg){: width="90%"}
-
 ![street art](./assets/img/travel/france/provence_cotedazur/avignon_street2.jpg){: width="70%"}
+
+![street art](./assets/img/travel/france/provence_cotedazur/avignon_street1.jpg){: width="90%"}
 
 #### Street art - façade paintings

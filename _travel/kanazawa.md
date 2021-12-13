@@ -6,7 +6,7 @@ alt: kanazawa
 category: japan
 ---
 
-![kanazawa castle bridge](./assets/img/travel/japan/kanazawa/kanazawa_castle.jpg){: width="80%"}
+![kanazawa castle bridge](./assets/img/travel/japan/kanazawa/kanazawa_castle.jpg){: width="70%"}
 
 #### Kanazawa castle and gardens
 
@@ -20,8 +20,8 @@ category: japan
 
 #### Traditional houses
 
-![kanazawa street number ](./assets/img/travel/japan/kanazawa/kanazawa_sign.jpg){: width="60%"}
+![kanazawa street number ](./assets/img/travel/japan/kanazawa/kanazawa_sign.jpg){: width="50%"}
 
-![kanazawa street cover ](./assets/img/travel/japan/kanazawa/kanazawa_cover.jpg){: width="60%"}
+![kanazawa street cover ](./assets/img/travel/japan/kanazawa/kanazawa_cover.jpg){: width="50%"}
 
 #### Kanazawa street number plaque and manhole cover

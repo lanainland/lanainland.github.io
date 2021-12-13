@@ -8,7 +8,7 @@ category: france
 
 ## Saint-Florent
 
-![saint florent façade](./assets/img/travel/france/corsica/saint_florent_facade.jpg){: width="80%"}
+![saint florent façade](./assets/img/travel/france/corsica/saint_florent_facade.jpg){: width="70%"}
 
 ![saint florent berries](./assets/img/travel/france/corsica/saint_florent_berries.jpg){: width="70%"}
 
@@ -26,7 +26,7 @@ category: france
 
 ![patrimonio church](./assets/img/travel/france/corsica/patrimonio_church1.jpg){: width="90%"}
 
-![patrimonio church](./assets/img/travel/france/corsica/patrimonio_church2.jpg){: width="80%"}
+![patrimonio church](./assets/img/travel/france/corsica/patrimonio_church2.jpg){: width="70%"}
 
 #### Curch in the tiny village
 
@@ -36,7 +36,7 @@ category: france
 
 ![île rousse coastline](./assets/img/travel/france/corsica/ile_rousse2.jpg){: width="90%"}
 
-![île rousse mermaid](./assets/img/travel/france/corsica/ile_rousse_mermaid.jpg){: width="80%"}
+![île rousse mermaid](./assets/img/travel/france/corsica/ile_rousse_mermaid.jpg){: width="70%"}
 
 ![île rousse vegetation](./assets/img/travel/france/corsica/ile_rousse_vegetation.jpg){: width="70%"}
 

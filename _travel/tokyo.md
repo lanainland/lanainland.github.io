@@ -16,16 +16,16 @@ category: japan
 
 #### View from Komagata bridge in Asakusa
 
-![tokyo gardens](./assets/img/travel/japan/tokyo/tokyo_gardens1.jpg){: width="80%"}
+![tokyo gardens](./assets/img/travel/japan/tokyo/tokyo_gardens1.jpg){: width="70%"}
 
-![tokyo gardens](./assets/img/travel/japan/tokyo/tokyo_gardens2.jpg){: width="80%"}
+![tokyo gardens](./assets/img/travel/japan/tokyo/tokyo_gardens2.jpg){: width="70%"}
 
 #### Peaceful gardens in Shinjuku and Asakusa
 
-![tokyo sushi](./assets/img/travel/japan/tokyo/tokyo_sushi.jpg){: width="80%"}
+![tokyo sushi](./assets/img/travel/japan/tokyo/tokyo_sushi.jpg){: width="70%"}
 
 #### Sushi at the fish market
 
-![tokyo food](./assets/img/travel/japan/tokyo/tokyo_food.jpg){: width="80%"}
+![tokyo food](./assets/img/travel/japan/tokyo/tokyo_food.jpg){: width="70%"}
 
 #### Dining in Tokyo

@@ -22,7 +22,7 @@ category: japan
 
 #### Zen vegetarian lunch at Tenryu-ji's restaurant - Shigetsu
 
-![kyoto food](./assets/img/travel/japan/kyoto/kyoto_food_details.jpg){: width="80%"}
+![kyoto food](./assets/img/travel/japan/kyoto/kyoto_food_details.jpg){: width="70%"}
 
 #### Dining in Kyoto - details
 
