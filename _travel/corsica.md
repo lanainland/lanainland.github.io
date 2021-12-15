@@ -24,11 +24,13 @@ category: france
 
 ## Patrimonio
 
+Cute little hilltop village.
+
 ![patrimonio church](./assets/img/travel/france/corsica/patrimonio_church1.jpg){: width="90%"}
 
 ![patrimonio church](./assets/img/travel/france/corsica/patrimonio_church2.jpg){: width="70%"}
 
-#### Curch in the tiny village
+#### Church in the tiny village
 
 ## L'Île-Rousse
 
