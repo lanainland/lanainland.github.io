@@ -18,7 +18,7 @@ There is so much to see and do in Rome, so much history. It is by far one of my 
 
 ![building through arch](./assets/img/travel/italy/rome/rome_detail2.jpg){: width="70%"}
 
-#### Details around town
+#### Some architectural features I found interesting
 
 ![fountain and tower](./assets/img/travel/italy/rome/rome_detail3.jpg){: width="70%"}
 
