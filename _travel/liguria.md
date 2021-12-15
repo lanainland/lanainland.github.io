@@ -60,7 +60,7 @@ Authentic and unpretentious, this city has a 'real' feel. No tourist crowds and 
 
 ![dome and pink building](./assets/img/travel/italy/liguria/genova_building2.jpg){: width="70%"}
 
-#### Some interesting details from around town
+#### Some interesting details around town
 
 ![basilica](./assets/img/travel/italy/liguria/genova_basilica.jpg){: width="70%"}
 
