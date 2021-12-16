@@ -26,6 +26,10 @@ category: italy
 
 #### San Pietro Basilica
 
+![food platter](./assets/img/travel/italy/umbria/perugia_food.jpg){: width="70%"}
+
+#### A quick snack
+
 ![urn and façade](./assets/img/travel/italy/umbria/perugia_facade.jpg){: width="70%"}
 
 ![portico](./assets/img/travel/italy/umbria/perugia_portico.jpg){: width="70%"}
