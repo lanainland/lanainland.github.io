@@ -22,7 +22,7 @@ category: italy
 
 ![basilica courtyard](./assets/img/travel/italy/umbria/perugia_basilica1.jpg){: width="70%"}
 
-![basilica portico columns](./assets/img/travel/italy/umbria/perugia_basilica2.jpg){: width="70%"}
+![portico columns](./assets/img/travel/italy/umbria/perugia_basilica2.jpg){: width="70%"}
 
 #### San Pietro Basilica
 
@@ -36,7 +36,7 @@ category: italy
 
 ![street urns](./assets/img/travel/italy/umbria/perugia_urns.jpg){: width="70%"}
 
-#### Random details
+#### Façades, porticos and urns
 
 ![landscape view](./assets/img/travel/italy/umbria/perugia_view.jpg){: width="70%"}
 
