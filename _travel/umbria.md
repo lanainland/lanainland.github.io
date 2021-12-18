@@ -52,6 +52,10 @@ category: italy
 
 #### Inviting doorways in unexpected corners
 
+![food](./assets/img/travel/italy/umbria/spello_food.jpg){: width="90%"}
+
+#### Amazing food
+
 ![church doorway](./assets/img/travel/italy/umbria/spello_arch.jpg){: width="70%"}
 
 #### Winding streets
