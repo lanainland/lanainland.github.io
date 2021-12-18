@@ -28,7 +28,7 @@ category: japan
 
 ![kyoto palace gardens](./assets/img/travel/japan/kyoto/kyoto_gardens.jpg){: width="90%"}
 
-![kyoto palace](./assets/img/travel/japan/kyoto/kyoto_palace.jpg){: width="80%"}
+![kyoto palace](./assets/img/travel/japan/kyoto/kyoto_palace.jpg){: width="70%"}
 
 #### Imperial Palace
 

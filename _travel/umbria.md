@@ -50,7 +50,9 @@ category: italy
 
 ![door with flowers](./assets/img/travel/italy/umbria/spello_flowers3.jpg){: width="70%"}
 
-#### Inviting doorways in unexpected corners
+![door with flowers](./assets/img/travel/italy/umbria/spello_flowers4.jpg){: width="90%"}
+
+#### Inviting doorways and flowers in unexpected corners
 
 ![food](./assets/img/travel/italy/umbria/spello_food.jpg){: width="90%"}
 
