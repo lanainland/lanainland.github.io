@@ -20,6 +20,10 @@ category: italy
 
 #### Obelisk and Santa Maria Novella Church
 
+![bridge and river](./assets/img/travel/italy/tuscany/florence_river.jpg){: width="90%"}
+
+#### Ponte Vecchio over the river Arno
+
 ![neptune fountain](./assets/img/travel/italy/tuscany/florence_statue.jpg){: width="70%"}
 
 ![statue of david](./assets/img/travel/italy/tuscany/florence_david.jpg){: width="70%"}
@@ -33,10 +37,6 @@ category: italy
 ![sculptures](./assets/img/travel/italy/tuscany/florence_sculptures.jpg){: width="90%"}
 
 #### Outdoor sculptures at the Uffizi Gallery
-
-![bridge and river](./assets/img/travel/italy/tuscany/florence_river.jpg){: width="90%"}
-
-#### Ponte Vecchio over the river Arno
 
 ![food platter](./assets/img/travel/italy/tuscany/florence_food.jpg){: width="90%"}
 

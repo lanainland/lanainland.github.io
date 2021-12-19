@@ -50,17 +50,11 @@ category: italy
 
 ![door with flowers](./assets/img/travel/italy/umbria/spello_flowers3.jpg){: width="70%"}
 
-![door with flowers](./assets/img/travel/italy/umbria/spello_flowers4.jpg){: width="90%"}
-
-#### Inviting doorways and flowers in unexpected corners
+#### Inviting doorways in unexpected corners
 
 ![food](./assets/img/travel/italy/umbria/spello_food.jpg){: width="90%"}
 
 #### Amazing food
-
-![church doorway](./assets/img/travel/italy/umbria/spello_arch.jpg){: width="70%"}
-
-#### Winding streets
 
 ![church doorway](./assets/img/travel/italy/umbria/spello_church.jpg){: width="70%"}
 
