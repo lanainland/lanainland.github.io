@@ -74,6 +74,14 @@ category: france
 
 ## Arles
 
+![main square](./assets/img/travel/france/provence_cotedazur/arles_main_square.jpg){: width="70%"}
+
+#### Main square
+
+![van gogh cafe](./assets/img/travel/france/provence_cotedazur/arles_cafe.jpg){: width="70%"}
+
+#### Van Gogh café
+
 ![arles arena](./assets/img/travel/france/provence_cotedazur/arles_arena1.jpg){: width="70%"}
 
 ![arles arena](./assets/img/travel/france/provence_cotedazur/arles_arena2.jpg){: width="90%"}
@@ -82,9 +90,7 @@ category: france
 
 ![arles arena](./assets/img/travel/france/provence_cotedazur/arles_arena_postcard.jpg){: width="90%"}
 
-![main square](./assets/img/travel/france/provence_cotedazur/arles_main_square.jpg){: width="90%"}
-
-#### The Amphitheatre was transformed into a town after the fall of the Roman Empire
+#### The Amphitheatre was transformed into a town in the Middle Ages
 
 ## Avignon
 
