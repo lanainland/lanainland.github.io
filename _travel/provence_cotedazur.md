@@ -82,6 +82,8 @@ category: france
 
 ![arles arena](./assets/img/travel/france/provence_cotedazur/arles_arena_postcard.jpg){: width="90%"}
 
+![main square](./assets/img/travel/france/provence_cotedazur/arles_main_square.jpg){: width="90%"}
+
 #### The Amphitheatre was transformed into a town after the fall of the Roman Empire
 
 ## Avignon
