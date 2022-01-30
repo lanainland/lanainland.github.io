@@ -16,18 +16,18 @@ category: japan
 
 #### Chinatown entrance
 
-![kobe netsuke](./assets/img/travel/japan/kobe_nara/kobe_netsuke.jpg){: width="70%"}
-
-![kobe street tile](./assets/img/travel/japan/kobe_nara/kobe_tile1.jpg){: width="50%"}
-
-#### Street curiosities - 'Netsuke' animal figurines and street tile
-
-
 ![kobe beef](./assets/img/travel/japan/kobe_nara/kobe_food1.jpg){: width="70%"}
 
 ![kobe beef](./assets/img/travel/japan/kobe_nara/kobe_food2.jpg){: width="70%"}
 
 #### Amazing kobe beef!
+
+![kobe netsuke](./assets/img/travel/japan/kobe_nara/kobe_netsuke.jpg){: width="70%"}
+
+![kobe street tile](./assets/img/travel/japan/kobe_nara/kobe_tile1.jpg){: width="70%"}
+
+#### Street curiosities - 'Netsuke' animal figurines and street tile
+
 
 ## Nara Park
 
