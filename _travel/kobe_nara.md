@@ -16,9 +16,9 @@ Due to its history as a port city, Kobe has a very diverse mix of architectural 
 
 ![kobe shrine](./assets/img/travel/japan/kobe_nara/kobe4.jpg){: width="100%"}
 
-![kobe chinatown and beef](./assets/img/travel/japan/kobe_nara/kobe5.jpg){: width="100%"}
+![chinatown gate and kobe beef](./assets/img/travel/japan/kobe_nara/kobe5.jpg){: width="100%"}
 
-#### Port of Kobe; European style house; Street tiles; 'Netsuke' animal figurines; Ikuta-jinja Shrine; Chinatown entrance; Amazing kobe beef!
+#### Kobe Tower; Port of Kobe; European style house; Street tiles; 'Netsuke' animal figurines; Ikuta-jinja Shrine; Chinatown entrance; Amazing kobe beef!
 
 
 ## Nara Park
