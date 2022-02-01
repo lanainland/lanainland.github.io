@@ -1,46 +1,32 @@
 ---
 title: Kobe & Nara
-image: travel/japan/kobe_nara/kobe_tower.jpg
-thumbnail: travel/japan/kobe_nara/nara_doorway.jpg
+image: travel/japan/kobe_nara/kobe1.jpg
+thumbnail: travel/japan/kobe_nara/nara1.jpg
 alt: kobe and nara
 category: japan
 ---
 
 ## Kobe
 
-![kobe port](./assets/img/travel/japan/kobe_nara/kobe_port.jpg){: width="90%"}
+Due to its history as a port city, Kobe has a very diverse mix of architectural styles and has been heavily influenced by the West. A modern waterfront park, Chinatown, a European district and some traditional elements make this a very cosmopolitan city...and do not miss the beef!
 
-#### Port of Kobe
+![kobe port](./assets/img/travel/japan/kobe_nara/kobe2.jpg){: width="100%"}
 
-![kobe chinatown](./assets/img/travel/japan/kobe_nara/kobe_chinatown.jpg){: width="90%"}
+![house façade and street details](./assets/img/travel/japan/kobe_nara/kobe3.jpg){: width="100%"}
 
-#### Chinatown entrance
+![kobe shrine](./assets/img/travel/japan/kobe_nara/kobe4.jpg){: width="100%"}
 
-![kobe beef](./assets/img/travel/japan/kobe_nara/kobe_food1.jpg){: width="70%"}
+![kobe chinatown and beef](./assets/img/travel/japan/kobe_nara/kobe5.jpg){: width="100%"}
 
-![kobe beef](./assets/img/travel/japan/kobe_nara/kobe_food2.jpg){: width="70%"}
-
-#### Amazing kobe beef!
-
-![kobe netsuke](./assets/img/travel/japan/kobe_nara/kobe_netsuke.jpg){: width="70%"}
-
-![kobe street tile](./assets/img/travel/japan/kobe_nara/kobe_tile1.jpg){: width="70%"}
-
-#### Street curiosities - 'Netsuke' animal figurines and street tile
+#### Port of Kobe; European style house; Street tiles; 'Netsuke' animal figurines; Ikuta-jinja Shrine; Chinatown entrance; Amazing kobe beef!
 
 
 ## Nara Park
 
-![nara temple door](./assets/img/travel/japan/kobe_nara/nara_doorway.jpg){: width="90%"}
+Temples and shrines gallore in this beautiful park...with the addition of deer of course!
 
-![nara temple](./assets/img/travel/japan/kobe_nara/nara_temple.jpg){: width="70%"}
+![nara temple door](./assets/img/travel/japan/kobe_nara/nara1.jpg){: width="100%"}
 
-#### Buddhist temples and shrines...
+![nara temple and deer park](./assets/img/travel/japan/kobe_nara/nara2.jpg){: width="100%"}
 
-![nara deer](./assets/img/travel/japan/kobe_nara/nara_deer.jpg){: width="70%"}
-
-#### ...and deer of course!
-
-![nara park](./assets/img/travel/japan/kobe_nara/nara_park.jpg){: width="70%"}
-
-#### Deer just chillin' in the park
+#### Tamukeyama Hachimangu Shrine entrance; Tōdai-ji Temple detail; Kōfuku-ji Pagoda and deer just chilling in the park
