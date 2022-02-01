@@ -1,6 +1,6 @@
 ---
 title: Osaka
-image: travel/japan/osaka/osaka_view.jpg
+image: travel/japan/osaka/osaka_lanterns.jpg
 thumbnail: travel/japan/osaka/osaka_canal.jpg
 alt: osaka
 category: japan
@@ -20,6 +20,13 @@ category: japan
 
 #### Street curiosities - lanterns in the food district
 
-![osaka manhole cover](./assets/img/travel/japan/osaka/osaka_cover.jpg){: width="50%"}
+![osaka manhole cover](./assets/img/travel/japan/osaka/osaka_cover.jpg){: width="70%"}
 
 #### Street curiosities - manhole cover
+
+
+![osaka view](./assets/img/travel/japan/osaka/osaka_view.jpg){: width="70%"}
+
+![osaka panorama](./assets/img/travel/japan/osaka/osaka_panorama.jpg){: width="100%"}
+
+#### Panoramic view of the city from Osaka Castle
