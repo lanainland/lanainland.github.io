@@ -8,7 +8,7 @@ category: japan
 
 Known for its manicured gardens and geisha houses, Kanazawa is a peek into a more traditional Japan. Well preserved houses and traditional clothing make this city feel like a step back in time...
 
-![kanazawa castle bridge](./assets/img/travel/japan/kanazawa/kanazawa2.jpg){: width="100%"}
+![kanazawa castle gate](./assets/img/travel/japan/kanazawa/kanazawa2.jpg){: width="100%"}
 
 ![kanazawa bridges](./assets/img/travel/japan/kanazawa/kanazawa3.jpg){: width="100%"}
 
@@ -20,4 +20,4 @@ Known for its manicured gardens and geisha houses, Kanazawa is a peek into a mor
 
 ![kanazawa street tiles ](./assets/img/travel/japan/kanazawa/kanazawa7.jpg){: width="100%"}
 
-#### Kanazawa castle and gardens; Castle garden bridge and Asanogawa river bridges at night; Geisha houses; Street number plaque and manhole cover
+#### Kanazawa Castle and gardens; Castle garden bridge and Asanogawa river bridges at night; Geisha houses; Street number plaque and manhole cover
