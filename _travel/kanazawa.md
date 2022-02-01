@@ -1,27 +1,23 @@
 ---
 title: Kanazawa
-image: travel/japan/kanazawa/kanazawa_castle_bridge.jpg
-thumbnail: travel/japan/kanazawa/kanazawa_bridge.jpg
+image: travel/japan/kanazawa/kanazawa1.jpg
+thumbnail: travel/japan/kanazawa/kanazawa4.jpg
 alt: kanazawa
 category: japan
 ---
 
-![kanazawa castle bridge](./assets/img/travel/japan/kanazawa/kanazawa_castle.jpg){: width="70%"}
+Known for its manicured gardens and geisha houses, Kanazawa is a peek into a more traditional Japan. Well preserved houses and traditional clothing make this city feel like a step back in time...
 
-#### Kanazawa castle and gardens
+![kanazawa castle bridge](./assets/img/travel/japan/kanazawa/kanazawa2.jpg){: width="100%"}
 
-![kanazawa bridge](./assets/img/travel/japan/kanazawa/kanazawa_bridge.jpg){: width="90%"}
+![kanazawa bridges](./assets/img/travel/japan/kanazawa/kanazawa3.jpg){: width="100%"}
 
-#### Nakanohashi bridge at night
+![kanazawa bridge](./assets/img/travel/japan/kanazawa/kanazawa4.jpg){: width="100%"}
 
-![kanazawa house](./assets/img/travel/japan/kanazawa/kanazawa_house1.jpg){: width="90%"}
+![kanazawa houses](./assets/img/travel/japan/kanazawa/kanazawa5.jpg){: width="100%"}
 
-![kanazawa house](./assets/img/travel/japan/kanazawa/kanazawa_house2.jpg){: width="90%"}
+![kanazawa house](./assets/img/travel/japan/kanazawa/kanazawa6.jpg){: width="100%"}
 
-#### Traditional houses
+![kanazawa street tiles ](./assets/img/travel/japan/kanazawa/kanazawa7.jpg){: width="100%"}
 
-![kanazawa street number ](./assets/img/travel/japan/kanazawa/kanazawa_sign.jpg){: width="50%"}
-
-![kanazawa street cover ](./assets/img/travel/japan/kanazawa/kanazawa_cover.jpg){: width="50%"}
-
-#### Kanazawa street number plaque and manhole cover
+#### Kanazawa castle and gardens; Castle garden bridge and Asanogawa river bridges at night; Geisha houses; Street number plaque and manhole cover
