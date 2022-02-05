@@ -1,41 +1,27 @@
 ---
 title: Kyoto
-image: travel/japan/kyoto/kyoto_temple1.jpg
-thumbnail: travel/japan/kyoto/kyoto_pond.jpg
+image: travel/japan/kyoto/kyoto1.jpg
+thumbnail: travel/japan/kyoto/kyoto5.jpg
 alt: kyoto
 category: japan
 ---
 
-![kyoto temple](./assets/img/travel/japan/kyoto/kyoto_temple2.jpg){: width="70%"}
+![kyoto temple](./assets/img/travel/japan/kyoto/kyoto2.jpg){: width="100%"}
 
-#### Kiyomizu-dera Temple
+![bamboo forest](./assets/img/travel/japan/kyoto/kyoto3.jpg){: width="100%"}
 
-![kyoto bamboo forest](./assets/img/travel/japan/kyoto/kyoto_bamboo.jpg){: width="90%"}
+![bamboo trees and temple food](./assets/img/travel/japan/kyoto/kyoto4.jpg){: width="100%"}
 
-![kyoto temple gardens](./assets/img/travel/japan/kyoto/kyoto_pond.jpg){: width="90%"}
+![temple gardens](./assets/img/travel/japan/kyoto/kyoto5.jpg){: width="100%"}
 
-#### Arashiyama bamboo forest and Tenryu-ji Temple Gardens
+![arashiyama river and dragonfly](./assets/img/travel/japan/kyoto/kyoto6.jpg){: width="100%"}
 
-![kyoto temple food](./assets/img/travel/japan/kyoto/kyoto_temple_food1.jpg){: width="70%"}
+![kyoto food](./assets/img/travel/japan/kyoto/kyoto7.jpg){: width="100%"}
 
-![kyoto temple food](./assets/img/travel/japan/kyoto/kyoto_temple_food2.jpg){: width="70%"}
+![palace entrance and river view](./assets/img/travel/japan/kyoto/kyoto8.jpg){: width="100%"}
 
-#### Zen vegetarian lunch at Tenryu-ji's restaurant - Shigetsu
+![kyoto palace gardens](./assets/img/travel/japan/kyoto/kyoto9.jpg){: width="100%"}
 
-![kyoto food](./assets/img/travel/japan/kyoto/kyoto_food_details.jpg){: width="70%"}
+![kyoto gates](./assets/img/travel/japan/kyoto/kyoto10.jpg){: width="100%"}
 
-#### Dining in Kyoto - details
-
-![kyoto palace gardens](./assets/img/travel/japan/kyoto/kyoto_gardens.jpg){: width="90%"}
-
-![kyoto palace](./assets/img/travel/japan/kyoto/kyoto_palace.jpg){: width="70%"}
-
-#### Imperial Palace
-
-![kyoto gates](./assets/img/travel/japan/kyoto/kyoto_gates1.jpg){: width="70%"}
-
-![kyoto gates](./assets/img/travel/japan/kyoto/kyoto_gates2.jpg){: width="70%"}
-
-![kyoto gates](./assets/img/travel/japan/kyoto/kyoto_gates3.jpg){: width="70%"}
-
-#### Torii gates at Fushimi-Inari shrine
+#### Kiyomizu-dera Temple; Arashiyama bamboo forest; Zen vegetarian lunch at Tenryu-ji Temple restaurant - Shigetsu; Tenryu-ji Temple Gardens; Arashiyama gardens - river and dragonfly; Dining in Kyoto - details; Imperial Palace and gardens; View from Sanjo Bridge; Torii Gates at Fushimi-Inari Shrine
