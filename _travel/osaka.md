@@ -1,32 +1,21 @@
 ---
 title: Osaka
-image: travel/japan/osaka/osaka_lanterns.jpg
-thumbnail: travel/japan/osaka/osaka_canal.jpg
+image: travel/japan/osaka/osaka1.jpg
+thumbnail: travel/japan/osaka/osaka2.jpg
 alt: osaka
 category: japan
 ---
 
-![osaka dotombori canal](./assets/img/travel/japan/osaka/osaka_canal.jpg){: width="90%"}
+![canal lanterns](./assets/img/travel/japan/osaka/osaka2.jpg){: width="100%"}
 
-![osaka canal lanterns](./assets/img/travel/japan/osaka/osaka_canal_lanterns.jpg){: width="90%"}
+![ferris wheel and street signs](./assets/img/travel/japan/osaka/osaka3.jpg){: width="100%"}
 
-#### Dotombori Canal
+![street food lanterns](./assets/img/travel/japan/osaka/osaka4.jpg){: width="100%"}
 
-![osaka ferris wheel](./assets/img/travel/japan/osaka/osaka_ferris_wheel.jpg){: width="100%"}
+![street food lanterns](./assets/img/travel/japan/osaka/osaka5.jpg){: width="100%"}
 
-#### Dotombori Canal - Ferris wheel
+![osaka panorama](./assets/img/travel/japan/osaka/osaka6.jpg){: width="100%"}
 
-![osaka street lanterns](./assets/img/travel/japan/osaka/osaka_street_lanterns.jpg){: width="100%"}
+![osaka panorama](./assets/img/travel/japan/osaka/osaka7.jpg){: width="100%"}
 
-#### Street curiosities - lanterns in the food district
-
-![osaka manhole cover](./assets/img/travel/japan/osaka/osaka_cover.jpg){: width="70%"}
-
-#### Street curiosities - manhole cover
-
-
-![osaka view](./assets/img/travel/japan/osaka/osaka_view.jpg){: width="70%"}
-
-![osaka panorama](./assets/img/travel/japan/osaka/osaka_panorama.jpg){: width="100%"}
-
-#### Panoramic view of the city from Osaka Castle
+#### Dotombori Canal and lanterns; Ferris wheel; Street curiosities - signage and lanterns in the food district; Manhole cover; Panoramic view of the city from Osaka Castle
