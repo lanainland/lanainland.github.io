@@ -20,4 +20,4 @@ Known for its manicured gardens and geisha houses, Kanazawa is a peek into a mor
 
 ![kanazawa street tiles ](./assets/img/travel/japan/kanazawa/kanazawa7.jpg){: width="100%"}
 
-#### Kanazawa Castle and gardens; Castle garden bridge and Asanogawa river bridges at night; Geisha houses; Street number plaque and manhole cover
+#### Kanazawa Castle and gardens | Asanogawa river bridges at night | Geisha district - houses and street details

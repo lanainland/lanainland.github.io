@@ -16,7 +16,7 @@ category: japan
 
 ![arashiyama river and dragonfly](./assets/img/travel/japan/kyoto/kyoto6.jpg){: width="100%"}
 
-#### Kiyomizu-dera Temple; Arashiyama bamboo forest; Zen vegetarian lunch at Tenryu-ji Temple restaurant - Shigetsu; Tenryu-ji Temple Gardens; Arashiyama gardens - river and dragonfly
+#### Kiyomizu-dera Temple | Arashiyama bamboo forest | Zen vegetarian lunch at Tenryu-ji Temple restaurant - Shigetsu | Tenryu-ji Temple Gardens | Arashiyama gardens - river and dragonfly
 
 ![kyoto gates](./assets/img/travel/japan/kyoto/kyoto7.jpg){: width="100%"}
 
@@ -24,4 +24,4 @@ category: japan
 
 ![kyoto food](./assets/img/travel/japan/kyoto/kyoto9.jpg){: width="100%"}
 
-#### Torii Gates at Fushimi-Inari Shrine; Imperial Palace gardens; Dining in Kyoto - details
+#### Torii Gates at Fushimi-Inari Shrine | Imperial Palace gardens | Dining in Kyoto - details

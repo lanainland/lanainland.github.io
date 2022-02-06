@@ -12,4 +12,4 @@ category: japan
 
 ![yokohama map](./assets/img/travel/japan/yokohama/yokohama4.jpg){: width="100%"}
 
-#### Moku Moku Waku Waku sculpture in Queen's Square; Nippon Maru Memorial Park; Street pandas; Pavement tiles and street map
+#### Moku Moku Waku Waku sculpture in Queen's Square | Nippon Maru Memorial Park | Street pandas | Pavement tiles and street map
