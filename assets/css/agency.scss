@@ -60,7 +60,7 @@ $h4-font-weight: {{ site.data.style.h4-font-weight }} !default;
 
 $link-colour: {{ site.data.style.link-colour }} !default;
 
-$button-colour: {{ site.data.style.button-colour }} !default;
+$button-colour: {{ site.data.style.button-colour | default: "#fff" }} !default;
 
 $highlight: {{ site.data.style.highlight }} !default;
 
