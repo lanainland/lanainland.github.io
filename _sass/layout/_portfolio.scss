@@ -79,7 +79,7 @@
     padding: 0px 0;
     text-align: left;
     h1 {
-      color: $recipe-title;
+      color: $post-title;
       margin-bottom: 20px;
       text-align: center;
       @include title-font;
@@ -94,29 +94,22 @@
 
     }
     h2 {
-      font-size: 1em;
-      font-weight: 700;
+      @include h2-font;
       text-transform: uppercase;
       margin-bottom: 20px;
       margin-top: 20px;
       text-align: center;
     }
     h3 {
-      font-size: 0.8em;
-      font-weight: 700;
+      @include h3-font;
       text-transform: uppercase;
       margin-bottom: 15px;
       text-align: left;
     }
     h4 {
-      font-size: 14px;
-      font-style: italic;
-      color: $body-colour;
+      @include h4-font;
       margin-bottom: 25px;
       text-align: center;
-      @media(min-width:768px) {
-        font-size: 16px;
-      }
     }
     // p {
     //   margin-bottom: 30px;
@@ -177,7 +170,7 @@
 
 .modal-site-title {
   padding-bottom: 8px;
-  color: $recipe-title;
+  color: $post-title;
   font-size: 1.75em;
   @include title-font;
 }

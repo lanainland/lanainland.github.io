@@ -1,6 +1,6 @@
 #btt-button {
   display: inline-block;
-  background-color: $btt;
+  color: $btt;
   width: 40px;
   height: 40px;
   text-align: center;
@@ -19,16 +19,16 @@
   font-family: FontAwesome;
   font-weight: normal;
   font-style: normal;
-  font-size: 2em;
+  font-size: $btt-size;
   line-height: 40px;
-  color: #fff;
+  background-color: #11ffee00;
 }
 #btt-button:hover {
   cursor: pointer;
-  background-color: $btt-hov;
+  color: $btt-hov;
 }
 #btt-button:active {
-  background-color: $btt-act;
+  color: $btt-act;
 }
 #btt-button.show {
   opacity: 1;
