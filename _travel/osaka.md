@@ -14,8 +14,6 @@ category: japan
 
 ![street food lanterns](./assets/img/travel/japan/osaka/osaka5.jpg){: width="100%"}
 
-![osaka panorama](./assets/img/travel/japan/osaka/osaka6.jpg){: width="100%"}
-
-![osaka panorama](./assets/img/travel/japan/osaka/osaka7.jpg){: width="100%"}
+![osaka panorama](./assets/img/travel/japan/osaka/osaka6a.jpg){: width="100%"}
 
 #### Dotombori Canal and lanterns | Ferris wheel | Street curiosities - signage and lanterns in the food district | Manhole cover | Panoramic view of the city from Osaka Castle

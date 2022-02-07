@@ -6,24 +6,14 @@ alt: tokyo
 category: japan
 ---
 
-![shinjuku tall buildings](./assets/img/travel/japan/tokyo/tokyo2.jpg){: width="100%"}
+![tokyo tall buildings](./assets/img/travel/japan/tokyo/tokyo2.jpg){: width="100%"}
 
 ![shibuya crossing](./assets/img/travel/japan/tokyo/tokyo3.jpg){: width="100%"}
 
-![shibuya crossing](./assets/img/travel/japan/tokyo/tokyo4.jpg){: width="100%"}
+![tokyo lanterns and gardens](./assets/img/travel/japan/tokyo/tokyo4.jpg){: width="100%"}
 
-![street and temple lanterns](./assets/img/travel/japan/tokyo/tokyo5.jpg){: width="100%"}
+#### Peekaboo Godzilla in Shinjuku | Tall buildings around Tokyo | The famous Shibuya crossing | Street lanterns | Peaceful gardens in Shinjuku and Asakusa | View from Komagata bridge in Asakusa | Kaminarimon lanterns at Sensō-ji temple
 
-![gold lantern](./assets/img/travel/japan/tokyo/tokyo6.jpg){: width="100%"}
+![tokyo food](./assets/img/travel/japan/tokyo/tokyo5.jpg){: width="100%"}
 
-![tokyo gardens](./assets/img/travel/japan/tokyo/tokyo7.jpg){: width="100%"}
-
-![komagata bridge](./assets/img/travel/japan/tokyo/tokyo8.jpg){: width="100%"}
-
-#### Peekaboo Godzilla in Shinjuku | The famous Shibuya crossing | Street lanterns | Kaminarimon lanterns at Sensō-ji temple | Peaceful gardens in Shinjuku and Asakusa | View from Komagata bridge in Asakusa
-
-![tokyo food](./assets/img/travel/japan/tokyo/tokyo9.jpg){: width="100%"}
-
-![tokyo sushi](./assets/img/travel/japan/tokyo/tokyo10.jpg){: width="100%"}
-
-#### Dining in Tokyo | Sushi at the fish market
+#### Dining in Tokyo - Okonomiyaki | Vending machine ramen | Sushi at the fish market | Anmitsu and matcha ice cream desserts
