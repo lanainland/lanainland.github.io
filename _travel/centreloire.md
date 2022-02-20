@@ -8,74 +8,22 @@ category: france
 
 ## Chenonceau Castle
 
-![castle bridge](./assets/img/travel/france/centreloire/chenon2.jpg){: width="90%"}
+![castle bridge](./assets/img/travel/france/centreloire/chenon2.jpg){: width="100%"}
 
-![castle moat](./assets/img/travel/france/centreloire/chenon3.jpg){: width="70%"}
+![castle river and gardens](./assets/img/travel/france/centreloire/chenon3.jpg){: width="100%"}
 
-#### The Castle and the river Cher
+#### The Castle and the river Cher | Surrounding gardens
 
-![statue](./assets/img/travel/france/centreloire/chenon_statue.jpg){: width="70%"}
+![hallway](./assets/img/travel/france/centreloire/chenon4.jpg){: width="100%"}
 
-![castle kitchen](./assets/img/travel/france/centreloire/chenon_kitchen.jpg){: width="70%"}
+![interior windows and ceilings](./assets/img/travel/france/centreloire/chenon5.jpg){: width="100%"}
 
-![arch window](./assets/img/travel/france/centreloire/chenon_arch_window.jpg){: width="70%"}
-
-#### Light and shadow through the castle windows
-
-![hallway](./assets/img/travel/france/centreloire/chenon_hall.jpg){: width="90%"}
-
-#### Main hallway
-
-![ceiling arches](./assets/img/travel/france/centreloire/chenon_ceiling1.jpg){: width="70%"}
-
-![ceiling painting](./assets/img/travel/france/centreloire/chenon_ceiling2.jpg){: width="70%"}
-
-#### Interior details - ceilings
-
-![window view](./assets/img/travel/france/centreloire/chenon_window1.jpg){: width="70%"}
-
-![window view](./assets/img/travel/france/centreloire/chenon_window2.jpg){: width="70%"}
-
-![window view](./assets/img/travel/france/centreloire/chenon_window3.jpg){: width="70%"}
-
-#### Through the looking glass
-
-![window view](./assets/img/travel/france/centreloire/chenon_window4.jpg){: width="90%"}
-
-![window view](./assets/img/travel/france/centreloire/chenon_window5.jpg){: width="70%"}
-
-#### Views from the Castle
-
-![castle tower](./assets/img/travel/france/centreloire/chenon_tower.jpg){: width="70%"}
-
-#### Main tower
-
-![castle gardens](./assets/img/travel/france/centreloire/chenon_gardens1.jpg){: width="90%"}
-
-![castle gardens](./assets/img/travel/france/centreloire/chenon_gardens2.jpg){: width="90%"}
-
-#### Castle gardens
+#### Main hallway | Light and shadow through the castle windows | Ceiling details
 
 ## Tours
 
-![wilson bridge](./assets/img/travel/france/centreloire/tours_bridge.jpg){: width="90%"}
+![wilson bridge](./assets/img/travel/france/centreloire/tours1.jpg){: width="100%"}
 
-#### Wilson Bridge
+![old town buildings and violin shop](./assets/img/travel/france/centreloire/tours2.jpg){: width="100%"}
 
-![plumereau square](./assets/img/travel/france/centreloire/tours_square.jpg){: width="90%"}
-
-#### Old houses on Plumereau Square
-
-![cathedral](./assets/img/travel/france/centreloire/tours_cathedral.jpg){: width="70%"}
-
-![fine arts museum tower](./assets/img/travel/france/centreloire/tours_museum.jpg){: width="70%"}
-
-#### Cathedral and Fine-Arts Museum
-
-![tower and basilica](./assets/img/travel/france/centreloire/tours_tower.jpg){: width="70%"}
-
-#### Charlemagne Tower and Basilica Saint-Martin
-
-![violin shop](./assets/img/travel/france/centreloire/tours_violin.jpg){: width="70%"}
-
-#### An old violin making shop window
+#### Wilson Bridge | Cathedral | Old houses on Plumereau Square | Fine-Arts Museum | An old violin making shop window | Charlemagne Tower and Basilica Saint-Martin
