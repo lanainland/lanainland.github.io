@@ -1,61 +1,41 @@
 ---
 title: Corsica
-image: travel/france/corsica/saint_florent_citadel.jpg
-thumbnail: travel/france/corsica/ile_rousse2.jpg
+image: travel/france/corsica/corsica1.jpg
+thumbnail: travel/france/corsica/corsica3.jpg
 alt: corsica
 category: france
 ---
 
+## L'Île-Rousse
+
+![vegetation, sea and mermaid](./assets/img/travel/france/corsica/corsica2.jpg){: width="100%"}
+
+![rocky coastline](./assets/img/travel/france/corsica/corsica3.jpg){: width="100%"}
+
+#### Local vegetation | Mermaid sculpture | Rocky coastline
+
+## Sant'Antonino
+
+One of the most beautiful medieval villages in France with amazing mountain views.
+
+![sant'antonino town](./assets/img/travel/france/corsica/corsica4.jpg){: width="100%"}
+
+![sant'antonino view](./assets/img/travel/france/corsica/corsica5.jpg){: width="100%"}
+
+#### Medieval town | View of the valley and surrounding mountains
+
 ## Saint-Florent
 
-![saint florent façade](./assets/img/travel/france/corsica/saint_florent_facade.jpg){: width="70%"}
+![vegetation, town buildings and sea](./assets/img/travel/france/corsica/corsica6.jpg){: width="100%"}
 
-![saint florent berries](./assets/img/travel/france/corsica/saint_florent_berries.jpg){: width="70%"}
+![beach](./assets/img/travel/france/corsica/corsica7.jpg){: width="100%"}
 
-#### Around town
-
-![saint florent path](./assets/img/travel/france/corsica/saint_florent_path.jpg){: width="90%"}
-
-![saint florent beach](./assets/img/travel/france/corsica/saint_florent_beach1.jpg){: width="90%"}
-
-![saint florent beach](./assets/img/travel/france/corsica/saint_florent_beach2.jpg){: width="90%"}
-
-#### Local beaches
+#### Details from around town | Local beaches
 
 ## Patrimonio
 
 Cute little hilltop village.
 
-![patrimonio church](./assets/img/travel/france/corsica/patrimonio_church1.jpg){: width="90%"}
-
-![patrimonio church](./assets/img/travel/france/corsica/patrimonio_church2.jpg){: width="70%"}
+![church and tree](./assets/img/travel/france/corsica/corsica8.jpg){: width="100%"}
 
 #### Church in the tiny village
-
-## L'Île-Rousse
-
-![île rousse coastline](./assets/img/travel/france/corsica/ile_rousse1.jpg){: width="90%"}
-
-![île rousse coastline](./assets/img/travel/france/corsica/ile_rousse2.jpg){: width="90%"}
-
-![île rousse mermaid](./assets/img/travel/france/corsica/ile_rousse_mermaid.jpg){: width="70%"}
-
-![île rousse vegetation](./assets/img/travel/france/corsica/ile_rousse_vegetation.jpg){: width="70%"}
-
-#### Rocky coastline and local vegetation
-
-## Sant'Antonino
-
-![sant'antonino view](./assets/img/travel/france/corsica/sant_antonino_view1.jpg){: width="90%"}
-
-![sant'antonino view](./assets/img/travel/france/corsica/sant_antonino_view2.jpg){: width="90%"}
-
-![sant'antonino town](./assets/img/travel/france/corsica/sant_antonino1.jpg){: width="90%"}
-
-#### One of the most beautiful medieval villages in France with amazing mountain views
-
-![sant'antonino town](./assets/img/travel/france/corsica/sant_antonino2.jpg){: width="70%"}
-
-![sant'antonino town](./assets/img/travel/france/corsica/sant_antonino3.jpg){: width="70%"}
-
-#### Medieval town
