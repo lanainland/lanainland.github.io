@@ -1,117 +1,37 @@
 ---
 title: Provence-Côte d'Azur
-image: travel/france/provence_cotedazur/marseille_statue1.jpg
-thumbnail: travel/france/provence_cotedazur/nice_view1.jpg
+image: travel/france/provence_cotedazur/nice1.jpg
+thumbnail: travel/france/provence_cotedazur/nice3.jpg
 alt: provence cote d'azur
 category: france
 ---
 
-## Marseille
-
-![statue panorama](./assets/img/travel/france/provence_cotedazur/marseille_statue2.jpg){: width="70%"}
-
-![statue panorama](./assets/img/travel/france/provence_cotedazur/marseille_statue3.jpg){: width="70%"}
-
-#### Notre-Dame Basilica from different parts of the city
-
-![le panier district](./assets/img/travel/france/provence_cotedazur/marseille_panier.jpg){: width="90%"}
-
-#### Le Panier district
-
-![longchamp palace](./assets/img/travel/france/provence_cotedazur/marseille_longchamp1.jpg){: width="90%"}
-
-![palace columns](./assets/img/travel/france/provence_cotedazur/marseille_longchamp2.jpg){: width="70%"}
-
-#### Longchamp Palace
-
-![fishing port](./assets/img/travel/france/provence_cotedazur/marseille_auffes.jpg){: width="90%"}
-
-#### Vallon des Auffes - a small picturesque fishing port
-
-![monument](./assets/img/travel/france/provence_cotedazur/marseille_monument.jpg){: width="70%"}
-
-#### Porte d'Orient - monument dedicated to the Armées d'Afrique
-
-![calanques](./assets/img/travel/france/provence_cotedazur/marseille_calanques1.jpg){: width="70%"}
-
-![calanques](./assets/img/travel/france/provence_cotedazur/marseille_calanques2.jpg){: width="90%"}
-
-#### Calanques - limestone cliffs
-
 ## Nice
 
-![old port](./assets/img/travel/france/provence_cotedazur/nice_port.jpg){: width="70%"}
+![town buildings, view and waterfall](./assets/img/travel/france/provence_cotedazur/nice2.jpg){: width="100%"}
 
-#### Nice old port
+![panoramic view](./assets/img/travel/france/provence_cotedazur/nice3.jpg){: width="100%"}
 
-![old town](./assets/img/travel/france/provence_cotedazur/nice_buildings1.jpg){: width="90%"}
+#### Nice old port | Old town buildings | Matisse Museum | Cimiez Monastery and gardens | Castle Hill Chapel and waterfall | Panoramic views of Nice from Castle Hill
 
-![old town](./assets/img/travel/france/provence_cotedazur/nice_buildings2.jpg){: width="70%"}
+## Marseille
 
-#### Old town buildings
+![city view, statues, cliffs](./assets/img/travel/france/provence_cotedazur/marseille1.jpg){: width="100%"}
 
-![matisse museum](./assets/img/travel/france/provence_cotedazur/nice_matisse.jpg){: width="70%"}
+![longchamp palace](./assets/img/travel/france/provence_cotedazur/marseille2.jpg){: width="100%"}
 
-#### Cimiez - Matisse Museum
-
-![cimiez monastery](./assets/img/travel/france/provence_cotedazur/nice_cimiez1.jpg){: width="70%"}
-
-![cimiez gardens](./assets/img/travel/france/provence_cotedazur/nice_cimiez2.jpg){: width="70%"}
-
-#### Cimiez - Monastery and gardens
-
-![chapel](./assets/img/travel/france/provence_cotedazur/nice_chapel.jpg){: width="70%"}
-
-![waterfall](./assets/img/travel/france/provence_cotedazur/nice_waterfall.jpg){: width="70%"}
-
-#### Castle Hill
-
-![panoramic view](./assets/img/travel/france/provence_cotedazur/nice_view1.jpg){: width="90%"}
-
-![panoramic view](./assets/img/travel/france/provence_cotedazur/nice_view2.jpg){: width="90%"}
-
-#### Panoramic views of Nice from Castle Hill
+#### Notre-Dame Basilica from different parts of the city | Porte d'Orient monument | Vallon des Auffes fishing port | Calanques - limestone cliffs | Le Panier district | Longchamp Palace
 
 ## Arles
 
-![main square](./assets/img/travel/france/provence_cotedazur/arles_main_square.jpg){: width="70%"}
+![cafe, old town and colosseum](./assets/img/travel/france/provence_cotedazur/arles1.jpg){: width="100%"}
 
-#### Main square
+![arles arena](./assets/img/travel/france/provence_cotedazur/arles2.jpg){: width="100%"}
 
-![van gogh cafe](./assets/img/travel/france/provence_cotedazur/arles_cafe.jpg){: width="70%"}
-
-#### Van Gogh café
-
-![arles arena](./assets/img/travel/france/provence_cotedazur/arles_arena1.jpg){: width="70%"}
-
-![arles arena](./assets/img/travel/france/provence_cotedazur/arles_arena2.jpg){: width="90%"}
-
-#### Roman Amphitheatre
-
-![arles arena](./assets/img/travel/france/provence_cotedazur/arles_arena_postcard.jpg){: width="90%"}
-
-#### The Amphitheatre was transformed into a town in the Middle Ages
+#### Van Gogh café | Main square | Cathedral doorway | Roman Amphitheatre | The Amphitheatre as a town in the Middle Ages
 
 ## Avignon
 
-![bridge](./assets/img/travel/france/provence_cotedazur/avignon_bridge.jpg){: width="90%"}
+![popes palace, opera house and bridge](./assets/img/travel/france/provence_cotedazur/avignon.jpg){: width="100%"}
 
-#### Avignon Bridge
-
-![popes palace](./assets/img/travel/france/provence_cotedazur/avignon_palace.jpg){: width="90%"}
-
-![popes palace](./assets/img/travel/france/provence_cotedazur/avignon_arch1.jpg){: width="70%"}
-
-![popes palace](./assets/img/travel/france/provence_cotedazur/avignon_arch2.jpg){: width="70%"}
-
-#### Popes' Palace
-
-![opera](./assets/img/travel/france/provence_cotedazur/avignon_opera.jpg){: width="70%"}
-
-#### Opera House
-
-![street art](./assets/img/travel/france/provence_cotedazur/avignon_street2.jpg){: width="70%"}
-
-![street art](./assets/img/travel/france/provence_cotedazur/avignon_street1.jpg){: width="90%"}
-
-#### Street art - façade paintings
+#### Popes' Palace | Opera House | Street art - façade paintings | Avignon Bridge
