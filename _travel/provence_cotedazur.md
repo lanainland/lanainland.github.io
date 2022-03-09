@@ -34,4 +34,4 @@ category: france
 
 ![popes palace, opera house and bridge](./assets/img/travel/france/provence_cotedazur/avignon.jpg){: width="100%"}
 
-#### Popes' Palace | Opera House | Street art - façade paintings | Avignon Bridge
+#### Popes' Palace | Avignon Bridge | Opera House | Street art - façade paintings
