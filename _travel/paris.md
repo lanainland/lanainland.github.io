@@ -12,13 +12,15 @@ category: france
 
 ![louvre area](./assets/img/travel/france/paris/paris4.jpg){: width="100%"}
 
+#### Eiffel from all angles | View from Montmartre | Louvre pyramid | Royal Palace columns
+
 ![view through arches](./assets/img/travel/france/paris/paris5.jpg){: width="100%"}
 
 ![pompidou centre view](./assets/img/travel/france/paris/paris6.jpg){: width="100%"}
 
 ![lion statues, train tracks, pyramid and columns](./assets/img/travel/france/paris/paris7.jpg){: width="100%"}
 
-#### Eiffel from all angles | View from Montmartre | Louvre area | Arches around town | Carnavalet Museum Skylight | Petit Palais columns | View from Pompidou Centre | Luxembourg Gardens | Passy metro tracks
+#### Arches around town | Carnavalet Museum Skylight | Notre Dame | Petit Palais columns | Sunset over the Seine | View from Pompidou Centre | Luxembourg Gardens | Passy metro tracks
 
 ![food](./assets/img/travel/france/paris/paris8.jpg){: width="100%"}
 

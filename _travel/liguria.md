@@ -1,7 +1,7 @@
 ---
 title: Liguria
 image: travel/italy/liguria/cterre1.jpg
-thumbnail: travel/italy/liguria/cterre_thumb.jpg
+thumbnail: travel/italy/liguria/cterre3.jpg
 alt: liguria
 category: italy
 ---
@@ -12,9 +12,11 @@ Colourful buildings overlooking turquoise waters with fishing boats...sounds lik
 
 ![buildings and boats](./assets/img/travel/italy/liguria/cterre2.jpg){: width="100%"}
 
-![buildings and sea views](./assets/img/travel/italy/liguria/cterre3.jpg){: width="100%"}
+![view of manarola](./assets/img/travel/italy/liguria/cterre3.jpg){: width="100%"}
 
-#### Riomaggiore buildings and details | Manarola view and sculpture | Corniglia coastline views and town details | Vernazza pink building and local beach
+![sea views and buildings](./assets/img/travel/italy/liguria/cterre4.jpg){: width="100%"}
+
+#### Riomaggiore buildings and details | Manarola | Corniglia coastline views and town details | Vernazza pink building and local beach
 
 ## Genova
 
