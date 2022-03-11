@@ -1,46 +1,20 @@
 ---
 title: Umbria
-image: travel/italy/umbria/perugia_aqueduct1.jpg
-thumbnail: travel/italy/umbria/perugia_aqueduct2.jpg
+image: travel/italy/umbria/perugia1.jpg
+thumbnail: travel/italy/umbria/perugia5.jpg
 alt: umbria
 category: italy
 ---
 
 ## Perugia
 
-![aqueduct](./assets/img/travel/italy/umbria/perugia_aqueduct2.jpg){: width="90%"}
+![arches and windows](./assets/img/travel/italy/umbria/perugia2.jpg){: width="100%"}
 
-![aqueduct](./assets/img/travel/italy/umbria/perugia_aqueduct3.jpg){: width="70%"}
+![aqueduct and steps](./assets/img/travel/italy/umbria/perugia3.jpg){: width="100%"}
 
-![aqueduct](./assets/img/travel/italy/umbria/perugia_aqueduct4.jpg){: width="70%"}
+![urns, arches and food](./assets/img/travel/italy/umbria/perugia4.jpg){: width="100%"}
 
-#### Medieval aqueduct
-
-![cathedral windows](./assets/img/travel/italy/umbria/perugia_cathedral.jpg){: width="70%"}
-
-#### Windows inside the San Lorenzo Cathedral
-
-![basilica courtyard](./assets/img/travel/italy/umbria/perugia_basilica1.jpg){: width="70%"}
-
-![portico columns](./assets/img/travel/italy/umbria/perugia_basilica2.jpg){: width="70%"}
-
-#### San Pietro Basilica
-
-![food platter](./assets/img/travel/italy/umbria/perugia_food.jpg){: width="70%"}
-
-#### A quick snack
-
-![urn and façade](./assets/img/travel/italy/umbria/perugia_facade.jpg){: width="70%"}
-
-![portico](./assets/img/travel/italy/umbria/perugia_portico.jpg){: width="70%"}
-
-![street urns](./assets/img/travel/italy/umbria/perugia_urns.jpg){: width="70%"}
-
-#### Façades, porticos and urns
-
-![landscape view](./assets/img/travel/italy/umbria/perugia_view.jpg){: width="70%"}
-
-#### Views of the countryside south of the city
+#### San Pietro Basilica portico and columns | Arches in the old town | Cathedral windows | Medieval aqueduct | Urns around town | A quick snack | Views of the countryside south of the city | Portico arches
 
 ## Spello
 

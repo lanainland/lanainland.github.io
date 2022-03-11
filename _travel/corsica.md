@@ -12,7 +12,7 @@ category: france
 
 ![rocky coastline](./assets/img/travel/france/corsica/corsica3.jpg){: width="100%"}
 
-#### Local vegetation | Mermaid sculpture | Rocky coastline
+#### Local vegetation and rocky coastline | Mermaid sculpture
 
 ## Sant'Antonino
 

@@ -14,7 +14,7 @@ The city of canals.
 
 ![bridges, canals and street lamps](./assets/img/travel/france/grandest/strasbourg3.jpg){: width="100%"}
 
-#### Details around town - street lamps, bridges and old buildings | Notre-Dame Cathedral | Charcoal burger and homemade twix
+#### Details around town - canals, bridges, street lamps and old buildings | Notre-Dame Cathedral | Charcoal burger and homemade twix
 
 ## Troyes
 
