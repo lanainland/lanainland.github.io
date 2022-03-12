@@ -18,36 +18,12 @@ category: italy
 
 ## Spello
 
-![restaurant front](./assets/img/travel/italy/umbria/spello_flowers1.jpg){: width="70%"}
+![flowers, doorways, towers and food](./assets/img/travel/italy/umbria/spello.jpg){: width="100%"}
 
-![door with flowers](./assets/img/travel/italy/umbria/spello_flowers2.jpg){: width="70%"}
-
-![door with flowers](./assets/img/travel/italy/umbria/spello_flowers3.jpg){: width="70%"}
-
-#### Inviting doorways in unexpected corners
-
-![food](./assets/img/travel/italy/umbria/spello_food.jpg){: width="90%"}
-
-#### Amazing food
-
-![church doorway](./assets/img/travel/italy/umbria/spello_church.jpg){: width="70%"}
-
-#### Church façade
-
-![two towers](./assets/img/travel/italy/umbria/spello_towers.jpg){: width="70%"}
-
-#### Properzio Towers
+#### Streets lined with flowers | Inviting doorways | Properzio Towers | Amazing food
 
 ## Assisi
 
-![basilica](./assets/img/travel/italy/umbria/assisi_basilica1.jpg){: width="70%"}
+![basilica, portico and columns](./assets/img/travel/italy/umbria/assisi.jpg){: width="100%"}
 
-![portico columns](./assets/img/travel/italy/umbria/assisi_basilica2.jpg){: width="70%"}
-
-#### Basilica of Saint Francis of Assisi
-
-![columns upward view](./assets/img/travel/italy/umbria/assisi_columns.jpg){: width="70%"}
-
-![columns upward view](./assets/img/travel/italy/umbria/assisi_tower.jpg){: width="70%"}
-
-#### Temple of Minerva and People's tower
+#### Basilica of Saint Francis of Assisi | Temple of Minerva and People's tower

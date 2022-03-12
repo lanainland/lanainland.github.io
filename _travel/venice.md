@@ -16,8 +16,6 @@ Venice is one of a kind, it is such a unique city, so easy to get lost in...ever
 
 ![grand canal](./assets/img/travel/italy/venice/venice5.jpg){: width="100%"}
 
-#### Canals, gondolas and bridges | San Giorgio monastery | Moody Venice in winter
-
 ![façades and details](./assets/img/travel/italy/venice/venice6.jpg){: width="100%"}
 
-#### Façades and details around town that caught my eye
+#### Canals, gondolas and bridges | San Giorgio monastery | Moody Venice in winter | Façades and details around town that caught my eye
