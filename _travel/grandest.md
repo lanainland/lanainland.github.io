@@ -18,7 +18,7 @@ The city of canals.
 
 ## Troyes
 
-![old buildings, museums and canal](./assets/img/travel/france/grandest/troyes.jpg){: width="100%"}
+![old buildings, museums and canal](./assets/img/travel/france/grandest/troyes1.jpg){: width="100%"}
 
 ![canal](./assets/img/travel/france/grandest/troyes2.jpg){: width="100%"}
 

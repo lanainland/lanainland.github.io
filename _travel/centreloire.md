@@ -12,13 +12,11 @@ category: france
 
 ![castle river and gardens](./assets/img/travel/france/centreloire/chenon3.jpg){: width="100%"}
 
-#### The Castle and the river Cher | Surrounding gardens
-
 ![hallway](./assets/img/travel/france/centreloire/chenon4.jpg){: width="100%"}
 
 ![interior windows and ceilings](./assets/img/travel/france/centreloire/chenon5.jpg){: width="100%"}
 
-#### Main hallway | Light and shadow through the castle windows | Ceiling details
+#### The Castle and the river Cher | Surrounding gardens | Main hallway | Light and shadow through the castle windows | Ceiling details
 
 ## Tours
 
