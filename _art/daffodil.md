@@ -1,7 +1,7 @@
 ---
 title: Daffodil
 image: art/botanical/daffodil/daffodil1.jpg
-thumbnail: art/botanical/daffodil/daffodil4.jpg
+thumbnail: art/botanical/daffodil/daffodil5.jpg
 alt: daffodil
 category: botanical
 ---
@@ -11,6 +11,10 @@ Daffodils are native to Northern Europe and are early bloomers, so if you happen
 
 ![daffodil parts](./assets/img/art/botanical/daffodil/daffodil2.jpg){: width="100%"}
 
-![daffodil parts](./assets/img/art/botanical/daffodil/daffodil3.png){: width="100%"}
+![daffodil parts](./assets/img/art/botanical/daffodil/daffodil3.jpg){: width="100%"}
 
-#### Dissected flower head, exposing the interior structure and the side tepals | Elements of a daffodil - tepals, stamens and leaves | Front, back and side views of a daffodil in full bloom
+#### Dissected flower head, exposing the interior structure and the side tepals | Elements of a daffodil - tepals, stamens and leaves
+
+![daffodil parts](./assets/img/art/botanical/daffodil/daffodil4.jpg){: width="100%"}
+
+#### Front, back and side views of a daffodil in full bloom
