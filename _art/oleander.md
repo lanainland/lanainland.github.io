@@ -1,21 +1,13 @@
 ---
 title: Oleander
-image: art/botanical/oleander/oleander.jpg
-thumbnail: art/botanical/oleander/oleander_thumb.jpg
+image: art/botanical/oleander/oleander1.jpg
+thumbnail: art/botanical/oleander/oleander3.jpg
 alt: oleander
 category: botanical
 ---
 
 I bought an Oleander plant recently as it reminds me of sunny holidays in the Mediterranean and I love looking at its pink flowers.
 
-![oleander branch](./assets/img/art/botanical/oleander/oleander_branch.jpg){: width="80%"}
+![oleander](./assets/img/art/botanical/oleander/oleander2.jpg){: width="100%"}
 
-#### Oleander branch in pen and watercolour
-
-![oleander leaf](./assets/img/art/botanical/oleander/oleander_leaf.jpg){: width="80%"}
-
-#### Colour study of a branch and an individual leaf
-
-![oleander sketch](./assets/img/art/botanical/oleander/oleander_sketch.jpg){: width="80%"}
-
-#### Composition sketch of a cluster of flowers
+#### Oleander flower and branch in pen and watercolour | Colour study of a branch and an individual leaf | Composition sketch of a cluster of flowers
