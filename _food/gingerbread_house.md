@@ -1,7 +1,7 @@
 ---
 title: Gingerbread House
 image: food/festive/gingerbread_house.jpg
-thumbnail: food/festive/gingerbread_house_thumb.jpg
+thumbnail: food/festive/gingerbread_house_thumb1.jpg
 alt: gingerbread house
 category: festive
 ---
