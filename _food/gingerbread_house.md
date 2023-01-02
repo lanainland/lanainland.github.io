@@ -38,7 +38,7 @@ You can download the template here.
 
 ### Dough
 
-1. Beat the butter and sugar on medium- speed until light and fluffy.
+1. Beat the butter and sugar on medium speed until light and fluffy.
 1. Add egg, molasses and vanilla.
 1. In another bowl, mix the dry ingredients.
 1. Add these to the wet mixture gradually and mix to a slightly stiff but sticky consistency.
@@ -66,12 +66,12 @@ The icing will be used for decoration and for structural purposes to stick the h
 
 ### Assembly
 
-1. Pipe a line of icing at the bottom of the front of the house to stick it to the base/plate.
+1. Pipe a line of icing at the bottom of the front of the house to stick it to the base plate.
 1. Place a glass to support it for now.
 1. Pipe the side and bottom edges of a wall and connect it to the front. Press to make sure they are stuck together.
 1. Repeat for the other wall.
 1. Pipe the bottom edge of the back of the house and connect it to the side walls by pressing firmly.
-1. Leave to harden for an hour before attaching the roof.
+1. Leave to harden for an hour.
 1. Remove the glass and place some led candles before attaching the roof.
 1. Pipe icing on exposed edges of the house and attach the roof. Use glasses or something of similar height to support the roof underneath while it dries.
 1. Dust with sifted icing sugar.
