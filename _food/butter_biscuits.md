@@ -1,7 +1,7 @@
 ---
 title: Butter Biscuits
 image: food/festive/butter_biscuits.jpg
-thumbnail: food/festive/butter_biscuits_thumb2.jpg
+thumbnail: food/festive/butter_biscuits_thumb.jpg
 alt: butter biscuits
 category: festive
 ---
