@@ -27,5 +27,5 @@ category: drinks
 
 ## Instructions
 
-1. Blend all ingredients until smooth.
-1. Serve in a cold glass.
+1. Blend each smoothie separately.
+1. Serve in a cold glass, pouring the banana smoothie first, followed by the berry smoothie.
