@@ -11,6 +11,8 @@ food:
 - title: "Drinks"
   text: "Cocktails and smoothies"
   category: drinks
+- title: "Festive"
+  text: "Holiday goodies"
 
 travel:
 - title: "France"
