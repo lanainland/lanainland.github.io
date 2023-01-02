@@ -34,7 +34,6 @@ category: festive
 ## Instructions
 
 The final dimensions of the house are roughly 15 x 22 x 22 cm.
-
 You can download the template here.
 
 ### Dough
