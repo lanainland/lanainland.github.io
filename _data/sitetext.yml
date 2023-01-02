@@ -13,6 +13,7 @@ food:
   category: drinks
 - title: "Festive"
   text: "Holiday goodies"
+  category: festive
 
 travel:
 - title: "France"
