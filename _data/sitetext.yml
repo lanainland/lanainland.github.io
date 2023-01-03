@@ -16,6 +16,9 @@ food:
   category: festive
 
 travel:
+- title: "Egypt"
+  text: "𓂜𓅃𓃣𓋹𓂀𓆃"
+  category: egypt
 - title: "France"
   text: "Oh là là...et voilà"
   category: france
