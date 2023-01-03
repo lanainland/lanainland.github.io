@@ -1,9 +1,9 @@
 ---
 title: Alexandria
 image: travel/egypt/alexandria/alexandria1.jpg
-thumbnail: travel/egypt/alexandria/alexandria3.jpg
+thumbnail: travel/egypt/alexandria/alexandria4.jpg
 alt: corsica
-category: france
+category: egypt
 ---
 
 ![mosque and train station](./assets/img/travel/egypt/alexandria/alexandria2.jpg){: width="100%"}
