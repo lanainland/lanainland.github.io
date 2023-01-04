@@ -26,20 +26,22 @@ The Great Pyramid is gigantic - each of the individual stone blocks is 1 - 1.5 m
 
 #### The Great Pyramid Khufu and the Pyramid of Khafre | The tip of Khafre pyramid still retains the limestone casing | Khufu pyramid stones
 
-![sphynxs and pyramids](./assets/img/travel/egypt/giza_pyramids/pyramids6.jpg){: width="100%"}
+![pyramids](./assets/img/travel/egypt/giza_pyramids/pyramids6.jpg){: width="100%"}
 
-![sphynxs and pyramids](./assets/img/travel/egypt/giza_pyramids/pyramids7.jpg){: width="100%"}
+![single pyramid](./assets/img/travel/egypt/giza_pyramids/pyramids7.jpg){: width="100%"}
 
 #### The pyramids of Khafre and Menkaure | Menkaure pyramid close-up
 
-Away from the hustle and bustle is the Marriott Hotel, a quiet oasis with picturesque views of the pyramids.
+To keep away from the hustle and bustle, the best is to stay in. The Marriott Hotel is a quiet oasis with picturesque views of the pyramids, ideal for a dinner outing. For breakfast, a tasty selection of egyptian treats laid out on the terrace of a local hotel overlooking the pyramids.
 
-![sphynxs and pyramids](./assets/img/travel/egypt/giza_pyramids/pyramids8.jpg){: width="100%"}
+![fountain, gardens and pyramids](./assets/img/travel/egypt/giza_pyramids/pyramids8.jpg){: width="100%"}
 
-![sphynxs and pyramids](./assets/img/travel/egypt/giza_pyramids/pyramids9.jpg){: width="100%"}
+![restaurant interior](./assets/img/travel/egypt/giza_pyramids/pyramids9.jpg){: width="100%"}
 
-#### Marriott Mena House gardens and restaurant | Egyptian breakfast at a nearby hotel overlooking the pyramids
+![breakfast and pyramids](./assets/img/travel/egypt/giza_pyramids/pyramids10.jpg){: width="100%"}
 
-![sphynxs and pyramids](./assets/img/travel/egypt/giza_pyramids/pyramids10.jpg){: width="100%"}
+#### Marriott Mena House gardens and restaurant | Egyptian breakfast at a nearby hotel with an amazing view of the pyramids
+
+![pyramids day and night](./assets/img/travel/egypt/giza_pyramids/pyramids11.jpg){: width="100%"}
 
 #### Answer to the Sphynx's riddle: 'Day and Night'
