@@ -17,8 +17,6 @@ collections:
   food:
   travel:
   photography:
-  design:
-  diy:
-  art:
+  design_and_diy:
 
 markdown: kramdown

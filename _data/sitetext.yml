@@ -31,7 +31,7 @@ travel:
 
 photography:
 - title: "Nature"
-  text: "Plants and animals"
+  text: "Flora and Fauna"
   category: nature
 - title: "Architecture"
   text: "Arches, columns and various features"
@@ -41,37 +41,15 @@ photography:
   category: patterns&details
 
 design_and_diy:
-- title: "Furniture"
-  text: "More than just a chair"
-  category: furniture
-- title: "Interior"
-  text: "Before and after"
-  category: interior
-- title: "Textiles"
-  text: "Fabric dyeing and printing"
-  category: textiles
-
-sewing:
-- title: "Accessories"
+- title: "Art"
+  text: "Watercolour illustrations"
+  category: art
+- title: "Design"
+  text: "Interior embellishments"
+  category: design
+- title: "Handmade"
   text: "Adorning bits and bobs"
-  category: accessories
-- title: "Clothing"
-  text: "Handmade attire"
-  category: clothing
-- title: "Home"
-  text: "Embelishments for the abode"
-  category: home
-
-art:
-- title: "Botanical"
-  text: "Watercolour illustrations of flora and fungi"
-  category: botanical
-- title: "Animal"
-  text: "Fauna's little critters"
-  category: animal
-- title: "Architecture"
-  text: "Features, details and shapes"
-  category: architecture
+  category: handmade
 
 footer:
   social:
