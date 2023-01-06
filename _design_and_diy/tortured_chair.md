@@ -7,3 +7,4 @@ category: design
 ---
 
 ![rope tied chair](./assets/img/design_and_diy/design/tortured_chair2.jpg){: width="100%"}
+![rope tied chair](./assets/img/design_and_diy/design/tortured_chair3.jpg){: width="100%"}
