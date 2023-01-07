@@ -1,9 +1,9 @@
 ---
 title: Monstera
-image: design_and_diy/art/monstera/monstera1.jpg
-thumbnail: design_and_diy/art/monstera/monstera5.jpg
+image: design_and_diy/painting/monstera/monstera1.jpg
+thumbnail: design_and_diy/painting/monstera/monstera5.jpg
 alt: monstera
-category: art
+category: painting
 ---
 
 There is so much to love about a Monstera, also known as a Swiss cheese plant. Starting with its most obvious feature -  the striking fenestrated leaves. As the plant matures it develops larger leaves with more fenestration.

@@ -1,9 +1,9 @@
 ---
 title: Lipstick Plant
-image: design_and_diy/art/lipstick_plant/lipstick1.jpg
-thumbnail: design_and_diy/art/lipstick_plant/lipstick3.jpg
+image: design_and_diy/painting/lipstick_plant/lipstick1.jpg
+thumbnail: design_and_diy/painting/lipstick_plant/lipstick3.jpg
 alt: lipstick plant
-category: art
+category: painting
 ---
 
 I saw this plant in the garden centre and it was love at first sight. It looked so different from anything else around it and I just loved the red and purple lipstick-like flowers and the smooth shiny leaves.

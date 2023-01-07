@@ -1,9 +1,9 @@
 ---
 title: Oleander
-image: design_and_diy/art/oleander/oleander1.jpg
-thumbnail: design_and_diy/art/oleander/oleander5.jpg
+image: design_and_diy/painting/oleander/oleander1.jpg
+thumbnail: design_and_diy/painting/oleander/oleander5.jpg
 alt: oleander
-category: art
+category: painting
 ---
 
 I bought an Oleander plant recently as it reminds me of sunny holidays in the Mediterranean and I love looking at its pink flowers.
