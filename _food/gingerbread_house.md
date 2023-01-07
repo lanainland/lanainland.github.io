@@ -34,7 +34,7 @@ category: festive
 ## Instructions
 
 The final dimensions of the house are roughly 15 x 22 x 22 cm.
-You can download the template here.
+You can download the template **[here](./assets/docs/gingerbread_house.pdf)**.
 
 ### Dough
 
