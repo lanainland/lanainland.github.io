@@ -41,15 +41,15 @@ photography:
   category: patterns&details
 
 design_and_diy:
-- title: "Art"
-  text: "Watercolour illustrations"
-  category: art
 - title: "Design"
   text: "Interior embellishments"
   category: design
 - title: "Handmade"
   text: "Adorning bits and bobs"
   category: handmade
+- title: "Painting"
+  text: "Watercolour illustrations"
+  category: painting
 
 footer:
   social:
