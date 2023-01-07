@@ -8,6 +8,6 @@ category: painting
 
 Studies of shading and texture with fruit and mushrooms.
 
-![lime and mushrooms](./assets/img/design_and_diy/art/fruit_fungi/foods2.jpg){: width="100%"}
+![lime and mushrooms](./assets/img/design_and_diy/painting/fruit_fungi/foods2.jpg){: width="100%"}
 
 #### Tonal study of a lime | Button Mushroom in pen and watercolour | Common Fieldcap mushroom in marker and watercolour
