@@ -1,9 +1,9 @@
 ---
-title: Ensemble
-image: design_and_diy/handmade/ensemble1.jpg
-thumbnail: design_and_diy/handmade/ensemble2.jpg
-alt: ensemble
+title: Skirt and Top
+image: design_and_diy/handmade/skirt_and_top1.jpg
+thumbnail: design_and_diy/handmade/skirt_and_top2.jpg
+alt: skirt and top
 category: handmade
 ---
 
-![spaghetti strap top](./assets/img/design_and_diy/handmade/ensemble2.jpg){: width="100%"}
+![spaghetti strap top](./assets/img/design_and_diy/handmade/skirt_and_top2.jpg){: width="100%"}
