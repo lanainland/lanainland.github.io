@@ -1,7 +1,7 @@
 ---
 title: Shoulder Bag & Purse
 image: design_and_diy/handmade/shoulder_bag1.jpg
-thumbnail: design_and_diy/handmade/shoulder_bag2.jpg
+thumbnail: design_and_diy/handmade/shoulder_bag3.jpg
 alt: crochet shoulder bag and purse
 category: handmade
 ---
