@@ -6,4 +6,6 @@ alt: skyline stools
 category: design
 ---
 
+![plywood stools](./assets/img/design_and_diy/design/skyline_stools2.jpg){: width="100%"}
 ![plywood stools](./assets/img/design_and_diy/design/skyline_stools3.jpg){: width="100%"}
+![plywood stools](./assets/img/design_and_diy/design/skyline_stools4.jpg){: width="100%"}
