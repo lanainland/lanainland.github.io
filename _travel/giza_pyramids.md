@@ -6,25 +6,34 @@ alt: giza pyramids
 category: egypt
 ---
 
+It really feels epic to be standing on these grounds! These images of pyramids, depicted in history and ingrained in our imaginations since childhood, finally materialising right in front of me feels like a surreal moment.
+
+What’s amazing about monuments like these is how connected they make us feel to the people that were there in ancient times. Touching the very same pieces of stone carved and transported by human hands 5000 years ago is a really humbling experience.
+
 ![the sphynx and pyramids](./assets/img/travel/egypt/giza_pyramids/pyramids2.jpg){: width="100%"}
 
 ![the sphynx in profile](./assets/img/travel/egypt/giza_pyramids/pyramids3.jpg){: width="100%"}
 
-#### The Giza pyramid complex | The Sphynx - 73 meters 'from paw to tail'
+#### The Giza pyramid complex | The Sphinx - 73 meters 'from paw to tail'
 
-See if you can solve the riddle of the Sphynx:
+I'm sure the Sphinx was meant to look regal and powerful, but I just found it really cute. Almost as if it could come to life at any moment just to be stroked.
 
+The riddle of the Sphinx:
 'There are two sisters: one gives birth to the other and she, in turn, gives birth to the first. Who are they?'
 
 Scroll to the end to find the answer.
-
-The Great Pyramid is gigantic - each of the individual stone blocks is 1 - 1.5 meters in height.
 
 ![khufu and khafre pyramids](./assets/img/travel/egypt/giza_pyramids/pyramids4.jpg){: width="100%"}
 
 ![pyramid tip and stones](./assets/img/travel/egypt/giza_pyramids/pyramids5.jpg){: width="100%"}
 
-#### The Great Pyramid Khufu and the Pyramid of Khafre | The tip of Khafre pyramid still retains the limestone casing | Khufu pyramid stones
+#### The Great Pyramid Khufu and the Pyramid of Khafre | Khufu pyramid stones | The tip of Khafre pyramid still retains the limestone casing
+
+The only one of the original Seven Wonders still standing is the Great Pyramid of Giza. And what a sight! It is truly impressive. And a gigantic creature - each of the individual stone blocks is 1 - 1.5 meters in height.
+
+The most unique however is the Pyramid of Khafre, as it still retains the limestone casing at the very top.
+
+The smallest one of the three is the Menkaure pyramid. It may seem unimpressive in comparison, but it was coated in pink granite and it was apparently the most striking pyramid when it was built.
 
 ![pyramids](./assets/img/travel/egypt/giza_pyramids/pyramids6.jpg){: width="100%"}
 
@@ -44,4 +53,4 @@ To keep away from the hustle and bustle, the best is to stay in. The Marriott Ho
 
 ![pyramids day and night](./assets/img/travel/egypt/giza_pyramids/pyramids11.jpg){: width="100%"}
 
-#### Answer to the Sphynx's riddle: 'Day and Night'
+#### Answer to the Sphinx's riddle: 'Day and Night'
