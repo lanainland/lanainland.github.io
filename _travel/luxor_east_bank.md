@@ -26,6 +26,8 @@ The main hall has a total of 134 sandstone columns, each over 20 meters tall. Co
 ![columns and sky](./assets/img/travel/egypt/luxor_east_bank/luxor_east6.jpg){: width="100%"}
 ![columns and sky](./assets/img/travel/egypt/luxor_east_bank/luxor_east7.jpg){: width="100%"}
 
+#### Relief covered columns
+
 There are also some giant statues of Rameses III. This guy had style! His tomb and his temple have some of the best carvings and overall designs.
 
 ![columns and sky](./assets/img/travel/egypt/luxor_east_bank/luxor_east8.jpg){: width="100%"}
