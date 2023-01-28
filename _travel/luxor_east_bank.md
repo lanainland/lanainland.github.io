@@ -34,9 +34,11 @@ There are also some giant statues of Rameses III. This guy had style! His tomb a
 
 ## Luxor highlights
 
-Crossing the Nile on a local boat is definitely an adventure. Watching people going about their usual business without any pretense felt like a glimpse into their reality.
+Crossing the Nile on a local ferry is definitely an adventure. Watching people going about their usual business without any pretense felt like a glimpse into their reality.
 
 ![river boat, a mosque and river landscape](./assets/img/travel/egypt/luxor_east_bank/luxor_east9.jpg){: width="100%"}
+
+#### River boat crossing | Local Mosque | Nile river bank
 
 After a long day of sightseeing, the best reward is to sit in an atmospheric restaurant and relax with some amazing food. It is surprisingly hard to find good food without some intensive research, but this was hands down the best meal we had in Egypt!
 
