@@ -41,16 +41,22 @@ The smallest one of the three is the Menkaure pyramid. It may seem unimpressive 
 
 #### The pyramids of Khafre and Menkaure | Menkaure pyramid close-up
 
-To keep away from the hustle and bustle, the best is to stay in. The Marriott Hotel is a quiet oasis with picturesque views of the pyramids, ideal for a dinner outing. For breakfast, a tasty selection of egyptian treats laid out on the terrace of a local hotel overlooking the pyramids.
+To keep away from the hustle and bustle, the best is to stay in. The Marriott Hotel is a quiet oasis with picturesque views of the pyramids, ideal for a dinner outing.
 
 ![fountain, gardens and pyramids](./assets/img/travel/egypt/giza_pyramids/pyramids8.jpg){: width="100%"}
 
 ![restaurant interior](./assets/img/travel/egypt/giza_pyramids/pyramids9.jpg){: width="100%"}
 
+#### Marriott Mena House gardens and restaurant
+
+For breakfast, a tasty selection of egyptian treats laid out on the terrace of a local hotel overlooking the pyramids.
+
 ![breakfast and pyramids](./assets/img/travel/egypt/giza_pyramids/pyramids10.jpg){: width="100%"}
 
-#### Marriott Mena House gardens and restaurant | Egyptian breakfast at a nearby hotel with an amazing view of the pyramids
+#### Egyptian breakfast at a nearby hotel with an amazing view of the pyramids
+
+Answer to the Sphinx's riddle:
 
 ![pyramids day and night](./assets/img/travel/egypt/giza_pyramids/pyramids11.jpg){: width="100%"}
 
-#### Answer to the Sphinx's riddle: 'Day and Night'
+#### 'Day and Night'

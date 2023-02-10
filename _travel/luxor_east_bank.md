@@ -44,4 +44,4 @@ After a long day of sightseeing, the best reward is to sit in an atmospheric res
 
 ![mezze food and restaurant interior](./assets/img/travel/egypt/luxor_east_bank/luxor_east10.jpg){: width="100%"}
 
-#### Mezze platter and a selection of sweets |  'Sofra' Restaurant interior
+#### Mezze platter and a selection of sweets | 'Sofra' Restaurant interior
