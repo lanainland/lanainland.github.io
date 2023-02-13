@@ -31,18 +31,18 @@ Sanctuary of Amun - the chamber is cut directly into the mountain and is the hea
 
 Covered in carvings that tell real stories and giant columns depicting the man itself, this mortuary temple is a gem of Egyptian art and architecture.
 
-![ram headed sphinxes](./assets/img/travel/egypt/luxor_west_bank/rameses4.jpg){: width="100%"}
+![ram headed sphinxes](./assets/img/travel/egypt/luxor_west_bank/rameses1.jpg){: width="100%"}
 
 From a distance the temple merges with the landscape but as we approach, the amount of detail becomes apparent.
 
-![statues and square columns](./assets/img/travel/egypt/luxor_west_bank/rameses1.jpg){: width="100%"}
+![statues and square columns](./assets/img/travel/egypt/luxor_west_bank/rameses2.jpg){: width="100%"}
 
 The main interior courtyard has gigantic square columns of the Pharaoh himself and some of the best preserved carvings in original colours. Every part of this structure is covered in reliefs. If walls could speak...
 
-![ram headed sphinxes](./assets/img/travel/egypt/luxor_west_bank/rameses2.jpg){: width="100%"}
+![ram headed sphinxes](./assets/img/travel/egypt/luxor_west_bank/rameses3.jpg){: width="100%"}
 
 The last courtyard is filled with cut off columns - they are the remains of a grand hypostyle hall. A reminder of what once was and will never be...
 
-![ram headed sphinxes](./assets/img/travel/egypt/luxor_west_bank/rameses3.jpg){: width="100%"}
+![ram headed sphinxes](./assets/img/travel/egypt/luxor_west_bank/rameses4.jpg){: width="100%"}
 
  There is a magical, mystical feeling about being in this land of immortal pharaohs.
