@@ -6,12 +6,14 @@ alt: luxor east bank
 category: egypt
 ---
 
-## Huge Hypostyle Hall - Karnak Temple
+## Karnak Temple
 
 When visiting Luxor, one simply cannot miss this marvel of ancient Egypt!
 An avenue adorned with ram headed sphinxes greets the visitor approaching the temple. They feel almost alive!
 
 ![ram headed sphinxes](./assets/img/travel/egypt/luxor_east_bank/luxor_east2.jpg){: width="100%"}
+
+#### Ram headed sphinxes at Karnak Temple entrance
 
 As we walk further to the heart of the temple we find the pièce de résistance - a hypostyle hall that is no more. The massive columns that once held a ceiling still stand, towering over everything and everyone in their presence.
 
@@ -31,6 +33,8 @@ The main hall has a total of 134 sandstone columns, each over 20 meters tall. Co
 There are also some giant statues of Rameses III. This guy had style! His tomb and his temple have some of the best carvings and overall designs.
 
 ![columns and sky](./assets/img/travel/egypt/luxor_east_bank/luxor_east8.jpg){: width="100%"}
+
+#### Rameses III chapel at Karnak Temple Complex
 
 ## Luxor highlights
 
