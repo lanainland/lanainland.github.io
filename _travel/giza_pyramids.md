@@ -6,9 +6,9 @@ alt: giza pyramids
 category: egypt
 ---
 
-It really feels epic to be standing on these grounds! These images of pyramids, depicted in history and ingrained in our imaginations since childhood, finally materialising right in front of me feels like a surreal moment.
+It really feels epic to be standing on these grounds! Images of pyramids, depicted in history and ingrained in our imaginations since childhood, finally materialising right in front of me feels like a surreal moment.
 
-What’s amazing about monuments like these is how connected they make us feel to the people that were there in ancient times. Touching the very same pieces of stone carved and transported by human hands 5000 years ago is a really humbling experience.
+The amazing thing about monuments like these is how connected they make us feel to the people that were there in ancient times. Touching the very same pieces of stone carved and transported by human hands 5000 years ago is a really humbling experience.
 
 ![the sphynx and pyramids](./assets/img/travel/egypt/giza_pyramids/pyramids2.jpg){: width="100%"}
 
@@ -33,7 +33,7 @@ The only one of the original Seven Wonders still standing is the Great Pyramid o
 
 The most unique however is the Pyramid of Khafre, as it still retains the limestone casing at the very top.
 
-The smallest one of the three is the Menkaure pyramid. It may seem unimpressive in comparison, but it was coated in pink granite and it was apparently the most striking pyramid when it was built.
+The smallest one of the three is the Menkaure pyramid. It may seem unimpressive in comparison, but it was once a very striking sight, with the bottom 20 meters coated in pink granite and the rest in white limestone.
 
 ![pyramids](./assets/img/travel/egypt/giza_pyramids/pyramids6.jpg){: width="100%"}
 
@@ -41,7 +41,7 @@ The smallest one of the three is the Menkaure pyramid. It may seem unimpressive 
 
 #### The pyramids of Khafre and Menkaure | Menkaure pyramid close-up
 
-To keep away from the hustle and bustle, the best is to stay in. The Marriott Hotel is a quiet oasis with picturesque views of the pyramids, ideal for a dinner outing.
+To keep away from the hustle and bustle, it is best to stay in. The Marriott Hotel is a quiet oasis with picturesque views of the pyramids, ideal for a dinner outing.
 
 ![fountain, gardens and pyramids](./assets/img/travel/egypt/giza_pyramids/pyramids8.jpg){: width="100%"}
 
