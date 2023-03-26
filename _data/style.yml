@@ -9,10 +9,10 @@ nav-background: "#212529"
 submenu-background: "#F8F9FA"
 
 # Back-to-top and Close Button
-btt: "#EB998E"
-btt-hov: "#565656"
+btt: "#565656"
+btt-hov: "#EB998E"
 btt-act: "#FCC3B0"
-btt-size: "22px"
+btt-size: "17px"
 
 # Header
 header-image:
