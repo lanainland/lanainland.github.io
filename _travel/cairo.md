@@ -39,6 +39,8 @@ Perhaps some of the most beautiful moments in Cairo happen after nightfall. The 
 
 #### Sunset over Cairo | Muhammad Ali Mosque at night | Madrasa of Umm al-Sultan Sha'ban
 
+A more realistic version of Cairo during the daytime tells a different story. A non-stop flow of cars, bikes and people, all of whom are incredibly busy and in a hurry to get somewhere. It all somehow works in the end!
+
 ![busy roads and square](./assets/img/travel/egypt/cairo/cairo10.jpg){: width="100%"}
 
 #### Area around the Ramses Railway Station
