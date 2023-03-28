@@ -57,5 +57,4 @@ The last courtyard is filled with cut off columns - they are the remains of a gr
 
 #### Remains of the main hypostyle hall
 
-
  There is a magical, mystical feeling about being in this land of immortal pharaohs.
