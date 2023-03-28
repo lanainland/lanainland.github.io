@@ -6,6 +6,8 @@ alt: mosquito table
 category: design
 ---
 
+Based on the anatomy of insect legs, the 'Mosquito' half-table is designed for small places, hallways or narrow alcoves. It can also be found buzzing around or faffing about in graveyards.
+
 ![walnut two leg table](./assets/img/design_and_diy/design/mosquito_table2.jpg){: width="100%"}
 ![walnut two leg table](./assets/img/design_and_diy/design/mosquito_table3.jpg){: width="100%"}
 ![walnut two leg table](./assets/img/design_and_diy/design/mosquito_table4.jpg){: width="100%"}
