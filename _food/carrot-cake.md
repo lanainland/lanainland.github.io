@@ -12,7 +12,7 @@ category: sweets
 
 ### Coconut Frosting
 
-- 150 ml coconut cream (cold)
+- 150ml coconut cream (cold)
 - 1/8 cup icing sugar
 
 ### Cake

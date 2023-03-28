@@ -22,7 +22,7 @@ category: sweets
 - 3 tbsp butter
 - 3 tbsp brown sugar
 - 1/8 t salt
-- 250 ml coconut cream
+- 250ml coconut cream
 - 1 cup chopped pecans
 
 ## Instructions

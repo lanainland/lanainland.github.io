@@ -29,7 +29,7 @@ category: sweets
 - 3/4 tbsp baking powder
 - 1/8 tsp baking soda
 - 1/2 tsp salt
-- 50 g unsalted cubed butter
+- 50g unsalted cubed butter
 - 1/2 cup almond milk
 - 1 tsp vinegar
 - 1/8 cup coconut cream

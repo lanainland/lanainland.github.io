@@ -10,9 +10,9 @@ category: drinks
 
 ## Ingredients
 
-- 90 ml (3 parts) Prosecco
-- 60 ml (2 parts) Aperol
-- 30 ml (1 part) soda water
+- 90ml (3 parts) Prosecco
+- 60ml (2 parts) Aperol
+- 30ml (1 part) soda water
 - Ice cubes
 - Orange slice for garnish
 

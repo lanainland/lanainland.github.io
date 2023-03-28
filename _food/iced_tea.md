@@ -11,7 +11,7 @@ category: drinks
 ## Ingredients
 
 - 6 black tea bags
-- 1.7 L boiling water
+- 1.7L boiling water
 - 3 tbsp honey
 - 4 tbsp dark brown sugar
 - 4-5 cups ice cubes
