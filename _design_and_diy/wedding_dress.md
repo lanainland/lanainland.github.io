@@ -1,7 +1,7 @@
 ---
 title: Wedding Dress
 image: design_and_diy/handmade/wedding_dress1.jpg
-thumbnail: design_and_diy/handmade/wedding_dress.jpg
+thumbnail: design_and_diy/handmade/wedding_dress3.jpg
 alt: wedding dress
 category: handmade
 ---
