@@ -1,7 +1,7 @@
 ---
 title: Wrapover Skirt
 image: design_and_diy/handmade/wrapover_skirt1.jpg
-thumbnail: design_and_diy/handmade/wrapover_skirt.jpg
+thumbnail: design_and_diy/handmade/wrapover_skirt3.jpg
 alt: wrapover skirt
 category: handmade
 ---
