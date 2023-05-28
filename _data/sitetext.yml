@@ -41,12 +41,15 @@ photography:
   category: patterns&details
 
 design_and_diy:
-- title: "Design"
-  text: "Interior embellishments"
-  category: design
-- title: "Handmade"
-  text: "Adorning bits and bobs"
-  category: handmade
+- title: "Furniture"
+  text: "Furnishings for the abode"
+  category: furniture
+- title: "Crochet"
+  text: "Bits and bobs and bags"
+  category: crochet
+- title: "Sewing"
+  text: "Adorning attire"
+  category: sewing
 - title: "Painting"
   text: "Watercolour illustrations"
   category: painting

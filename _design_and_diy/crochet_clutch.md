@@ -1,9 +1,9 @@
 ---
 title: Crochet Clutch
-image: design_and_diy/handmade/crochet_clutch1.jpg
-thumbnail: design_and_diy/handmade/crochet_clutch3.jpg
+image: design_and_diy/crochet/crochet_clutch1.jpg
+thumbnail: design_and_diy/crochet/crochet_clutch3.jpg
 alt: crochet clutch
-category: handmade
+category: crochet
 ---
 
-![crochet clutch](./assets/img/design_and_diy/handmade/crochet_clutch2.jpg){: width="100%"}
+![crochet clutch](./assets/img/design_and_diy/crochet/crochet_clutch2.jpg){: width="100%"}

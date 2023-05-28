@@ -6,4 +6,6 @@ alt: skirt and button top
 category: handmade
 ---
 
-![skirt and button strap top](./assets/img/design_and_diy/handmade/skirt_and_buttontop2.jpg){: width="100%"}
+![button strap top open flat](./assets/img/design_and_diy/handmade/skirt_and_buttontop2.jpg){: width="100%"}
+
+![skirt and button strap top](./assets/img/design_and_diy/handmade/skirt_and_buttontop3.jpg){: width="100%"}
