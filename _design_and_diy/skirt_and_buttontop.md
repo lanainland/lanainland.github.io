@@ -1,5 +1,5 @@
 ---
-title: Skirt and Button Top
+title: Skirt & Button Top
 image: design_and_diy/sewing/skirt_and_buttontop1.jpg
 thumbnail: design_and_diy/sewing/skirt_and_buttontop.jpg
 alt: skirt and button top

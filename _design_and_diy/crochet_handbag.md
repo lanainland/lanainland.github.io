@@ -1,7 +1,7 @@
 ---
-title: Crochet Handbag
+title: Handbag
 image: design_and_diy/crochet/crochet_handbag1.jpg
-thumbnail: design_and_diy/crochet/crochet_handbag3.jpg
+thumbnail: design_and_diy/crochet/crochet_handbag.jpg
 alt: crochet handbag
 category: crochet
 ---

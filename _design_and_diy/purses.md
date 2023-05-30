@@ -1,7 +1,7 @@
 ---
 title: Purses
 image: design_and_diy/sewing/purses1.jpg
-thumbnail: design_and_diy/sewing/purses3.jpg
+thumbnail: design_and_diy/sewing/purses.jpg
 alt: purses
 category: sewing
 ---

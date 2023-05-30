@@ -1,7 +1,7 @@
 ---
-title: Crochet Clutch
+title: Clutch
 image: design_and_diy/crochet/crochet_clutch1.jpg
-thumbnail: design_and_diy/crochet/crochet_clutch3.jpg
+thumbnail: design_and_diy/crochet/crochet_clutch.jpg
 alt: crochet clutch
 category: crochet
 ---

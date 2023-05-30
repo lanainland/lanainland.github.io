@@ -1,7 +1,7 @@
 ---
 title: Japanese Handbags
 image: design_and_diy/sewing/japanese_handbag1.jpg
-thumbnail: design_and_diy/sewing/japanese_handbag4a.jpg
+thumbnail: design_and_diy/sewing/japanese_handbag.jpg
 alt: japanese handbags
 category: sewing
 ---

@@ -1,5 +1,5 @@
 ---
-title: Pencil skirt and top
+title: Pencil skirt & top
 image: design_and_diy/sewing/pencil_skirt_and_top1.jpg
 thumbnail: design_and_diy/sewing/pencil_skirt_and_top.jpg
 alt: pencil skirt and top
