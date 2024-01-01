@@ -1,5 +1,7 @@
 # Background - General background colour
 bg-colour: "#F9F9F9"
+bg-size-mobile: "30em"
+bg-size-desktop: "50em"
 
 # Main Menu
 menu-bg-colour: "#565656"
@@ -23,8 +25,8 @@ nav-weight: "500"
 # Home Page
 home-icon-size-mobile: "3rem"
 home-icon-size-desktop: "3rem"
-home-image-height-mobile: "300px"
-home-image-height-desktop: "300px"
+home-image-height-mobile: "14em"
+home-image-height-desktop: "14em"
 
 # All Pages/Posts
 ## Page/Post Header Background Colour - When there is no image

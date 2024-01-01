@@ -1,6 +1,8 @@
 ---
 ---
 $bg-color: {{ site.data.style.bg-colour }} !default;
+$bg-size-mobile: {{ site.data.style.bg-size-mobile }} !default;
+$bg-size-desktop: {{ site.data.style.bg-size-desktop }} !default;
 
 $menu-bg-colour: {{ site.data.style.menu-bg-colour }} !default;
 $menu-bg-opacity: {{ site.data.style.menu-bg-opacity }} !default;
