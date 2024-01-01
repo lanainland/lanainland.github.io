@@ -15,12 +15,12 @@
     {% if post.featured-img %}
       <figure class="post-card__thumb">
         <img
-          src="{{ site.url }}{{ site.baseurl }}{{site.img_path}}{{post.featured-img}}"
-          data-srcset="{{ site.url }}{{ site.baseurl }}{{site.img_path}}{{post.thumbnail}}, {{ site.url }}{{ site.baseurl }}{{site.img_path}}{{post.thumbnail}}"
+          src="{{ site.baseurl }}{{site.img_path}}{{post.featured-img}}"
+          data-srcset="{{ site.baseurl }}{{site.img_path}}{{post.thumbnail}}, {{ site.baseurl }}{{site.img_path}}{{post.thumbnail}}"
           class="lazyload blur"
           alt="{{post.title}}"
         />
-        <noscript><img src="{{ site.url }}{{ site.baseurl }}{{site.img_path}}{{post.thumbnail}}" alt="{{ post.title }}"></noscript>
+        <noscript><img src="{{ site.baseurl }}{{site.img_path}}{{post.thumbnail}}" alt="{{ post.title }}"></noscript>
       </figure>
     {% else %}
       <figure class="post-card__thumb">

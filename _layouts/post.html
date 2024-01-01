@@ -22,7 +22,7 @@ layout: compress
 {% include header.html %}
 
   {% if page.featured-img %}
-  <div class="hero lazyload" data-bg="{{ site.url }}{{ site.baseurl }}{{site.img_path}}{{ page.featured-img }}">
+  <div class="hero lazyload" data-bg="{{ site.baseurl }}{{site.img_path}}{{ page.featured-img }}">
   {% else %}
   <div class="hero dark-bg">
   {% endif %}

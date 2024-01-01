@@ -4,12 +4,12 @@
     {% for page in site.pages %}
       {% if page.layout == "home" %}
         <div class="mySlides fade">
-            <img src="{{ site.url }}{{ site.baseurl }}{{site.img_path}}{{ site.hero_img }}" style="width:100%">
+            <img src="{{ site.baseurl }}{{site.img_path}}{{ site.hero_img }}" style="width:100%">
         </div>
         {% assign dot_count = dot_count | plus:1 %}
       {% elsif page.layout == "section" %}
         <div class="mySlides fade">
-            <img src="{{ site.url }}{{ site.baseurl }}{{site.img_path}}{{ page.image }}" style="width:100%">
+            <img src="{{ site.baseurl }}{{site.img_path}}{{ page.image }}" style="width:100%">
         </div>
         {% assign dot_count = dot_count | plus:1 %}
       {% endif %}
