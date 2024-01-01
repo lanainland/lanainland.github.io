@@ -6,8 +6,6 @@
   text-align: center;
   border-radius: 4px;
   position: fixed;
-  bottom: 60px;
-  right: 80px;
   z-index: 1000;
   border: none;
   outline: none;
@@ -15,6 +13,12 @@
   cursor: pointer;
   padding: 15px;
   border-radius: 4px;
+  bottom: 55px;
+  right: 45px;
+  @include breakpoint($md) {
+    bottom: 35px;
+    right: 80px;
+  }
 }
 
 #myBtn:after {
