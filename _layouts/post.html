@@ -36,10 +36,10 @@ layout: compress
             {% assign categories = page.categories %}
             {% assign post_page = page.collection | remove: "_posts" %}
           {% endif %}
-          <a href="{{ site.baseurl }}{{ post_page }}" class="label"> {{ post_page }} </a>
+          <a href="{{ post_page | relative_url }}" class="label"> {{ post_page }} </a>
           &nbsp;
           {% for category in categories %}
-            <a href="{{ site.baseurl }}{{ post_page }}#{{category|slugize}}" class="label"> {{ category }} </a>
+            <a href="{{ post_page | relative_url }}#{{category|slugize}}" class="label"> {{ category }} </a>
             {% unless forloop.last %}&nbsp;{% endunless %}
           {% endfor %}
         </div>
