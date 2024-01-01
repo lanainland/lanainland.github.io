@@ -1,0 +1,122 @@
+---
+---
+$bg-color: {{ site.data.style.bg-colour }} !default;
+
+$menu-bg-colour: {{ site.data.style.menu-bg-colour }} !default;
+$menu-bg-opacity: {{ site.data.style.menu-bg-opacity }} !default;
+$site-title-colour: {{ site.data.style.site-title-colour }} !default;
+$site-title-hover-colour: {{ site.data.style.site-title-hover-colour }} !default;
+$site-title-family: {{ site.data.style.site-title-family }} !default;
+$site-title-size-mobile: {{ site.data.style.site-title-size-mobile }} !default;
+$site-title-size-desktop: {{ site.data.style.site-title-size-desktop }} !default;
+$site-title-style: {{ site.data.style.site-title-style }} !default;
+$site-title-weight: {{ site.data.style.site-title-weight }} !default;
+$nav-colour: {{ site.data.style.nav-colour }} !default;
+$nav-hover-colour: {{ site.data.style.nav-hover-colour }} !default;
+$nav-family: {{ site.data.style.nav-family }} !default;
+$nav-size: {{ site.data.style.nav-size }} !default;
+$nav-style: {{ site.data.style.nav-style }} !default;
+$nav-weight: {{ site.data.style.nav-weight }} !default;
+
+$home-icon-size-mobile: {{ site.data.style.home-icon-size-mobile }} !default;
+$home-icon-size-desktop: {{ site.data.style.home-icon-size-desktop }} !default;
+$home-image-height-mobile: {{ site.data.style.home-image-height-mobile }} !default;
+$home-image-height-desktop: {{ site.data.style.home-image-height-desktop }} !default;
+
+$page-bg-colour: {{ site.data.style.page-bg-colour }} !default;
+$page-title-colour: {{ site.data.style.page-title-colour }} !default;
+$page-title-family: {{ site.data.style.page-title-family }} !default;
+$page-title-size-mobile: {{ site.data.style.page-title-size-mobile }} !default;
+$page-title-size-desktop: {{ site.data.style.page-title-size-desktop }} !default;
+$page-title-style: {{ site.data.style.page-title-style }} !default;
+$page-title-weight: {{ site.data.style.page-title-weight }} !default;
+$page-tagline-colour: {{ site.data.style.page-tagline-colour }} !default;
+$page-tagline-family: {{ site.data.style.page-tagline-family }} !default;
+$page-tagline-size-mobile: {{ site.data.style.page-tagline-size-mobile }} !default;
+$page-tagline-size-desktop: {{ site.data.style.page-tagline-size-desktop }} !default;
+$page-tagline-style: {{ site.data.style.page-tagline-style }} !default;
+$page-tagline-weight: {{ site.data.style.page-tagline-weight }} !default;
+
+$post-cat-btt-colour: {{ site.data.style.post-cat-btt-colour }} !default;
+$post-cat-btt-family: {{ site.data.style.post-cat-btt-family }} !default;
+$post-cat-btt-size: {{ site.data.style.post-cat-btt-size }} !default;
+$post-cat-btt-style: {{ site.data.style.post-cat-btt-style }} !default;
+$post-cat-btt-weight: {{ site.data.style.post-cat-btt-weight }} !default;
+$post-cat-btt-line-thickness: {{ site.data.style.post-cat-btt-line-thickness }} !default;
+
+$cat-menu-family: {{ site.data.style.cat-menu-family }} !default;
+$cat-menu-size-mobile: {{ site.data.style.cat-menu-size-mobile }} !default;
+$cat-menu-size-desktop: {{ site.data.style.cat-menu-size-desktop }} !default;
+$cat-menu-style: {{ site.data.style.cat-menu-style }} !default;
+$cat-menu-weight: {{ site.data.style.cat-menu-weight }} !default;
+$cat-head-colour: {{ site.data.style.cat-head-colour }} !default;
+$cat-head-family: {{ site.data.style.cat-head-family }} !default;
+$cat-head-size-mobile: {{ site.data.style.cat-head-size-mobile }} !default;
+$cat-head-size-desktop: {{ site.data.style.cat-head-size-desktop }} !default;
+$cat-head-style: {{ site.data.style.cat-head-style }} !default;
+$cat-head-weight: {{ site.data.style.cat-head-weight }} !default;
+$cat-subhead-colour: {{ site.data.style.cat-subhead-colour }} !default;
+$cat-subhead-family: {{ site.data.style.cat-subhead-family }} !default;
+$cat-subhead-size-mobile: {{ site.data.style.cat-subhead-size-mobile }} !default;
+$cat-subhead-size-desktop: {{ site.data.style.cat-subhead-size-desktop }} !default;
+$cat-subhead-style: {{ site.data.style.cat-subhead-style }} !default;
+$cat-subhead-weight: {{ site.data.style.cat-subhead-weight }} !default;
+$post-title-colour: {{ site.data.style.post-title-colour }} !default;
+$post-title-family: {{ site.data.style.post-title-family }} !default;
+$post-title-size-mobile: {{ site.data.style.post-title-size-mobile }} !default;
+$post-title-size-desktop: {{ site.data.style.post-title-size-desktop }} !default;
+$post-title-style: {{ site.data.style.post-title-style }} !default;
+$post-title-weight: {{ site.data.style.post-title-weight }} !default;
+$post-title-line-colour: {{ site.data.style.post-title-line-colour }} !default;
+$post-title-line-thickness: {{ site.data.style.post-title-line-thickness }} !default;
+$next-post-family: {{ site.data.style.next-post-family }} !default;
+$next-post-size-mobile: {{ site.data.style.next-post-size-mobile }} !default;
+$next-post-size-desktop: {{ site.data.style.next-post-size-desktop }} !default;
+$next-post-style: {{ site.data.style.next-post-style }} !default;
+$next-post-weight: {{ site.data.style.next-post-weight }} !default;
+
+$text-highlight: {{ site.data.style.text-highlight }} !default;
+$link-colour: {{ site.data.style.link-colour }} !default;
+$link-hover-dim: {{ site.data.style.link-hover-dim }} !default;
+$body-colour: {{ site.data.style.body-colour }} !default;
+$body-font-family: {{ site.data.style.body-font-family }} !default;
+$body-font-size-mobile: {{ site.data.style.body-font-size-mobile }} !default;
+$body-font-size-desktop: {{ site.data.style.body-font-size-desktop }} !default;
+$body-font-style: {{ site.data.style.body-font-style }} !default;
+$body-font-weight: {{ site.data.style.body-font-weight }} !default;
+$h2-colour: {{ site.data.style.h2-colour }} !default;
+$h2-font-family: {{ site.data.style.h2-font-family }} !default;
+$h2-font-size-mobile: {{ site.data.style.h2-font-size-mobile }} !default;
+$h2-font-size-desktop: {{ site.data.style.h2-font-size-desktop }} !default;
+$h2-font-style: {{ site.data.style.h2-font-style }} !default;
+$h2-font-weight: {{ site.data.style.h2-font-weight }} !default;
+$h3-colour: {{ site.data.style.h3-colour }} !default;
+$h3-font-family: {{ site.data.style.h3-font-family }} !default;
+$h3-font-size-mobile: {{ site.data.style.h3-font-size-mobile }} !default;
+$h3-font-size-desktop: {{ site.data.style.h3-font-size-desktop }} !default;
+$h3-font-style: {{ site.data.style.h3-font-style }} !default;
+$h3-font-weight: {{ site.data.style.h3-font-weight }} !default;
+$h4-colour: {{ site.data.style.h4-colour }} !default;
+$h4-font-family: {{ site.data.style.h4-font-family }} !default;
+$h4-font-size-mobile: {{ site.data.style.h4-font-size-mobile }} !default;
+$h4-font-size-desktop: {{ site.data.style.h4-font-size-desktop }} !default;
+$h4-font-style: {{ site.data.style.h4-font-style }} !default;
+$h4-font-weight: {{ site.data.style.h4-font-weight }} !default;
+
+$foot-colour: {{ site.data.style.foot-colour }} !default;
+$foot-font-family: {{ site.data.style.foot-font-family }} !default;
+$foot-font-size-mobile: {{ site.data.style.foot-font-size-mobile }} !default;
+$foot-font-size-desktop: {{ site.data.style.foot-font-size-desktop }} !default;
+$foot-font-style: {{ site.data.style.foot-font-style }} !default;
+$foot-font-weight: {{ site.data.style.foot-font-weight }} !default;
+$foot-line-colour: {{ site.data.style.foot-line-colour }} !default;
+$foot-line-thickness: {{ site.data.style.foot-line-thickness }} !default;
+$foot-icon-size-mobile: {{ site.data.style.foot-icon-size-mobile }} !default;
+$foot-icon-size-desktop: {{ site.data.style.foot-icon-size-desktop }} !default;
+
+$btt-colour: {{ site.data.style.btt-colour }} !default;
+$btt-hov-colour: {{ site.data.style.btt-hov-colour }} !default;
+$btt-act: {{ site.data.style.btt-act }} !default;
+$btt-size: {{ site.data.style.btt-size }} !default;
+
+@import "jekyll-sleek";

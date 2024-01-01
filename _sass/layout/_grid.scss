@@ -1,0 +1,24 @@
+.container {
+  padding: 0 20px;
+  @include container(0);
+
+  @include breakpoint($sm) {
+    // @include container(540px);
+    @include container(90%);
+  }
+
+  @include breakpoint($md) {
+    // @include container(720px);
+    @include container(80%);
+  }
+
+  @include breakpoint($lg) {
+    // @include container(960px);
+    @include container(80%);
+  }
+
+  @include breakpoint($xl) {
+    // @include container(1170px);
+    @include container(80%);
+  }
+}

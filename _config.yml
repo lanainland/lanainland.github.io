@@ -1,22 +1,74 @@
-url    : "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
+# SITE CONFIGURATION
+title: Lana In Land
+author: lanainland
+description: >
+  Lana's personal website
+url: "https://www.lanainland.com/" # the base hostname & protocol for your site, e.g. http://example.com
+img_path: /assets/img/
 
-title      : Lana In Land
-email      : lana.farrens@gmail.com #this is also the email contact forms will go to
-author     : Lana Farrens
-# logo:     #optional, defaults to site title
-  # path: assets\img\clients\creative-market.jpg
-  # height: 60 #height in px, defaults to 52px
+# Menu Items
+navigation: # Navigation links
+  - {name: 'Food', link: '/food'}
+  - {name: 'Travel', link: '/travel'}
+  - {name: 'Photography', link: '/photography'}
+  - {name: 'Design & DIY', link: '/design_and_diy'}
+  - {name: 'Art', link: '/art'}
 
-analytics:
-  google: #Google Analytics tracking code here
-
-image_path: ./assets/img
-
+# Post Sections
 collections:
-  food:
-  travel:
-  photography:
-  design_and_diy:
+  food_posts:
+    output: true
+    permalink: /food/:name
+  travel_posts:
+    output: true
+    permalink: /travel/:name
+  photography_posts:
+    output: true
+    permalink: /photography/:name
+  design_and_diy_posts:
+    output: true
+    permalink: /design_and_diy/:name
+  art_posts:
+    output: true
+    permalink: /art/:name
 
+# Home Page
+hero_img: home.jpg # Main background image: use the path from /assets/img/
+tagline: >
+  Welcome!
+social: # Also used in footer
+  - url: https://www.instagram.com/lanainland/
+    icon: "fab fa-instagram"
+  - url: https://www.pinterest.cl/lanainland
+    icon: "fab fa-pinterest"
+random_post_title: "Random Posts"
+
+###### Don't touch #####
+
+service_worker: true
+
+# BUILD SETTINGS
 markdown: kramdown
+highlighter: rouge # or pygments or null
+# exclude:
+#   - README.md
+#   - node_modules
+#   - script
+#   - package.json
+#   - package-lock.json
+#   - Gemfile
+#   - Gemfile.lock
+#   - vendor
+#   - npm-debug.log
+#   - gulpfile.js
+#   - sleek.jpg
+
+# include: ['_pages']
+permalink: /:title/
+
+compress_html:
+  clippings: all
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag

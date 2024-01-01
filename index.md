@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Lana In Land
 ---
 
 ![lana](./assets/img/lana.jpg)

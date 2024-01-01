@@ -1,0 +1,48 @@
+---
+layout: default
+---
+
+<div class="hero lazyload" data-bg="{{ site.url }}{{ site.baseurl }}{{site.img_path}}{{ page.image }}">
+  <div class="hero__wrap">
+    <h1 class="hero__title">{{ page.title | escape }}</h1>
+    <p class="hero__meta">{{ page.tagline }}</p>
+  </div>
+</div>
+
+<main class="site__content">
+
+  {% include categories-menu.html %}
+
+  <section class="blog">
+
+  {% for category in page.categories %}
+
+  <div class="container" id="{{ category }}">
+    <div class="row row-pad">
+      <div class="col-lg-12 text-center">
+        <span class="section-heading">{{ category | markdownify }}</span>
+
+        {% if page[category] %}
+
+        <span class="section-subheading">{{ page[category] | markdownify }}</span>
+
+        {% endif %}
+
+      </div>
+    </div>
+    <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
+
+      {% for post in site[page.post_dir] %}
+        {% if post.categories contains category %}
+          {% include card.html %}
+        {% endif %}
+      {% endfor %}
+
+    </div>
+  </div>
+
+  {% endfor %}
+
+  </section>
+</main>
+

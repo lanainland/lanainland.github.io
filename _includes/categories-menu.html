@@ -1,0 +1,11 @@
+<section class="bg-light" style="padding-top: 0px; padding-bottom: 0px;">
+  <div class="container submenu-container">
+    <ul class="submenu-ul ml-auto">
+      {% for category in page.categories %}
+        <li class="submenu-li">
+          <a class="submenu-a js-scroll-trigger" href="#{{ category }}">{{ category }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>

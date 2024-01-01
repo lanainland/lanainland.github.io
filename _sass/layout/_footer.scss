@@ -1,46 +1,41 @@
-// Styling for the footer
-.footer {
-  padding: 5px 0;
-  line-height: 40px;
-  font-size: 90%;
-  text-align: center;
-  background-color: $footer-background;
-  span.copyright {
-    color: $footer-text;
-    text-transform: none;
-    @include body-font;
-  }
-  ul.quicklinks {
-    margin-bottom: 0;
-    text-transform: none;
-    @include body-font;
-  }
-  @media(min-width:767px) {
-    padding: 25px 0;
-  }
-}
-
-ul.social-buttons {
-  margin-bottom: 0;
-  li {
-    a {
-      font-size: 20px;
-      line-height: 50px;
-      display: block;
-      width: 50px;
-      height: 50px;
-      -webkit-transition: all 0.3s;
-      -moz-transition: all 0.3s;
-      transition: all 0.3s;
-      color: white;
-      border-radius: 100%;
-      outline: none;
-      background-color: $footer-background;
-      &:active,
-      &:focus,
-      &:hover {
-        background-color: $highlight;
-      }
+footer {
+  @include foot-font;
+  border-top: $foot-line-thickness solid $foot-line-colour;
+  padding: 2rem;
+  margin-top: 3rem;
+  a {
+    color: $foot-colour;
+    border-bottom: 0;
+    &:hover,
+    &:focus {
+      color: darken($link-colour, $link-hover-dim);
+      border-bottom: 0;
     }
   }
 }
+
+.footer-flex {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+}
+
+.footer-flex-child {
+  flex: 1;
+  max-width: 30%;
+}
+
+.social__link:not(:last-child) {
+  margin-right: 1.5rem;
+}
+
+.social__icon {
+  @include foot-icon;
+}
+
+
+
+
+
+

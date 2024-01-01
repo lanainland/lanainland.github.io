@@ -1,67 +1,145 @@
-# Navigation
-site-title: "#FFF"
-site-title-hov: "#EB998E"
-nav: "#FFF"
-nav-hov: "#EB998E"
-nav-background: "#212529"
+# Background - General background colour
+bg-colour: "#F9F9F9"
 
-# Submenu
-submenu-background: "#F8F9FA"
+# Main Menu
+menu-bg-colour: "#565656"
+menu-bg-opacity: "50%"
+## Site Title - Top left
+site-title-colour: "#FFF"
+site-title-hover-colour: "#EB998E"
+site-title-family: "Didot"
+site-title-size-mobile: "1.8em"
+site-title-size-desktop: "2em"
+site-title-style: "normal"
+site-title-weight: "300"
+## Navigation Links - Top right
+nav-colour:  "#FFF"
+nav-hover-colour: "#EB998E"
+nav-family: "'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'"
+nav-size: "1em"
+nav-style: "normal"
+nav-weight: "500"
 
-# Back-to-top and Close Button
-btt: "#565656"
-btt-hov: "#EB998E"
-btt-act: "#FCC3B0"
-btt-size: "17px"
+# Home Page
+home-icon-size-mobile: "3rem"
+home-icon-size-desktop: "3rem"
+home-image-height-mobile: "300px"
+home-image-height-desktop: "300px"
 
-# Header
-header-image:
-  index: "../img/home.jpg"
-  food: "../img/food/savouries/fig_salad.jpg"
-  travel: "../img/travel/travel.jpg"
-  photography: "../img/photography/photography.jpg"
-  design_and_diy: "../img/design_and_diy/design.jpg"
-heading: "#FFF"
+# All Pages/Posts
+## Page/Post Header Background Colour - When there is no image
+page-bg-colour: "#313237"
+## Page/Post Title - On image or background colour
+page-title-colour: "#FFF"
+page-title-family: "Didot"
+page-title-size-mobile: "1.8em"
+page-title-size-desktop: "4.625em"
+page-title-style: "normal"
+page-title-weight: "600"
+## Page/Post Tagline - Below title
+page-tagline-colour: "#FFF"
+page-tagline-family: "Didot"
+page-tagline-size-mobile: "1.5em"
+page-tagline-size-desktop: "2em"
+page-tagline-style: "normal"
+page-tagline-weight: "400"
 
-# Footer
-footer-text: "#FFF"
-footer-background: "#212529"
+# Posts - Post pages and thumbnails
+## Category buttons
+post-cat-btt-colour: "#FFF"
+post-cat-btt-family: "'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'"
+post-cat-btt-size: "0.75rem"
+post-cat-btt-style: "normal"
+post-cat-btt-weight: "400"
+post-cat-btt-line-thickness: "1px"
 
-# Post
-section: "#212529"
-post-title: "#212529"
-line-colour: "#BEBEBE"
+# Category Pages - Pages with posts
+## Category Menu - Uses standard link colour (see below)
+cat-menu-family: "'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'"
+cat-menu-size-mobile: "1em"
+cat-menu-size-desktop: "1.2em"
+cat-menu-style: "normal"
+cat-menu-weight: "400"
+## Category Heading - Name of category set in page Categories (also random posts title on home page)
+cat-head-colour: "#212529"
+cat-head-family: "Didot"
+cat-head-size-mobile: "2.5em"
+cat-head-size-desktop: "3em"
+cat-head-style: "normal"
+cat-head-weight: "400"
+## Category Subheading - Category tagline set in page for each category
+cat-subhead-colour: "#878F94"
+cat-subhead-family: "'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'"
+cat-subhead-size-mobile: "1.2em"
+cat-subhead-size-desktop: "1.2em"
+cat-subhead-style: "normal"
+cat-subhead-weight: "400"
+## Post Title
+post-title-colour: "#212529"
+post-title-family: "Didot"
+post-title-size-mobile: "1.5em"
+post-title-size-desktop: "1.5em"
+post-title-style: "normal"
+post-title-weight: "400"
+post-title-line-colour: "#BEBEBE"
+post-title-line-thickness: "0.1px"
+## Next/Previous Post Controls
+next-post-family: "'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'"
+next-post-size-mobile: "1em"
+next-post-size-desktop: "1em"
+next-post-style: "normal"
+next-post-weight: "bold"
 
-# General
-## Body
-body-colour: "#565656"
-body-font-family: "'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'"
-body-font-size-mobile: "13px"
-body-font-size-desktop: "14px"
-body-font-style: "normal"
-body-font-weight: "100"
-## Header 2
-h2-colour: "#565656"
-h2-font-family: "'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'"
-h2-font-size-mobile: "1em"
-h2-font-size-desktop: "1em"
-h2-font-style: "normal"
-h2-font-weight: "700"
-## Header 3
-h3-colour: "#565656"
-h3-font-family: "'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'"
-h3-font-size-mobile: "0.8em"
-h3-font-size-desktop: "0.8em"
-h3-font-style: "normal"
-h3-font-weight: "700"
-## Header 4 - Image captions
-h4-colour: "#565656"
-h4-font-family: "Didot"
-h4-font-size-mobile: "14px"
-h4-font-size-desktop: "15px"
-h4-font-style: "italic"
-h4-font-weight: "100"
+# General Text Style (on all pages/posts)
+## Text Highlight - Colour when you select text
+text-highlight: "#EB998E"
 ## Links
 link-colour: "#EB998E"
-h-colour: "#535353"
-highlight: "#EB998E"
+link-hover-dim: "10%" 
+## Body (no #) - General text 
+body-colour: "#565656"
+body-font-family: "'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'"
+body-font-size-mobile: "1em"
+body-font-size-desktop: "1.2em"
+body-font-style: "normal"
+body-font-weight: "200"
+## Header 2 (2 x #) - Centred headings
+h2-colour: "#565656"
+h2-font-family: "'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'"
+h2-font-size-mobile: "1.2em"
+h2-font-size-desktop: "1.2em"
+h2-font-style: "normal"
+h2-font-weight: "700"
+## Header 3 (3 x #) - Left aligned subheadings
+h3-colour: "#565656"
+h3-font-family: "'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'"
+h3-font-size-mobile: "1em"
+h3-font-size-desktop: "1em"
+h3-font-style: "normal"
+h3-font-weight: "700"
+## Header 4 (4 x #) - Image captions
+h4-colour: "#565656"
+h4-font-family: "Didot"
+h4-font-size-mobile: "1em"
+h4-font-size-desktop: "1em"
+h4-font-style: "italic"
+h4-font-weight: "400"
+
+# Footer
+foot-colour: "#565656"
+foot-font-family: "'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'"
+foot-font-size-mobile: "0.9rem"
+foot-font-size-desktop: "0.9rem"
+foot-font-style: "normal"
+foot-font-weight: "100"
+foot-line-colour: "#BEBEBE"
+foot-line-thickness: "0.1px"
+foot-icon-size-mobile: "1.1rem"
+foot-icon-size-desktop: "1.1rem"
+
+# Back-to-top Button
+btt-colour: "#565656"
+btt-hov-colour: "#EB998E"
+btt-act: "#FCC3B0"
+btt-size: "20px"
+

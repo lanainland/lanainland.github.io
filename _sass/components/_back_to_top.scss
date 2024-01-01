@@ -1,42 +1,30 @@
-#btt-button {
+#myBtn {
   display: inline-block;
-  color: $btt;
-  width: 40px;
-  height: 40px;
+  position: fixed;
+  width: 50px;
+  height: 50px;
   text-align: center;
   border-radius: 4px;
   position: fixed;
-  bottom: 30px;
-  right: 30px;
-  transition: background-color .3s,
-    opacity .5s, visibility .5s;
-  opacity: 0;
-  visibility: hidden;
+  bottom: 60px;
+  right: 80px;
   z-index: 1000;
+  border: none;
+  outline: none;
+  color: $btt-colour;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 4px;
 }
-#btt-button::after {
+
+#myBtn:after {
   content: "\f077";
   font-family: FontAwesome;
   font-weight: normal;
-  font-style: normal;
   font-size: $btt-size;
-  line-height: 40px;
-  background-color: #11ffee00;
-}
-#btt-button:hover {
-  cursor: pointer;
-  color: $btt-hov;
-}
-#btt-button:active {
-  color: $btt-act;
-}
-#btt-button.show {
-  opacity: 1;
-  visibility: visible;
+  line-height: 50px;
 }
 
-@media (min-width: 767px) {
-  #btt-button {
-    margin: 30px;
-  }
+#myBtn:hover {
+  color: $btt-hov-colour;
 }
