@@ -7,16 +7,15 @@
     padding-right: 20px;
     margin-bottom: 3px;
     .submenu-a {
-      letter-spacing: 1px;
+      letter-spacing: 2px;
     }
   }
 }
 
 .submenu-container {
-  background-color: $submenu-background;
   padding-top: 17px;
-  font-size: 15px;
-  @media(min-width:767px) {
-    font-size: 16px;
-  }
+  padding-bottom: 50px;
+  font-size: 22px;
+  text-transform: uppercase;
+  @include cat-menu-font;
 }

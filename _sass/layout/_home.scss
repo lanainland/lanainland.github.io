@@ -1,42 +1,38 @@
 .home-content-container {
-  width: 100%;
-  min-height: 100px;
-  img {
-    float: left;
-    height: 250px;
-    margin-right: 20px;
-  }
+    width: 100%;
+    min-height: 100px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    img {
+        float: left;
+        margin-right: 20px;
+        @include home-image;
+    }
 }
 
 .home-button-container {
-  width: 100%;
-  margin-top: 50px;
-  margin-bottom: 50px;
-  text-align: center;
-  color: indianred;
-  &:hover {
-    color: $link-colour;
-  }
-  a {
-    font-size: 3rem;
-  }
-  a:hover {
-    text-decoration: none;
-  }
-  ul {
-    overflow: hidden;
+    width: 100%;
+    margin-top: 50px;
+    margin-bottom: 50px;
     text-align: center;
-    padding-left: 2rem;
-  }
-  li {
-    display: inline-block;
-    padding-right: 2rem;
-  }
-  @media(min-width:767px) {
-    margin-top: 20px;
-    margin-bottom: 30px;
+    color: $link-colour;
     a {
-      font-size: 4rem;
+      @include home-icon;
+      &:hover,
+      &:focus {
+        color: darken($link-colour, $link-hover-dim);
+        text-decoration: none;
+        border-bottom: none;
+      }
     }
-  }
+    ul {
+      overflow: hidden;
+      text-align: center;
+      padding-left: 2rem;
+    }
+    li {
+      display: inline-block;
+      padding-right: 2rem;
+    }
 }
+  
