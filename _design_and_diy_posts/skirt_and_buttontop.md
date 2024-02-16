@@ -9,4 +9,4 @@ category: sewing
 
 ![button strap top open flat]({{ site.baseurl }}{{site.img_path}}design_and_diy/sewing/skirt_and_buttontop2.jpg){: width="100%"}
 
-![skirt and button strap top]({{ site.baseurl }}{{site.img_path}}design_and_diy/sewing/skirt_and_buttontop3.jpg){: width="100%"}
+![skirt and button strap top details]({{ site.baseurl }}{{site.img_path}}design_and_diy/sewing/skirt_and_buttontop3.jpg){: width="100%"}

@@ -7,4 +7,4 @@ alt: shirt dress
 category: sewing
 ---
 
-![shirt dress]({{ site.baseurl }}{{site.img_path}}design_and_diy/sewing/shirt_dress2.jpg){: width="100%"}
+![shirt dress details]({{ site.baseurl }}{{site.img_path}}design_and_diy/sewing/shirt_dress2.jpg){: width="100%"}

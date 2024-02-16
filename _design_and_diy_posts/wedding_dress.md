@@ -7,4 +7,4 @@ alt: wedding dress
 category: sewing
 ---
 
-![wedding dress]({{ site.baseurl }}{{site.img_path}}design_and_diy/sewing/wedding_dress2.jpg){: width="100%"}
+![wedding dress details]({{ site.baseurl }}{{site.img_path}}design_and_diy/sewing/wedding_dress2.jpg){: width="100%"}
