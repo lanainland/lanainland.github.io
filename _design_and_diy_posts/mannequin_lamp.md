@@ -16,4 +16,5 @@ I found this translucent mannequin body just lying on the street outside of a bo
 I used an old floor lamp base and cut a wood insert to attach the bulb and connect it to the 'body'. With some cleaning and drilling it was ready to 'glow'!
 
 ![mannequin lamp]({{ site.baseurl }}{{site.img_path}}design_and_diy/furniture/mannequin_lamp3.jpg){: width="100%"}
+
 ![mannequin lamp]({{ site.baseurl }}{{site.img_path}}design_and_diy/furniture/mannequin_lamp4.jpg){: width="100%"}
