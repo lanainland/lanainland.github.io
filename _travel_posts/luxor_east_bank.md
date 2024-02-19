@@ -18,7 +18,9 @@ An avenue adorned with ram headed sphinxes greets the visitor approaching the te
 As we walk further to the heart of the temple we find the pièce de résistance - a hypostyle hall that is no more. The massive columns that once held a ceiling still stand, towering over everything and everyone in their presence.
 
 ![carved columns]({{ site.baseurl }}{{site.img_path}}travel/egypt/luxor_east_bank/luxor_east3.jpg){: width="100%"}
+
 ![columns and sky]({{ site.baseurl }}{{site.img_path}}travel/egypt/luxor_east_bank/luxor_east4.jpg){: width="100%"}
+
 ![carved columns]({{ site.baseurl }}{{site.img_path}}travel/egypt/luxor_east_bank/luxor_east5.jpg){: width="100%"}
 
 #### The Great Hypostyle hall lined with columns
@@ -26,6 +28,7 @@ As we walk further to the heart of the temple we find the pièce de résistance 
 The main hall has a total of 134 sandstone columns, each over 20 meters tall. Columns are completely covered with carvings and some of the original paint is still visible.
 
 ![columns and sky]({{ site.baseurl }}{{site.img_path}}travel/egypt/luxor_east_bank/luxor_east6.jpg){: width="100%"}
+
 ![columns and sky]({{ site.baseurl }}{{site.img_path}}travel/egypt/luxor_east_bank/luxor_east7.jpg){: width="100%"}
 
 #### Relief covered columns

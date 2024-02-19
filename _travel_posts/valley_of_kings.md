@@ -46,6 +46,7 @@ In white hat and clothes sits Osiris - god of the underworld, depicted with gree
 One of the longest tombs in the valley, there are colourful murals at each and every corner.
 
 ![egyptian reliefs]({{ site.baseurl }}{{site.img_path}}travel/egypt/valley_kings/valley_kings6.jpg){: width="100%"}
+
 ![egyptian reliefs]({{ site.baseurl }}{{site.img_path}}travel/egypt/valley_kings/valley_kings7.jpg){: width="100%"}
 
 #### Burial chamber mural | Tomb entry hall and ceiling | Rameses III greeting the sun god Ra | Ankh symbol | Jackal representing Anubis

@@ -11,6 +11,7 @@ categories: Egypt
 Sand, dust and rock...in the midst of a barren and monotone landscape emerges this majestic structure built for Egypt's legendary Pharaoh queen Hatshepsut.
 
 ![stone temple with columns]({{ site.baseurl }}{{site.img_path}}travel/egypt/luxor_west_bank/hatshepsut2.jpg){: width="100%"}
+
 ![stone temple with columns]({{ site.baseurl }}{{site.img_path}}travel/egypt/luxor_west_bank/hatshepsut3.jpg){: width="100%"}
 
 #### Hatshepsut Temple built into the mountain
