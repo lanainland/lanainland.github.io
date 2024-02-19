@@ -4,7 +4,7 @@ title: Daffodil
 featured-img: design_and_diy/painting/daffodil/daffodil1.jpg
 thumbnail: design_and_diy/painting/daffodil/daffodil5.jpg
 alt: daffodil
-category: painting
+category: botanical
 ---
 
 This daffodil caught my eye due to its interesting shape and I was curious to see what the interior looked like.

@@ -1,9 +1,9 @@
 ---
 layout: section
 title: Art
-tagline: Watercolour Paintings
-image: photography/photography.jpg
-categories: [organic]
+tagline: Watercolour Illustrations
+image: art/art.jpg
+categories: [botanical]
 post_dir: art_posts
-organic: Flora and Fauna
+botanical: Flora and fungi
 ---

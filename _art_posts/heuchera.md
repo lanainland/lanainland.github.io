@@ -4,7 +4,7 @@ title: Heuchera
 featured-img: design_and_diy/painting/heuchera/heuchera1.jpg
 thumbnail: design_and_diy/painting/heuchera/heuchera3.jpg
 alt: heuchera
-category: painting
+category: botanical
 ---
 
 Heucheras are also known as Coral Bells and have small bell-shaped flowers that cluster on thin, long stems.

@@ -4,7 +4,7 @@ title: Fruit & Fungi
 featured-img: design_and_diy/painting/fruit_fungi/foods1.jpg
 thumbnail: design_and_diy/painting/fruit_fungi/foods3.jpg
 alt: fruit and fungi
-category: painting
+category: botanical
 ---
 
 Studies of shading and texture with fruit and mushrooms.

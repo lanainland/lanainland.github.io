@@ -4,7 +4,7 @@ title: Oleander
 featured-img: design_and_diy/painting/oleander/oleander1.jpg
 thumbnail: design_and_diy/painting/oleander/oleander5.jpg
 alt: oleander
-category: painting
+category: botanical
 ---
 
 I bought an Oleander plant recently as it reminds me of sunny holidays in the Mediterranean and I love looking at its pink flowers.
