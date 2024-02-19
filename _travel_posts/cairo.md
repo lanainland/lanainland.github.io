@@ -15,6 +15,7 @@ The most interesting place to visit in Cairo is by far the Cairo Museum. It hous
 The building itself has a particular charm and evokes an era of archeological discoveries, with European style architecture and antique furniture.
 
 ![museum interior arches and dome]({{ site.baseurl }}{{site.img_path}}travel/egypt/cairo/cairo3.jpg){: width="100%"}
+
 ![museum interior, statues, canopic jars and artefacts]({{ site.baseurl }}{{site.img_path}}travel/egypt/cairo/cairo4.jpg){: width="100%"}
 
 #### Museum's interior | Colossal statues | Pyramid tip in basalt | Anubis statue | Canopic jars | Various coffins | Amulets depicting gods
@@ -34,7 +35,9 @@ After Tutankhamun, the most well known sarcophagi in the museum are those of the
 Perhaps some of the most beautiful moments in Cairo happen after nightfall. The city comes alive as the sun comes down and every sacred building is wrapped up in lights. They sparkle like jewels in the vastness of the night.
 
 ![sunset over cityscape]({{ site.baseurl }}{{site.img_path}}travel/egypt/cairo/cairo7.jpg){: width="100%"}
+
 ![mosque at night]({{ site.baseurl }}{{site.img_path}}travel/egypt/cairo/cairo8.jpg){: width="100%"}
+
 ![mosque at night]({{ site.baseurl }}{{site.img_path}}travel/egypt/cairo/cairo9.jpg){: width="100%"}
 
 #### Sunset over Cairo | Muhammad Ali Mosque at night | Madrasa of Umm al-Sultan Sha'ban
