@@ -8,7 +8,7 @@ categories: festive
 
 **Serves 6-8 boxes**
 
-**Linzer Biscuits**
+### Linzer Biscuits
 
 ## Ingredients
 
@@ -40,7 +40,7 @@ categories: festive
 1. Spoon a teaspoon of jam onto the centre of each biscuit and top with the cutout biscuits.
 1. Dust with powdered sugar.
 
-**Icebox Biscuits**
+### Icebox Biscuits
 
 ## Ingredients
 
@@ -72,7 +72,7 @@ categories: festive
 
 Alternatively, you can cut out the chocolate and vanilla doughs separately. Bake them and dip in chocolate and ground nuts or toasted shredded coconut. They can be decorated in many different ways.
 
-**Walnut Biscuits**
+### Walnut Biscuits
 
 ## Ingredients
 
@@ -94,6 +94,6 @@ Alternatively, you can cut out the chocolate and vanilla doughs separately. Bake
 1. Bake for 15 minutes.
 1. Let cool and coat in powdered sugar.
 
-**Gingerbread biscuits**
+### Gingerbread biscuits
 
 Check out my Gingerbread House recipe.
