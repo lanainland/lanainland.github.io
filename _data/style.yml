@@ -97,8 +97,8 @@ next-post-weight: "bold"
 text-highlight: "#EB998E"
 ## Links
 link-colour: "#EB998E"
-link-hover-dim: "10%" 
-## Body (no #) - General text 
+link-hover-dim: "10%"
+## Body (no #) - General text
 body-colour: "#565656"
 body-font-family: "'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'"
 body-font-size-mobile: "1em"
@@ -144,4 +144,3 @@ btt-colour: "#565656"
 btt-hov-colour: "#EB998E"
 btt-act: "#FCC3B0"
 btt-size: "20px"
-
