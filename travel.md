@@ -1,7 +1,7 @@
 ---
 layout: section
 title: Travel
-tagline: Pictures and stories from around the world
+tagline: Visual stories from around the world
 image: travel/travel.jpg
 categories: [Egypt, France, Italy, Japan]
 post_dir: travel_posts
