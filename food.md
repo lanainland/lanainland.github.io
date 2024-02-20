@@ -1,8 +1,8 @@
 ---
 layout: section
 title: Food
-tagline: Yummy stuff to eat and drink
-image: food/savouries/fig_salad.jpg
+tagline: Palate pleasers for eating enthusiasts
+image: food/food.jpg
 categories: [savouries, sweets, drinks, festive]
 post_dir: food_posts
 savouries: Breads, starters, mains and more

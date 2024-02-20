@@ -1,7 +1,7 @@
 ---
 layout: section
 title: Design and DIY
-tagline: Things I have made
+tagline: Handmade embellishments
 image: design_and_diy/design.jpg
 categories: [furniture, crochet, sewing]
 post_dir: design_and_diy_posts
